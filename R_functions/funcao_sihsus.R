@@ -1,21 +1,15 @@
-### Função para download das bases do vigitel pelo site oficial.
-### O único argumento de entrada é o ano que deseja o download. É possível inserir um vetor de anos que também funcionará.
-### Os dados serão inseridos em uma pasta que será criada no diretório de trabalho chamada "Vigitel".
-### Os objetos serão do tipo 'tbl_df' e já estarão nomeados de acordo.
-### carrega a função:
-  
 
   sihsus_download <-
   
   function(anos, meses, UF){
-    
-    #dependências    
+     
+    #dependências >>> tem que ver a dependência para instalar o jdk8 automático caso precise.
     if(!require(read.dbc)) {
       install.packages("read.dbc")
     }
     if(!require(sparklyr)) {
       install.packages("sparklyr")
-      # sparklyr::spark_install() # pode ser que tenha que implementar uma autoinstalação do Spark caso a pessoa já tenha baixado o java 8 por fora.
+      sparklyr::spark_install() 
     }
     if(!require(parallel)) {
       install.packages("parallel")
