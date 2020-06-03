@@ -1,3 +1,3 @@
-# Tools for Easy Suervey Application (TESA) 
+# Tools for Easy Survey Application (TESA) 
 *GeoTracker*
 
