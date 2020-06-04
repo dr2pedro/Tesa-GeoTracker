@@ -1,6 +1,6 @@
 
 get_polygons <- 
-function(regioes, whitelist=NULL) {
+function(regioes, alias_list=NULL) {
   
   if(!require(jsonlite)) {
     install.packages("jsonlite")
@@ -14,30 +14,31 @@ function(regioes, whitelist=NULL) {
   
   nomes <- unique(regioes)
 
-  # a ideia da whitelist é ter um data.frame controle no qual quando determinado nome aparece que sabidamente não vai retornar o polígono
+  # a ideia da alias_list é ter um data.frame controle no qual quando determinado nome aparece que sabidamente não vai retornar o polígono
   # desejado ele será trocado por um nome que retorne o polígono correto. Caso o usuário tenha a sua lista ele pode usar,
-  # caso contrário ao longo de atualizações essa lista será confeccionada em uso.
+  # caso contrário uma lista padrão será fornecida, inicialmente apenas com municípios, posteriormente com bairros e microrregiões,
+  # vale ressaltar que para UF e países não existe esse tipo de erro.
 
-    if(!is.null(whitelist)){
+    if(!is.null(alias_list)){
       
-      if(is.data.frame(whitelist)!=TRUE)
-      stop("o objeto escolhido não é um data.frame")
+      if(is.data.frame(alias_list)!=TRUE)
+      stop("o objeto escolhido como alias list não é um data.frame")
 
-      if(ncol(whitelist)>2)
-      stop("apenas duas colunas no data.frame são o suficiente: uma contendo o nome real e uma contendo o nome a ser trocado")
+      if(ncol(alias_list)!=2)
+      stop("tem que ter duas colunas no data.frame: uma contendo o nome real e uma contendo o nome a ser trocado")
 
-      if(is.character(whitelist[,1])!=TRUE)
+      if(is.character(alias_list[,1])!=TRUE)
       stop("a primeira coluna não é de caractéres")
 
-      if(is.character(whitelist[,2])!=TRUE)
+      if(is.character(alias_list[,2])!=TRUE)
       stop("a segunda coluna não é de caractéres")
 
-      whitelist = whitelist
+      alias_list = alias_list
 
-      nomes <- ifelse(nomes %in% whitelist[,1]==TRUE, whitelist[,2], nomes)
+      nomes <- ifelse(nomes %in% alias_list[,1]==TRUE, alias_list[,2], nomes)
       } else {
-        whitelist <- read.csv('whitelist.csv') # tem que implementar isso remoto, para ninguém deletar o arquivo localmente
-        nomes <- ifelse(nomes %in% whitelist[,1]==TRUE, whitelist[,2], nomes)
+        alias_list <- read.csv('alias_list.csv') # tem que implementar isso remoto, para ninguém deletar o arquivo localmente
+        nomes <- ifelse(nomes %in% alias_list[,1]==TRUE, alias_list[,2], nomes)
       }
 
 
@@ -51,7 +52,7 @@ for (i in 1:length(regioes)) {
          Polygons(
          list(
          Polygon(matrix(unlist(read_json(querys[i])[["features"]][[1]][["geometry"]][["coordinates"]]),ncol=2, byrow = TRUE))
-         ),nomes[i])) # agora não importa o índice 1 já que a whitelist tem que dar conta disso.
+         ),nomes[i]))
            
 }
 
