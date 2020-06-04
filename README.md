@@ -5,7 +5,7 @@ A ideia inicial do projeto é que ele possa reunir ferramentas auxiliem o pesqui
 *GeoTracker*
 
 Por vezes, em uma pesquisa é necessário definir geograficamente cada dado inserido a partir de alguma informação pré-existente. Esse processo é conhecido como **geocodificação** e diversas ferramentas estão disponíveis para isso, entretando a maioria delas impõe um limite a esse processo, seja no número de solitações, ou na taxa de transferência de dados.
-A princípio esse projeto precisa permitir que seja possível:
-- Obter informações sobre *latitude* e *longitude* a partir de um endereço, sem limites de solicitações e de preferência usando a maior parte da capacidade funcional disponível;
+A princípio, esse projeto precisa permitir que seja possível:
+- Obter informações sobre *latitude* e *longitude* a partir de um endereço, sem limites de solicitações e de preferência usando a maior parte da capacidade computacional disponível;
  - Obter precisamente os *polígonos* de áreas como bairros ou municípios a partir dos nomes.
  
