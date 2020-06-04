@@ -3,7 +3,7 @@
   
   function(anos, meses, UF){
      
-    #dependências >>> tem que ver a dependência para instalar o jdk8 automático caso precise.
+    #dependências     tem que ver a dependência para instalar o jdk8 automático caso precise.
     if(!require(read.dbc)) {
       install.packages("read.dbc")
     }
