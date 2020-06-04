@@ -12,7 +12,7 @@ function(regioes, alias_list=NULL) {
     install.packages("geojsonio")
   }
   
-  nomes <- unique(regioes)
+nomes <- unique(regioes)
 
   # a ideia da alias_list é ter um data.frame controle no qual quando determinado nome aparece que sabidamente não vai retornar o polígono
   # desejado ele será trocado por um nome que retorne o polígono correto. Caso o usuário tenha a sua lista ele pode usar,
@@ -42,9 +42,10 @@ function(regioes, alias_list=NULL) {
       }
 
 
-  nomes_temp <- str_replace_all(nomes, ' ', '%20')
-  querys <- paste0("http://localhost:7070/search?q=", nomes_temp, "&format=geojson&polygon_geojson=1")
-  nomes <- unique(regioes)
+  
+nomes_temp <- str_replace_all(nomes, ' ', '%20')
+querys <- paste0("http://localhost:7070/search?q=", nomes_temp, "&format=geojson&polygon_geojson=1")
+nomes <- unique(regioes)
 
 for (i in 1:length(regioes)) {  
      
