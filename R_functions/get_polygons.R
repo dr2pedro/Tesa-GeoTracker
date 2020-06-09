@@ -46,9 +46,9 @@ nomes <- unique(regioes)
 
 
   
-nomes_temp <- str_replace_all(unlist(nomes, ' ', '%20'))
+nomes_temp <- str_replace_all(unlist(nomes), ' ', '%20')
 querys <- paste0("http://localhost:7070/search?q=", nomes_temp, "&format=geojson&polygon_geojson=1")
-nomes <- unique(regioes)
+nomes <- unlist(unique(regioes))
 
 for (i in 1:length(regioes)) {  
      
