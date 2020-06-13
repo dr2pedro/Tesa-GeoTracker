@@ -18,9 +18,9 @@ function(regioes, alias_list=NULL) {
     install.packages("stringi")
   }
 
-nomes <- toupper(unique(regioes))
+  nomes <- toupper(unique(regioes))
 
-nomes <- stri_trans_general(str = nomes, id = "Latin-ASCII")
+  nomes <- stri_trans_general(str = nomes, id = "Latin-ASCII")
 
   if(length(nomes)!=length(regioes))
   stop("Existem nomes repetidos no array. Esses nomes devem ser substituidos pelo nome (referência da divisão geográfica superior), por exemplo:\n\nMESQUITA (RIO DE JANEIRO)\nMESQUITA (MINAS GERAIS).\n
@@ -35,10 +35,10 @@ nomes <- stri_trans_general(str = nomes, id = "Latin-ASCII")
     if(!is.null(alias_list)){
       
       if(is.data.frame(alias_list)!=TRUE)
-      stop("o objeto escolhido como alias_list não é um data.frame")
+      stop("O objeto escolhido como alias_list não é um data.frame.")
 
       if(ncol(alias_list)!=2)
-      stop("tem que ter duas colunas no data.frame: uma contendo o nome real e uma contendo o nome a ser trocado")
+      stop("Tem que ter duas colunas no data.frame: uma contendo o nome real e uma contendo o nome a ser trocado.")
 
       alias_list = alias_list
       
@@ -62,7 +62,10 @@ nomes <- stri_trans_general(str = nomes, id = "Latin-ASCII")
 
   
 nomes_temp <- str_replace_all(unlist(nomes), ' ', '%20')
-querys <- paste0("http://localhost:7070/search?city=", nomes_temp, "&format=geojson&polygon_geojson=1")
+querys <- paste0("http://localhost:7070/search?q=", nomes_temp, "&format=geojson&polygon_geojson=1")
+
+# MONTE CARMELO,MONTE CARMELO tem que pegar de fora esse monte carmelo
+
 
 nomes <- toupper(unique(regioes))
 
@@ -76,7 +79,7 @@ for (i in 1:length(nomes)) {
          Polygon(matrix(unlist(read_json(querys[i])[["features"]][[1]][["geometry"]][["coordinates"]]),ncol=2, byrow = TRUE))
          ),nomes[i]))
            
-}
+  }
 
 
   poligonos <- NULL  
