@@ -61,25 +61,28 @@ function(regioes, alias_list=NULL) {
 
 
   
-nomes_temp <- str_replace_all(unlist(nomes), ' ', '%20')
-querys <- paste0("http://localhost:7070/search?q=", nomes_temp, "&format=geojson&polygon_geojson=1")
+  nomes_temp <- str_replace_all(unlist(nomes), ' ', '%20')
+  querys <- paste0("http://localhost:7070/search?q=", nomes_temp, "&format=geojson&polygon_geojson=1")
 
-# MONTE CARMELO,MONTE CARMELO tem que pegar de fora esse monte carmelo
+  querys[nomes=="MONTE CARMELO"] <- "https://nominatim.openstreetmap.org/search?q=MONTE%20CARMELO&format=geojson&polygon_geojson=1"
+  querys[nomes=="CORUMBATAI"] <- "https://nominatim.openstreetmap.org/search?q=CORUMBATAI&format=geojson&polygon_geojson=1"
+  
+  # MONTE CARMELO,MONTE CARMELO tem que pegar de fora esse monte carmelo. corumbatai
 
 
-nomes <- toupper(unique(regioes))
+  nomes <- toupper(unique(regioes))
 
-nomes <- stri_trans_general(str = nomes, id = "Latin-ASCII")
+  nomes <- stri_trans_general(str = nomes, id = "Latin-ASCII")
 
-for (i in 1:length(nomes)) {  
+  for (i in 1:length(nomes)) {  
      
-  assign(nomes[i],
-         Polygons(
-         list(
-         Polygon(matrix(unlist(read_json(querys[i])[["features"]][[1]][["geometry"]][["coordinates"]]),ncol=2, byrow = TRUE))
-         ),nomes[i]))
-           
-  }
+      assign(nomes[i],
+             Polygons(
+             list(
+             Polygon(matrix(unlist(read_json(querys[i])[["features"]][[1]][["geometry"]][["coordinates"]]),ncol=2, byrow = TRUE))
+             ),nomes[i]))
+               
+      }
 
 
   poligonos <- NULL  
@@ -87,11 +90,11 @@ for (i in 1:length(nomes)) {
           poligonos[i] <- list(get(nomes[i]))
         }
   
-assign('poligonos',
-       SpatialPolygons(poligonos),
-       envir = .GlobalEnv)
-  
-}
+  assign('poligonos',
+         SpatialPolygons(poligonos),
+         envir = .GlobalEnv)
+    
+  }
 
 
 
