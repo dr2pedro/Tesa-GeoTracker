@@ -14,8 +14,13 @@ function(regioes, alias_list=NULL) {
   if(!require(sp)) {
     install.packages("sp")
   }
+  if(!require(stringi)) {
+    install.packages("stringi")
+  }
 
 nomes <- toupper(unique(regioes))
+
+nomes <- stri_trans_general(str = nomes, id = "Latin-ASCII")
 
   if(length(nomes)!=length(regioes))
   stop("Existem nomes repetidos no array. Esses nomes devem ser substituidos pelo nome (referência da divisão geográfica superior), por exemplo:\n\nMESQUITA (RIO DE JANEIRO)\nMESQUITA (MINAS GERAIS).\n
@@ -57,9 +62,11 @@ nomes <- toupper(unique(regioes))
 
   
 nomes_temp <- str_replace_all(unlist(nomes), ' ', '%20')
-querys <- paste0("http://localhost:7070/search?q=", nomes_temp, "&format=geojson&polygon_geojson=1")
+querys <- paste0("http://localhost:7070/search?city=", nomes_temp, "&format=geojson&polygon_geojson=1")
 
-nomes<- unique(regioes)
+nomes <- toupper(unique(regioes))
+
+nomes <- stri_trans_general(str = nomes, id = "Latin-ASCII")
 
 for (i in 1:length(nomes)) {  
      
