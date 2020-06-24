@@ -1,5 +1,5 @@
 
-get_polygons <- 
+get_polygons.counties <- 
 function(regioes, alias_list=NULL) {
   
   if(!require(jsonlite)) {
