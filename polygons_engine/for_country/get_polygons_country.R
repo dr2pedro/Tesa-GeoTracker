@@ -97,13 +97,22 @@ function(country, alias_list=NULL, delete_cache=TRUE) {
 
   }
 
+#### estrutura do subset quando vem do ibge
+### Subset <- rj@polygons[[1]]
+### Subset2 <- outro@polygons[[1]]
+
+### estrutura do merge dos polígonos. Tem que implementar a opção de não mergir para países, já que podem ser estudos de países não vizinhos
+
+### poligonos <- list(Subset,Subset2)
 
 
+### assign('poligonos',
+###        SpatialPolygons(poligonos),
+###        envir = .GlobalEnv)
 
 
-
-
-
+### pacotes mínimos para rodar geojsonio:       rgdal e sf
+### dependências do linux:                      libprotobuf-dev protobuf-compiler libjq-dev libv8-dev libprotobuf-dev gdal-bin libgdal-dev
 
 
 
