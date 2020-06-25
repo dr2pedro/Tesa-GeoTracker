@@ -50,8 +50,8 @@ function(country, alias_list=NULL) {
       }
 
 
-  dir.create('./download_temp')
-  setwd('./download_temp')
+  dir.create('./cache')
+  setwd('./cache')
 
 
       for(i in 1:length(names)) {
@@ -66,8 +66,7 @@ function(country, alias_list=NULL) {
             )               
         }
 
-  setwd("..")
-  unlink('./download_temp', recursive=TRUE)    
+  setwd("..") 
 
   }
 
