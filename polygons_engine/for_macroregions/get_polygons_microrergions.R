@@ -1,100 +1,119 @@
-
 get_polygons.microregions <- 
-function(regioes, alias_list=NULL) {
+function(regions, alias_list=NULL, delete_cache=TRUE, aggregate=TRUE) {
   
-  if(!require(jsonlite)) {
-    install.packages("jsonlite")
-  }
-  if(!require(tidyverse)) {
-    install.packages("tidyverse")
-  }
-  if(!require(geojsonio)) {
-    install.packages("geojsonio")
-  }
-  if(!require(sp)) {
-    install.packages("sp")
-  }
-  if(!require(stringi)) {
-    install.packages("stringi")
-  }
+      if(!require(geojsonio)) {
+        install.packages("geojsonio")
+      }
+      if(!require(stringi)) {
+        install.packages("stringi")
+      }
+      if(!require(sp)) {
+        install.packages("sp")
+      }
 
-  nomes <- toupper(unique(regioes))
+  names <- toupper(unique(regions))
+  names <- stri_trans_general(str = names, id = "Latin-ASCII")
 
-  nomes <- stri_trans_general(str = nomes, id = "Latin-ASCII")
+  if(length(names)!=length(regions))
+  warning("There are repeated names in the array. This function will consider only the unique values.")
 
-  if(length(nomes)!=length(regioes))
-  stop("Existem nomes repetidos no array. Esses nomes devem ser substituidos pelo nome (referência da divisão geográfica superior), por exemplo:\n\nMESQUITA (RIO DE JANEIRO)\nMESQUITA (MINAS GERAIS).\n
-       Lembre-se de incluir os nomes desses municípios na alias_list caso o polígono não seja retornado corretamente.")
+# Alias_list is a data.frame of names accepted to be inserted and that this function will return a spatial object.
+# In the first column you should put the name that could be written by anyone to refer a regions, including 
+# acronyms. Remember that all names will be coverted to upper case and removed accent. 
 
+      if(!is.null(alias_list)){
+          
+          if(is.data.frame(alias_list)!=TRUE)
+          stop("The class of the object is not data.frame.")
 
-  # a ideia da alias_list é ter um data.frame controle no qual quando determinado nome aparece que sabidamente não vai retornar o polígono
-  # desejado ele será trocado por um nome que retorne o polígono correto. Caso o usuário tenha a sua lista ele pode usar,
-  # caso contrário uma lista padrão será fornecida, inicialmente apenas com municípios, posteriormente com bairros e microrregiões,
-  # vale ressaltar que para UF e países não existe esse tipo de erro.
+          alias_list = alias_list
+          
+          if(is.character(alias_list[,1])!=TRUE)
+          alias_list[,1]=as.character(alias_list[,1])
 
-    if(!is.null(alias_list)){
-      
-      if(is.data.frame(alias_list)!=TRUE)
-      stop("O objeto escolhido como alias_list não é um data.frame.")
-
-      if(ncol(alias_list)!=2)
-      stop("Tem que ter duas colunas no data.frame: uma contendo o nome real e uma contendo o nome a ser trocado.")
-
-      alias_list = alias_list
-      
-      if(is.character(alias_list[,1])!=TRUE)
-      alias_list[,1]=as.character(alias_list[,1])
-
-      if(is.character(alias_list[,2])!=TRUE)
-      alias_list[,2]=as.character(alias_list[,2])
-      
-
-      nomes <- ifelse(nomes %in% alias_list[,1]==TRUE, alias_list[,2], nomes)
-      } else {
-        alias_list <- read.csv('alias_list.csv', header = FALSE)
-        
-        alias_list[,1]=as.character(alias_list[,1])
-        alias_list[,2]=as.character(alias_list[,2])
-        
-        nomes <- ifelse(nomes %in% alias_list[,1]==TRUE, alias_list[,2], nomes)
+          if(is.character(alias_list[,2])!=TRUE)
+          alias_list[,2]=as.character(alias_list[,2])
+          
+          if(is.character(alias_list[,3])!=TRUE)
+          alias_list[,3]=as.character(alias_list[,3])
+          
+          names <- ifelse(names %in% alias_list[,1]==TRUE, alias_list[,2], names)
+    } else {
+          alias_list <- read.csv('alias_list.csv', header = FALSE)
+          
+          alias_list[,1]=as.character(alias_list[,1])
+          alias_list[,2]=as.character(alias_list[,2])
+          alias_list[,3]=as.character(alias_list[,3])
+          
+          names <- ifelse(names %in% alias_list[,1]==TRUE, alias_list[,2], names)
       }
 
 
+ ## if there is a cache folder with some of json files already available, it should download only those who is missing. Remember that you can delete the cache folder in the
+ ## delete_cache parameter. 
   
-  nomes_temp <- str_replace_all(unlist(nomes), ' ', '%20')
-  querys <- paste0("http://localhost:7070/search?q=", nomes_temp, "&format=geojson&polygon_geojson=1")
-
-  querys[nomes=="MONTE CARMELO"] <- "https://nominatim.openstreetmap.org/search?q=MONTE%20CARMELO&format=geojson&polygon_geojson=1"
-  querys[nomes=="CORUMBATAI"] <- "https://nominatim.openstreetmap.org/search?q=CORUMBATAI&format=geojson&polygon_geojson=1"
-  
-  # MONTE CARMELO,MONTE CARMELO tem que pegar de fora esse monte carmelo. corumbatai
-
-
-  nomes <- toupper(unique(regioes))
-
-  nomes <- stri_trans_general(str = nomes, id = "Latin-ASCII")
-
-  for (i in 1:length(nomes)) {  
+  if('cache'%in% dir()) {
+    
+    setwd('./cache')
+    
+    for(i in 1:length(names)) {
+      if(!paste0(names[i],'.json') %in% dir()) {
+            download.file(alias_list[i,3], paste0(names[i],'.json'))
+                  }
+          }
+    
+  } else {
      
-      assign(nomes[i],
-             Polygons(
-             list(
-             Polygon(matrix(unlist(read_json(querys[i])[["features"]][[1]][["geometry"]][["coordinates"]]),ncol=2, byrow = TRUE))
-             ),nomes[i]))
-               
-      }
-
-
-  poligonos <- NULL  
-      for (i in 1:length(nomes))  {
-          poligonos[i] <- list(get(nomes[i]))
+    dir.create('./cache')
+    setwd('./cache')
+    
+        for(i in 1:length(names)) {
+        download.file(alias_list[i,3], paste0(names[i],'.json'))
+                  }   
+  
+    }
+  
+  
+  
+  ## reading the files as Spatial Polygon Data.frame.     
+  
+      for (i in 1:length(names)) {  
+          assign(names[i],
+            geojson_read(paste0(names[i],'.json'), what = 'sp'),
+            envir = .GlobalEnv
+            )               
         }
   
-  assign('poligonos',
-         SpatialPolygons(poligonos),
-         envir = .GlobalEnv)
-    
+  setwd("..") 
+  
+  ## whipe off the cache folder
+  
+  if(isTRUE(delete_cache)==TRUE)
+  unlink('./cache', recursive=TRUE)    
+
   }
+
+
+
+
+
+
+#### estrutura do subset quando vem do ibge
+### Subset <- rj@polygons[[1]]
+### Subset2 <- outro@polygons[[1]]
+
+### estrutura do merge dos polígonos. Tem que implementar a opção de não mergir para países, já que podem ser estudos de países não vizinhos
+
+### poligonos <- list(Subset,Subset2)
+
+
+### assign('poligonos',
+###        SpatialPolygons(poligonos),
+###        envir = .GlobalEnv)
+
+
+### pacotes mínimos para rodar geojsonio:       rgdal e sf
+### dependências do linux:                      libprotobuf-dev protobuf-compiler libjq-dev libv8-dev libprotobuf-dev gdal-bin libgdal-dev
 
 
 

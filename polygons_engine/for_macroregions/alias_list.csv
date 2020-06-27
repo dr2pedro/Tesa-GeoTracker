@@ -1,0 +1,5 @@
+Norte,NORTE,https://servicodados.ibge.gov.br/api/v2/malhas/1?resolucao=1&formato=application/vnd.geo+json
+Nordeste,NORDESTE,https://servicodados.ibge.gov.br/api/v2/malhas/2?resolucao=1&formato=application/vnd.geo+json
+Sul,SUL,https://servicodados.ibge.gov.br/api/v2/malhas/4?resolucao=1&formato=application/vnd.geo+json
+Sudeste,SUDESTE,https://servicodados.ibge.gov.br/api/v2/malhas/3?resolucao=1&formato=application/vnd.geo+json
+Centro-oeste,CENTRO-OESTE,https://servicodados.ibge.gov.br/api/v2/malhas/5?resolucao=1&formato=application/vnd.geo+json
