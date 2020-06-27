@@ -38,6 +38,14 @@ function(country, alias_list=NULL, delete_cache=TRUE) {
           if(is.character(alias_list[,3])!=TRUE)
           alias_list[,3]=as.character(alias_list[,3])
           
+          if(all(country%in%alias_list[,1])==FALSE)
+          stop(
+            paste(
+              "The following country \n\n",
+            country[!country%in%alias_list[,1]], 
+            "\n\n is not defined in the alias list, please edit alias_list.csv file and include this region with a link to download the geojson."
+            )
+          )
           names <- ifelse(names %in% alias_list[,1]==TRUE, alias_list[,2], names)
     } else {
           alias_list <- read.csv('alias_list.csv', header = FALSE)
@@ -46,6 +54,15 @@ function(country, alias_list=NULL, delete_cache=TRUE) {
           alias_list[,2]=as.character(alias_list[,2])
           alias_list[,3]=as.character(alias_list[,3])
           
+          if(all(country%in%alias_list[,1])==FALSE)
+          stop(
+            paste(
+              "The following country \n\n",
+            country[!country%in%alias_list[,1]], 
+            "\n\n is not defined in the alias list, please edit alias_list.csv file and include this region with a link to download the geojson."
+            )
+          )
+
           names <- ifelse(names %in% alias_list[,1]==TRUE, alias_list[,2], names)
       }
 
@@ -89,7 +106,7 @@ function(country, alias_list=NULL, delete_cache=TRUE) {
   
   ## whipe off the cache folder
   
-  if(isTRUE(delete_cache)==TRUE)
+  if(isTRUE(delete_cache))
   unlink('./cache', recursive=TRUE)    
 
   }

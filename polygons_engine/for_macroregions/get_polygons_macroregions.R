@@ -1,4 +1,4 @@
-get_polygons.microregions <- 
+get_polygons.macroregions <- 
 function(regions, alias_list=NULL, delete_cache=TRUE, aggregate=TRUE) {
   
       if(!require(geojsonio)) {
@@ -37,6 +37,15 @@ function(regions, alias_list=NULL, delete_cache=TRUE, aggregate=TRUE) {
           if(is.character(alias_list[,3])!=TRUE)
           alias_list[,3]=as.character(alias_list[,3])
           
+          if(all(regions%in%alias_list[,1])==FALSE)
+          stop(
+            paste(
+              "The following regions \n\n",
+            regions[!regions%in%alias_list[,1]], 
+            "\n\n is not defined in the alias list, please edit alias_list.csv file and include this region with a link to download the geojson."
+            )
+          )
+          
           names <- ifelse(names %in% alias_list[,1]==TRUE, alias_list[,2], names)
     } else {
           alias_list <- read.csv('alias_list.csv', header = FALSE)
@@ -44,6 +53,15 @@ function(regions, alias_list=NULL, delete_cache=TRUE, aggregate=TRUE) {
           alias_list[,1]=as.character(alias_list[,1])
           alias_list[,2]=as.character(alias_list[,2])
           alias_list[,3]=as.character(alias_list[,3])
+          
+          if(all(regions%in%alias_list[,1])==FALSE)
+            stop(
+              paste(
+                "The following regions \n\n",
+                names[!names%in%alias_list[,1]], 
+                "\n\n is not defined in the alias list, please edit alias_list.csv file and include this region with a link to download the geojson."
+              )
+            )
           
           names <- ifelse(names %in% alias_list[,1]==TRUE, alias_list[,2], names)
       }
@@ -74,42 +92,60 @@ function(regions, alias_list=NULL, delete_cache=TRUE, aggregate=TRUE) {
     }
   
   
+  ## defining a object to store all polygons 
   
-  ## reading the files as Spatial Polygon Data.frame.     
+  macroregions_polygons <- NULL  
+  
+  
+  ## reading the files as Spatial Polygon 
   
       for (i in 1:length(names)) {  
-          assign(names[i],
-            geojson_read(paste0(names[i],'.json'), what = 'sp'),
-            envir = .GlobalEnv
-            )               
+          
+        assign(names[i],
+            geojson_read(paste0(names[i],'.json'), what = 'sp')@polygons[[1]],
+            envir = .GlobalEnv)
+        
+        macroregions_polygons[i] <- list(get(names[i]))
+        
         }
+        
+      for (i in 1:length(macroregions_polygons)){
+        slot(macroregions_polygons[[i]], "ID") = names[[i]]
+      }
   
+      assign('macroregions_polygons',
+             SpatialPolygons(macroregions_polygons),
+             envir = .GlobalEnv)
+      
+      rm(list = names, envir = .GlobalEnv)
+  
+      
+      
   setwd("..") 
+  
   
   ## whipe off the cache folder
   
-  if(isTRUE(delete_cache)==TRUE)
+  if(isTRUE(delete_cache))
   unlink('./cache', recursive=TRUE)    
 
+  ## separating all polygons as individual objects if is FALSE aggregate
+  if(isFALSE(aggregate)){
+    
+    for (i in 1:length(names)) {
+        
+          assign(names[i],
+               macroregions_polygons[[i]],
+               envir = .GlobalEnv)
+        }
+    
+    
+    rm(macroregions_polygons, envir = .GlobalEnv)
+      
   }
+  
+}
 
-
-
-
-
-
-#### estrutura do subset quando vem do ibge
-### Subset <- rj@polygons[[1]]
-### Subset2 <- outro@polygons[[1]]
-
-### estrutura do merge dos polígonos. Tem que implementar a opção de não mergir para países, já que podem ser estudos de países não vizinhos
-
-### poligonos <- list(Subset,Subset2)
-
-
-### assign('poligonos',
-###        SpatialPolygons(poligonos),
-###        envir = .GlobalEnv)
 
 
 ### pacotes mínimos para rodar geojsonio:       rgdal e sf
