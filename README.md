@@ -1,11 +1,3 @@
-# Tools for Easy Survey Application (TESA)
+To explain things first, TESA means Tools for Easy Survey Applications. The idea is that it would improve the job of Reseachers by doing some of the tasks that are necessary to make articles, as for example, get maps to spatial analysis or build forms for collect the data.
 
-A ideia inicial do projeto é que ele possa reunir ferramentas auxiliem o pesquisador ou a equipe de pesquisa na coleta de dados e na divulgação inicial dos achados. 
-
-*GeoTracker*
-
-Por vezes, em uma pesquisa é necessário definir geograficamente cada dado inserido a partir de alguma informação pré-existente. Esse processo é conhecido como **geocodificação** e diversas ferramentas estão disponíveis para isso, entretando a maioria delas impõe um limite a esse processo, seja no número de solitações, ou na taxa de transferência de dados.
-A princípio, esse projeto precisa permitir que seja possível:
-- Obter informações sobre *latitude* e *longitude* a partir de um endereço, sem limites de solicitações e de preferência usando a maior parte da capacidade computacional disponível;
- - Obter precisamente os *polígonos* de áreas como bairros ou municípios a partir dos nomes.
- 
+In this repository the objetive is build some of the features needed for spatial research, for that, is needed to think about locate some point with latitude and longitude in some map, getting the border of counties, states or countries, identify the actual position of the researcher and so on.
