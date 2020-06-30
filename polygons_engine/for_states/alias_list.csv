@@ -1,81 +1,81 @@
-11;Rondônia;https://servicodados.ibge.gov.br/api/v2/malhas/11
-12;Acre;https://servicodados.ibge.gov.br/api/v2/malhas/12
-13;Amazonas;https://servicodados.ibge.gov.br/api/v2/malhas/13
-14;Roraima;https://servicodados.ibge.gov.br/api/v2/malhas/14
-15;Pará;https://servicodados.ibge.gov.br/api/v2/malhas/15
-16;Amapá;https://servicodados.ibge.gov.br/api/v2/malhas/16
-17;Tocantins;https://servicodados.ibge.gov.br/api/v2/malhas/17
-21;Maranhão;https://servicodados.ibge.gov.br/api/v2/malhas/21
-22;Piauí;https://servicodados.ibge.gov.br/api/v2/malhas/22
-23;Ceará;https://servicodados.ibge.gov.br/api/v2/malhas/23
-24;Rio Grande do Norte;https://servicodados.ibge.gov.br/api/v2/malhas/24
-25;Paraíba;https://servicodados.ibge.gov.br/api/v2/malhas/25
-26;Pernambuco;https://servicodados.ibge.gov.br/api/v2/malhas/26
-27;Alagoas;https://servicodados.ibge.gov.br/api/v2/malhas/27
-28;Sergipe;https://servicodados.ibge.gov.br/api/v2/malhas/28
-29;Bahia;https://servicodados.ibge.gov.br/api/v2/malhas/29
-31;Minas Gerais;https://servicodados.ibge.gov.br/api/v2/malhas/31
-32;Espírito Santo;https://servicodados.ibge.gov.br/api/v2/malhas/32
-33;Rio de Janeiro;https://servicodados.ibge.gov.br/api/v2/malhas/33
-35;São Paulo;https://servicodados.ibge.gov.br/api/v2/malhas/35
-41;Paraná;https://servicodados.ibge.gov.br/api/v2/malhas/41
-42;Santa Catarina;https://servicodados.ibge.gov.br/api/v2/malhas/42
-43;Rio Grande do Sul;https://servicodados.ibge.gov.br/api/v2/malhas/43
-50;Mato Grosso do Sul;https://servicodados.ibge.gov.br/api/v2/malhas/50
-51;Mato Grosso;https://servicodados.ibge.gov.br/api/v2/malhas/51
-52;Goiás;https://servicodados.ibge.gov.br/api/v2/malhas/52
-53;Distrito Federal;https://servicodados.ibge.gov.br/api/v2/malhas/53
-Rondônia;Rondônia;https://servicodados.ibge.gov.br/api/v2/malhas/11
-Acre;Acre;https://servicodados.ibge.gov.br/api/v2/malhas/12
-Amazonas;Amazonas;https://servicodados.ibge.gov.br/api/v2/malhas/13
-Roraima;Roraima;https://servicodados.ibge.gov.br/api/v2/malhas/14
-Pará;Pará;https://servicodados.ibge.gov.br/api/v2/malhas/15
-Amapá;Amapá;https://servicodados.ibge.gov.br/api/v2/malhas/16
-Tocantins;Tocantins;https://servicodados.ibge.gov.br/api/v2/malhas/17
-Maranhão;Maranhão;https://servicodados.ibge.gov.br/api/v2/malhas/21
-Piauí;Piauí;https://servicodados.ibge.gov.br/api/v2/malhas/22
-Ceará;Ceará;https://servicodados.ibge.gov.br/api/v2/malhas/23
-Rio Grande do Norte;Rio Grande do Norte;https://servicodados.ibge.gov.br/api/v2/malhas/24
-Paraíba;Paraíba;https://servicodados.ibge.gov.br/api/v2/malhas/25
-Pernambuco;Pernambuco;https://servicodados.ibge.gov.br/api/v2/malhas/26
-Alagoas;Alagoas;https://servicodados.ibge.gov.br/api/v2/malhas/27
-Sergipe;Sergipe;https://servicodados.ibge.gov.br/api/v2/malhas/28
-Bahia;Bahia;https://servicodados.ibge.gov.br/api/v2/malhas/29
-Minas Gerais;Minas Gerais;https://servicodados.ibge.gov.br/api/v2/malhas/31
-Espírito Santo;Espírito Santo;https://servicodados.ibge.gov.br/api/v2/malhas/32
-Rio de Janeiro;Rio de Janeiro;https://servicodados.ibge.gov.br/api/v2/malhas/33
-São Paulo;São Paulo;https://servicodados.ibge.gov.br/api/v2/malhas/35
-Paraná;Paraná;https://servicodados.ibge.gov.br/api/v2/malhas/41
-Santa Catarina;Santa Catarina;https://servicodados.ibge.gov.br/api/v2/malhas/42
-Rio Grande do Sul;Rio Grande do Sul;https://servicodados.ibge.gov.br/api/v2/malhas/43
-Mato Grosso do Sul;Mato Grosso do Sul;https://servicodados.ibge.gov.br/api/v2/malhas/50
-Mato Grosso;Mato Grosso;https://servicodados.ibge.gov.br/api/v2/malhas/51
-Goiás;Goiás;https://servicodados.ibge.gov.br/api/v2/malhas/52
-Distrito Federal;Distrito Federal;https://servicodados.ibge.gov.br/api/v2/malhas/53
-RO;Rondônia;https://servicodados.ibge.gov.br/api/v2/malhas/11
-AC;Acre;https://servicodados.ibge.gov.br/api/v2/malhas/12
-AM;Amazonas;https://servicodados.ibge.gov.br/api/v2/malhas/13
-RR;Roraima;https://servicodados.ibge.gov.br/api/v2/malhas/14
-PA;Pará;https://servicodados.ibge.gov.br/api/v2/malhas/15
-AP;Amapá;https://servicodados.ibge.gov.br/api/v2/malhas/16
-TO;Tocantins;https://servicodados.ibge.gov.br/api/v2/malhas/17
-MA;Maranhão;https://servicodados.ibge.gov.br/api/v2/malhas/21
-PI;Piauí;https://servicodados.ibge.gov.br/api/v2/malhas/22
-CE;Ceará;https://servicodados.ibge.gov.br/api/v2/malhas/23
-RN;Rio Grande do Norte;https://servicodados.ibge.gov.br/api/v2/malhas/24
-PB;Paraíba;https://servicodados.ibge.gov.br/api/v2/malhas/25
-PE;Pernambuco;https://servicodados.ibge.gov.br/api/v2/malhas/26
-AL;Alagoas;https://servicodados.ibge.gov.br/api/v2/malhas/27
-SE;Sergipe;https://servicodados.ibge.gov.br/api/v2/malhas/28
-BA;Bahia;https://servicodados.ibge.gov.br/api/v2/malhas/29
-MG;Minas Gerais;https://servicodados.ibge.gov.br/api/v2/malhas/31
-ES;Espírito Santo;https://servicodados.ibge.gov.br/api/v2/malhas/32
-RJ;Rio de Janeiro;https://servicodados.ibge.gov.br/api/v2/malhas/33
-SP;São Paulo;https://servicodados.ibge.gov.br/api/v2/malhas/35
-PR;Paraná;https://servicodados.ibge.gov.br/api/v2/malhas/41
-SC;Santa Catarina;https://servicodados.ibge.gov.br/api/v2/malhas/42
-RS;Rio Grande do Sul;https://servicodados.ibge.gov.br/api/v2/malhas/43
-MS;Mato Grosso do Sul;https://servicodados.ibge.gov.br/api/v2/malhas/50
-MT;Mato Grosso;https://servicodados.ibge.gov.br/api/v2/malhas/51
-GO;Goiás;https://servicodados.ibge.gov.br/api/v2/malhas/52
-DF;Distrito Federal;https://servicodados.ibge.gov.br/api/v2/malhas/53
+11,Rondônia,https://servicodados.ibge.gov.br/api/v2/malhas/11
+12,Acre,https://servicodados.ibge.gov.br/api/v2/malhas/12
+13,Amazonas,https://servicodados.ibge.gov.br/api/v2/malhas/13
+14,Roraima,https://servicodados.ibge.gov.br/api/v2/malhas/14
+15,Pará,https://servicodados.ibge.gov.br/api/v2/malhas/15
+16,Amapá,https://servicodados.ibge.gov.br/api/v2/malhas/16
+17,Tocantins,https://servicodados.ibge.gov.br/api/v2/malhas/17
+21,Maranhão,https://servicodados.ibge.gov.br/api/v2/malhas/21
+22,Piauí,https://servicodados.ibge.gov.br/api/v2/malhas/22
+23,Ceará,https://servicodados.ibge.gov.br/api/v2/malhas/23
+24,Rio Grande do Norte,https://servicodados.ibge.gov.br/api/v2/malhas/24
+25,Paraíba,https://servicodados.ibge.gov.br/api/v2/malhas/25
+26,Pernambuco,https://servicodados.ibge.gov.br/api/v2/malhas/26
+27,Alagoas,https://servicodados.ibge.gov.br/api/v2/malhas/27
+28,Sergipe,https://servicodados.ibge.gov.br/api/v2/malhas/28
+29,Bahia,https://servicodados.ibge.gov.br/api/v2/malhas/29
+31,Minas Gerais,https://servicodados.ibge.gov.br/api/v2/malhas/31
+32,Espírito Santo,https://servicodados.ibge.gov.br/api/v2/malhas/32
+33,Rio de Janeiro,https://servicodados.ibge.gov.br/api/v2/malhas/33
+35,São Paulo,https://servicodados.ibge.gov.br/api/v2/malhas/35
+41,Paraná,https://servicodados.ibge.gov.br/api/v2/malhas/41
+42,Santa Catarina,https://servicodados.ibge.gov.br/api/v2/malhas/42
+43,Rio Grande do Sul,https://servicodados.ibge.gov.br/api/v2/malhas/43
+50,Mato Grosso do Sul,https://servicodados.ibge.gov.br/api/v2/malhas/50
+51,Mato Grosso,https://servicodados.ibge.gov.br/api/v2/malhas/51
+52,Goiás,https://servicodados.ibge.gov.br/api/v2/malhas/52
+53,Distrito Federal,https://servicodados.ibge.gov.br/api/v2/malhas/53
+Rondônia,Rondônia,https://servicodados.ibge.gov.br/api/v2/malhas/11
+Acre,Acre,https://servicodados.ibge.gov.br/api/v2/malhas/12
+Amazonas,Amazonas,https://servicodados.ibge.gov.br/api/v2/malhas/13
+Roraima,Roraima,https://servicodados.ibge.gov.br/api/v2/malhas/14
+Pará,Pará,https://servicodados.ibge.gov.br/api/v2/malhas/15
+Amapá,Amapá,https://servicodados.ibge.gov.br/api/v2/malhas/16
+Tocantins,Tocantins,https://servicodados.ibge.gov.br/api/v2/malhas/17
+Maranhão,Maranhão,https://servicodados.ibge.gov.br/api/v2/malhas/21
+Piauí,Piauí,https://servicodados.ibge.gov.br/api/v2/malhas/22
+Ceará,Ceará,https://servicodados.ibge.gov.br/api/v2/malhas/23
+Rio Grande do Norte,Rio Grande do Norte,https://servicodados.ibge.gov.br/api/v2/malhas/24
+Paraíba,Paraíba,https://servicodados.ibge.gov.br/api/v2/malhas/25
+Pernambuco,Pernambuco,https://servicodados.ibge.gov.br/api/v2/malhas/26
+Alagoas,Alagoas,https://servicodados.ibge.gov.br/api/v2/malhas/27
+Sergipe,Sergipe,https://servicodados.ibge.gov.br/api/v2/malhas/28
+Bahia,Bahia,https://servicodados.ibge.gov.br/api/v2/malhas/29
+Minas Gerais,Minas Gerais,https://servicodados.ibge.gov.br/api/v2/malhas/31
+Espírito Santo,Espírito Santo,https://servicodados.ibge.gov.br/api/v2/malhas/32
+Rio de Janeiro,Rio de Janeiro,https://servicodados.ibge.gov.br/api/v2/malhas/33
+São Paulo,São Paulo,https://servicodados.ibge.gov.br/api/v2/malhas/35
+Paraná,Paraná,https://servicodados.ibge.gov.br/api/v2/malhas/41
+Santa Catarina,Santa Catarina,https://servicodados.ibge.gov.br/api/v2/malhas/42
+Rio Grande do Sul,Rio Grande do Sul,https://servicodados.ibge.gov.br/api/v2/malhas/43
+Mato Grosso do Sul,Mato Grosso do Sul,https://servicodados.ibge.gov.br/api/v2/malhas/50
+Mato Grosso,Mato Grosso,https://servicodados.ibge.gov.br/api/v2/malhas/51
+Goiás,Goiás,https://servicodados.ibge.gov.br/api/v2/malhas/52
+Distrito Federal,Distrito Federal,https://servicodados.ibge.gov.br/api/v2/malhas/53
+RO,Rondônia,https://servicodados.ibge.gov.br/api/v2/malhas/11
+AC,Acre,https://servicodados.ibge.gov.br/api/v2/malhas/12
+AM,Amazonas,https://servicodados.ibge.gov.br/api/v2/malhas/13
+RR,Roraima,https://servicodados.ibge.gov.br/api/v2/malhas/14
+PA,Pará,https://servicodados.ibge.gov.br/api/v2/malhas/15
+AP,Amapá,https://servicodados.ibge.gov.br/api/v2/malhas/16
+TO,Tocantins,https://servicodados.ibge.gov.br/api/v2/malhas/17
+MA,Maranhão,https://servicodados.ibge.gov.br/api/v2/malhas/21
+PI,Piauí,https://servicodados.ibge.gov.br/api/v2/malhas/22
+CE,Ceará,https://servicodados.ibge.gov.br/api/v2/malhas/23
+RN,Rio Grande do Norte,https://servicodados.ibge.gov.br/api/v2/malhas/24
+PB,Paraíba,https://servicodados.ibge.gov.br/api/v2/malhas/25
+PE,Pernambuco,https://servicodados.ibge.gov.br/api/v2/malhas/26
+AL,Alagoas,https://servicodados.ibge.gov.br/api/v2/malhas/27
+SE,Sergipe,https://servicodados.ibge.gov.br/api/v2/malhas/28
+BA,Bahia,https://servicodados.ibge.gov.br/api/v2/malhas/29
+MG,Minas Gerais,https://servicodados.ibge.gov.br/api/v2/malhas/31
+ES,Espírito Santo,https://servicodados.ibge.gov.br/api/v2/malhas/32
+RJ,Rio de Janeiro,https://servicodados.ibge.gov.br/api/v2/malhas/33
+SP,São Paulo,https://servicodados.ibge.gov.br/api/v2/malhas/35
+PR,Paraná,https://servicodados.ibge.gov.br/api/v2/malhas/41
+SC,Santa Catarina,https://servicodados.ibge.gov.br/api/v2/malhas/42
+RS,Rio Grande do Sul,https://servicodados.ibge.gov.br/api/v2/malhas/43
+MS,Mato Grosso do Sul,https://servicodados.ibge.gov.br/api/v2/malhas/50
+MT,Mato Grosso,https://servicodados.ibge.gov.br/api/v2/malhas/51
+GO,Goiás,https://servicodados.ibge.gov.br/api/v2/malhas/52
+DF,Distrito Federal,https://servicodados.ibge.gov.br/api/v2/malhas/53
