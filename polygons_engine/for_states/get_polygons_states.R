@@ -13,7 +13,8 @@ function(states, alias_list=NULL, delete_cache=TRUE, aggregate=TRUE) {
         install.packages("sp")
       }
 
-  names <- toupper(unique(states))
+  names <- as.character(states)
+  names <- toupper(unique(names))
   names <- stri_trans_general(str = names, id = "Latin-ASCII")
 
   if(length(names)!=length(states))
