@@ -1,4 +1,4 @@
-get_polygons.states <- 
+get_polygons.middlewareregions <- 
 function(states, alias_list=NULL, delete_cache=TRUE, aggregate=TRUE) {
 
       if(!require(geojsonio)) {

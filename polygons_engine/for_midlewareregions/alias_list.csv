@@ -1,81 +1,137 @@
-11,RONDONIA,https://servicodados.ibge.gov.br/api/v2/malhas/11?formato=application/json
-12,ACRE,https://servicodados.ibge.gov.br/api/v2/malhas/12?formato=application/json
-13,AMAZONAS,https://servicodados.ibge.gov.br/api/v2/malhas/13?formato=application/json
-14,RORAIMA,https://servicodados.ibge.gov.br/api/v2/malhas/14?formato=application/json
-15,PARA,https://servicodados.ibge.gov.br/api/v2/malhas/15?formato=application/json
-16,AMAPA,https://servicodados.ibge.gov.br/api/v2/malhas/16?formato=application/json
-17,TOCANTINS,https://servicodados.ibge.gov.br/api/v2/malhas/17?formato=application/json
-21,MARANHAO,https://servicodados.ibge.gov.br/api/v2/malhas/21?formato=application/json
-22,PIAUI,https://servicodados.ibge.gov.br/api/v2/malhas/22?formato=application/json
-23,CEARA,https://servicodados.ibge.gov.br/api/v2/malhas/23?formato=application/json
-24,RIO GRANDE DO NORTE,https://servicodados.ibge.gov.br/api/v2/malhas/24?formato=application/json
-25,PARAIBA,https://servicodados.ibge.gov.br/api/v2/malhas/25?formato=application/json
-26,PERNAMBUCO,https://servicodados.ibge.gov.br/api/v2/malhas/26?formato=application/json
-27,ALAGOAS,https://servicodados.ibge.gov.br/api/v2/malhas/27?formato=application/json
-28,SERGIPE,https://servicodados.ibge.gov.br/api/v2/malhas/28?formato=application/json
-29,BAHIA,https://servicodados.ibge.gov.br/api/v2/malhas/29?formato=application/json
-31,MINAS GERAIS,https://servicodados.ibge.gov.br/api/v2/malhas/31?formato=application/json
-32,ESPIRITO SANTO,https://servicodados.ibge.gov.br/api/v2/malhas/32?formato=application/json
-33,RIO DE JANEIRO,https://servicodados.ibge.gov.br/api/v2/malhas/33?formato=application/json
-35,SAO PAULO,https://servicodados.ibge.gov.br/api/v2/malhas/35?formato=application/json
-41,PARANA,https://servicodados.ibge.gov.br/api/v2/malhas/41?formato=application/json
-42,SANTA CATARINA,https://servicodados.ibge.gov.br/api/v2/malhas/42?formato=application/json
-43,RIO GRANDE DO SUL,https://servicodados.ibge.gov.br/api/v2/malhas/43?formato=application/json
-50,MATO GROSSO DO SUL,https://servicodados.ibge.gov.br/api/v2/malhas/50?formato=application/json
-51,MATO GROSSO,https://servicodados.ibge.gov.br/api/v2/malhas/51?formato=application/json
-52,GOIAS,https://servicodados.ibge.gov.br/api/v2/malhas/52?formato=application/json
-53,DISTRITO FEDERAL,https://servicodados.ibge.gov.br/api/v2/malhas/53?formato=application/json
-Rond√¥nia,RONDONIA,https://servicodados.ibge.gov.br/api/v2/malhas/11?formato=application/json
-Acre,ACRE,https://servicodados.ibge.gov.br/api/v2/malhas/12?formato=application/json
-Amazonas,AMAZONAS,https://servicodados.ibge.gov.br/api/v2/malhas/13?formato=application/json
-Roraima,RORAIMA,https://servicodados.ibge.gov.br/api/v2/malhas/14?formato=application/json
-Par√°,PARA,https://servicodados.ibge.gov.br/api/v2/malhas/15?formato=application/json
-Amap√°,AMAPA,https://servicodados.ibge.gov.br/api/v2/malhas/16?formato=application/json
-Tocantins,TOCANTINS,https://servicodados.ibge.gov.br/api/v2/malhas/17?formato=application/json
-Maranh√£o,MARANHAO,https://servicodados.ibge.gov.br/api/v2/malhas/21?formato=application/json
-Piau√≠,PIAUI,https://servicodados.ibge.gov.br/api/v2/malhas/22?formato=application/json
-Cear√°,CEARA,https://servicodados.ibge.gov.br/api/v2/malhas/23?formato=application/json
-Rio Grande do Norte,RIO GRANDE DO NORTE,https://servicodados.ibge.gov.br/api/v2/malhas/24?formato=application/json
-Para√≠ba,PARAIBA,https://servicodados.ibge.gov.br/api/v2/malhas/25?formato=application/json
-Pernambuco,PERNAMBUCO,https://servicodados.ibge.gov.br/api/v2/malhas/26?formato=application/json
-Alagoas,ALAGOAS,https://servicodados.ibge.gov.br/api/v2/malhas/27?formato=application/json
-Sergipe,SERGIPE,https://servicodados.ibge.gov.br/api/v2/malhas/28?formato=application/json
-Bahia,BAHIA,https://servicodados.ibge.gov.br/api/v2/malhas/29?formato=application/json
-Minas Gerais,MINAS GERAIS,https://servicodados.ibge.gov.br/api/v2/malhas/31?formato=application/json
-Esp√≠rito Santo,ESPIRITO SANTO,https://servicodados.ibge.gov.br/api/v2/malhas/32?formato=application/json
-Rio de Janeiro,RIO DE JANEIRO,https://servicodados.ibge.gov.br/api/v2/malhas/33?formato=application/json
-S√£o Paulo,SAO PAULO,https://servicodados.ibge.gov.br/api/v2/malhas/35?formato=application/json
-Paran√°,PARANA,https://servicodados.ibge.gov.br/api/v2/malhas/41?formato=application/json
-Santa Catarina,SANTA CATARINA,https://servicodados.ibge.gov.br/api/v2/malhas/42?formato=application/json
-Rio Grande do Sul,RIO GRANDE DO SUL,https://servicodados.ibge.gov.br/api/v2/malhas/43?formato=application/json
-Mato Grosso do Sul,MATO GROSSO DO SUL,https://servicodados.ibge.gov.br/api/v2/malhas/50?formato=application/json
-Mato Grosso,MATO GROSSO,https://servicodados.ibge.gov.br/api/v2/malhas/51?formato=application/json
-Goi√°s,GOIAS,https://servicodados.ibge.gov.br/api/v2/malhas/52?formato=application/json
-Distrito Federal,DISTRITO FEDERAL,https://servicodados.ibge.gov.br/api/v2/malhas/53?formato=application/json
-RO,RONDONIA,https://servicodados.ibge.gov.br/api/v2/malhas/11?formato=application/json
-AC,ACRE,https://servicodados.ibge.gov.br/api/v2/malhas/12?formato=application/json
-AM,AMAZONAS,https://servicodados.ibge.gov.br/api/v2/malhas/13?formato=application/json
-RR,RORAIMA,https://servicodados.ibge.gov.br/api/v2/malhas/14?formato=application/json
-PA,PARA,https://servicodados.ibge.gov.br/api/v2/malhas/15?formato=application/json
-AP,AMAPA,https://servicodados.ibge.gov.br/api/v2/malhas/16?formato=application/json
-TO,TOCANTINS,https://servicodados.ibge.gov.br/api/v2/malhas/17?formato=application/json
-MA,MARANHAO,https://servicodados.ibge.gov.br/api/v2/malhas/21?formato=application/json
-PI,PIAUI,https://servicodados.ibge.gov.br/api/v2/malhas/22?formato=application/json
-CE,CEARA,https://servicodados.ibge.gov.br/api/v2/malhas/23?formato=application/json
-RN,RIO GRANDE DO NORTE,https://servicodados.ibge.gov.br/api/v2/malhas/24?formato=application/json
-PB,PARAIBA,https://servicodados.ibge.gov.br/api/v2/malhas/25?formato=application/json
-PE,PERNAMBUCO,https://servicodados.ibge.gov.br/api/v2/malhas/26?formato=application/json
-AL,ALAGOAS,https://servicodados.ibge.gov.br/api/v2/malhas/27?formato=application/json
-SE,SERGIPE,https://servicodados.ibge.gov.br/api/v2/malhas/28?formato=application/json
-BA,BAHIA,https://servicodados.ibge.gov.br/api/v2/malhas/29?formato=application/json
-MG,MINAS GERAIS,https://servicodados.ibge.gov.br/api/v2/malhas/31?formato=application/json
-ES,ESPIRITO SANTO,https://servicodados.ibge.gov.br/api/v2/malhas/32?formato=application/json
-RJ,RIO DE JANEIRO,https://servicodados.ibge.gov.br/api/v2/malhas/33?formato=application/json
-SP,SAO PAULO,https://servicodados.ibge.gov.br/api/v2/malhas/35?formato=application/json
-PR,PARANA,https://servicodados.ibge.gov.br/api/v2/malhas/41?formato=application/json
-SC,SANTA CATARINA,https://servicodados.ibge.gov.br/api/v2/malhas/42?formato=application/json
-RS,RIO GRANDE DO SUL,https://servicodados.ibge.gov.br/api/v2/malhas/43?formato=application/json
-MS,MATO GROSSO DO SUL,https://servicodados.ibge.gov.br/api/v2/malhas/50?formato=application/json
-MT,MATO GROSSO,https://servicodados.ibge.gov.br/api/v2/malhas/51?formato=application/json
-GO,GOIAS,https://servicodados.ibge.gov.br/api/v2/malhas/52?formato=application/json
-DF,DISTRITO FEDERAL,https://servicodados.ibge.gov.br/api/v2/malhas/53?formato=application/json
+1101;Madeira-Guapor⁄;11;RONDONIA
+1102;Leste Rondoniense;11;RONDONIA
+1201;Vale do Juruﬂ;12;ACRE
+1202;Vale do Acre;12;ACRE
+1301;Norte Amazonense;13;AMAZONAS
+1302;Sudoeste Amazonense;13;AMAZONAS
+1303;Centro Amazonense;13;AMAZONAS
+1304;Sul Amazonense;13;AMAZONAS
+1401;Norte de Roraima;14;RORAIMA
+1402;Sul de Roraima;14;RORAIMA
+1501;Baixo Amazonas;15;PARA
+1502;Marajæ;15;PARA
+1503;Metropolitana de Bel⁄m;15;PARA
+1504;Nordeste Paraense;15;PARA
+1505;Sudoeste Paraense;15;PARA
+1506;Sudeste Paraense;15;PARA
+1601;Norte do Amapﬂ;16;AMAPA
+1602;Sul do Amapﬂ;16;AMAPA
+1701;Ocidental do Tocantins;17;TOCANTINS
+1702;Oriental do Tocantins;17;TOCANTINS
+2101;Norte Maranhense;21;MARANHAO
+2102;Oeste Maranhense;21;MARANHAO
+2103;Centro Maranhense;21;MARANHAO
+2104;Leste Maranhense;21;MARANHAO
+2105;Sul Maranhense;21;MARANHAO
+2201;Norte Piauiense;22;PIAUI
+2202;Centro-Norte Piauiense;22;PIAUI
+2203;Sudoeste Piauiense;22;PIAUI
+2204;Sudeste Piauiense;22;PIAUI
+2301;Noroeste Cearense;23;CEARA
+2302;Norte Cearense;23;CEARA
+2303;Metropolitana de Fortaleza;23;CEARA
+2304;Sertßes Cearenses;23;CEARA
+2305;Jaguaribe;23;CEARA
+2306;Centro-Sul Cearense;23;CEARA
+2307;Sul Cearense;23;CEARA
+2401;Oeste Potiguar;24;RIO GRANDE DO NORTE
+2402;Central Potiguar;24;RIO GRANDE DO NORTE
+2403;Agreste Potiguar;24;RIO GRANDE DO NORTE
+2404;Leste Potiguar;24;RIO GRANDE DO NORTE
+2501;Sert“o Paraibano;25;PARAIBA
+2502;Borborema;25;PARAIBA
+2503;Agreste Paraibano;25;PARAIBA
+2504;Mata Paraibana;25;PARAIBA
+2601;Sert“o Pernambucano;26;PERNAMBUCO
+2602;S“o Francisco Pernambucano;26;PERNAMBUCO
+2603;Agreste Pernambucano;26;PERNAMBUCO
+2604;Mata Pernambucana;26;PERNAMBUCO
+2605;Metropolitana de Recife;26;PERNAMBUCO
+2701;Sert“o Alagoano;27;ALAGOAS
+2702;Agreste Alagoano;27;ALAGOAS
+2703;Leste Alagoano;27;ALAGOAS
+2801;Sert“o Sergipano;28;SERGIPE
+2802;Agreste Sergipano;28;SERGIPE
+2803;Leste Sergipano;28;SERGIPE
+2901;Extremo Oeste Baiano;29;BAHIA
+2902;Vale S“o-Franciscano da Bahia;29;BAHIA
+2903;Centro Norte Baiano;29;BAHIA
+2904;Nordeste Baiano;29;BAHIA
+2905;Metropolitana de Salvador;29;BAHIA
+2906;Centro Sul Baiano;29;BAHIA
+2907;Sul Baiano;29;BAHIA
+3101;Noroeste de Minas;31;MINAS GERAIS
+3102;Norte de Minas;31;MINAS GERAIS
+3103;Jequitinhonha;31;MINAS GERAIS
+3104;Vale do Mucuri;31;MINAS GERAIS
+3105;Tri‘ngulo Mineiro/Alto Parana›ba;31;MINAS GERAIS
+3106;Central Mineira;31;MINAS GERAIS
+3107;Metropolitana de Belo Horizonte;31;MINAS GERAIS
+3108;Vale do Rio Doce;31;MINAS GERAIS
+3109;Oeste de Minas;31;MINAS GERAIS
+3110;Sul/Sudoeste de Minas;31;MINAS GERAIS
+3111;Campo das Vertentes;31;MINAS GERAIS
+3112;Zona da Mata;31;MINAS GERAIS
+3201;Noroeste Esp›rito-santense;32;ESPIRITO SANTO
+3202;Litoral Norte Esp›rito-santense;32;ESPIRITO SANTO
+3203;Central Esp›rito-santense;32;ESPIRITO SANTO
+3204;Sul Esp›rito-santense;32;ESPIRITO SANTO
+3301;Noroeste Fluminense;33;RIO DE JANEIRO
+3302;Norte Fluminense;33;RIO DE JANEIRO
+3303;Centro Fluminense;33;RIO DE JANEIRO
+3304;Baixadas;33;RIO DE JANEIRO
+3305;Sul Fluminense;33;RIO DE JANEIRO
+3306;Metropolitana do Rio de Janeiro;33;RIO DE JANEIRO
+3501;S“o Jos⁄ do Rio Preto;35;SAO PAULO
+3502;Ribeir“o Preto;35;SAO PAULO
+3503;Ara˛atuba;35;SAO PAULO
+3504;Bauru;35;SAO PAULO
+3505;Araraquara;35;SAO PAULO
+3506;Piracicaba;35;SAO PAULO
+3507;Campinas;35;SAO PAULO
+3508;Presidente Prudente;35;SAO PAULO
+3509;Mar›lia;35;SAO PAULO
+3510;Assis;35;SAO PAULO
+3511;Itapetininga;35;SAO PAULO
+3512;Macro Metropolitana Paulista;35;SAO PAULO
+3513;Vale do Para›ba Paulista;35;SAO PAULO
+3514;Litoral Sul Paulista;35;SAO PAULO
+3515;Metropolitana de S“o Paulo;35;SAO PAULO
+4101;Noroeste Paranaense;41;PARANA
+4102;Centro Ocidental Paranaense;41;PARANA
+4103;Norte Central Paranaense;41;PARANA
+4104;Norte Pioneiro Paranaense;41;PARANA
+4105;Centro Oriental Paranaense;41;PARANA
+4106;Oeste Paranaense;41;PARANA
+4107;Sudoeste Paranaense;41;PARANA
+4108;Centro-Sul Paranaense;41;PARANA
+4109;Sudeste Paranaense;41;PARANA
+4110;Metropolitana de Curitiba;41;PARANA
+4201;Oeste Catarinense;42;SANTA CATARINA
+4202;Norte Catarinense;42;SANTA CATARINA
+4203;Serrana;42;SANTA CATARINA
+4204;Vale do Itaja›;42;SANTA CATARINA
+4205;Grande Florianæpolis;42;SANTA CATARINA
+4206;Sul Catarinense;42;SANTA CATARINA
+4301;Noroeste Rio-grandense;43;RIO GRANDE DO SUL
+4302;Nordeste Rio-grandense;43;RIO GRANDE DO SUL
+4303;Centro Ocidental Rio-grandense;43;RIO GRANDE DO SUL
+4304;Centro Oriental Rio-grandense;43;RIO GRANDE DO SUL
+4305;Metropolitana de Porto Alegre;43;RIO GRANDE DO SUL
+4306;Sudoeste Rio-grandense;43;RIO GRANDE DO SUL
+4307;Sudeste Rio-grandense;43;RIO GRANDE DO SUL
+5001;Pantanais Sul Mato-grossense;50;MATO GROSSO DO SUL
+5002;Centro Norte de Mato Grosso do S;50;MATO GROSSO DO SUL
+5003;Leste de Mato Grosso do Sul;50;MATO GROSSO DO SUL
+5004;Sudoeste de Mato Grosso do Sul;50;MATO GROSSO DO SUL
+5101;Norte Mato-grossense;51;MATO GROSSO
+5102;Nordeste Mato-grossense;51;MATO GROSSO
+5103;Sudoeste Mato-grossense;51;MATO GROSSO
+5104;Centro-Sul Mato-grossense;51;MATO GROSSO
+5105;Sudeste Mato-grossense;51;MATO GROSSO
+5201;Noroeste Goiano;52;GOIAS
+5202;Norte Goiano;52;GOIAS
+5203;Centro Goiano;52;GOIAS
+5204;Leste Goiano;52;GOIAS
+5205;Sul Goiano;52;GOIAS
+5301;Distrito Federal;53;DISTRITO FEDERAL
