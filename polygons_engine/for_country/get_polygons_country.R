@@ -46,7 +46,7 @@ function(country, alias_list=NULL, delete_cache=TRUE) {
             "\n\n is not defined in the alias list, please edit alias_list.csv file and include this region with a link to download the geojson."
             )
           )
-          names <- ifelse(names %in% alias_list[,1]==TRUE, alias_list[,2], names)
+          names <- alias_list[which(alias_list[,1]%in%names),2]
     } else {
           alias_list <- read.csv('alias_list.csv', header = FALSE)
           
@@ -63,7 +63,7 @@ function(country, alias_list=NULL, delete_cache=TRUE) {
             )
           )
 
-          names <- ifelse(names %in% alias_list[,1]==TRUE, alias_list[,2], names)
+          names <- alias_list[which(alias_list[,1]%in%names),2]
       }
 
 
@@ -74,9 +74,11 @@ function(country, alias_list=NULL, delete_cache=TRUE) {
     
     setwd('./cache')
     
+    links <- unique(alias_list[which(alias_list[,2]%in%names),3])
+
     for(i in 1:length(names)) {
       if(!paste0(names[i],'.json') %in% dir()) {
-            download.file(alias_list[i,3], paste0(names[i],'.json'))
+            download.file(links[i], paste0(names[i],'.json'))
                   }
           }
     
@@ -85,8 +87,10 @@ function(country, alias_list=NULL, delete_cache=TRUE) {
     dir.create('./cache')
     setwd('./cache')
     
-        for(i in 1:length(names)) {
-        download.file(alias_list[i,3], paste0(names[i],'.json'))
+    links <- unique(alias_list[which(alias_list[,2]%in%names),3])
+    
+      for(i in 1:length(names)) {
+        download.file(links[i], paste0(names[i],'.json'))
                   }   
   
     }
