@@ -155,18 +155,6 @@ function(states, alias_list=NULL, delete_cache=TRUE, aggregate=TRUE) {
 
 
 
-### pacotes mínimos para rodar geojsonio:       rgdal e sf
-### dependências do linux:                      libprotobuf-dev protobuf-compiler libjq-dev libv8-dev libprotobuf-dev gdal-bin libgdal-dev
-
-
-
-
-
-
-
-
-
-
 
 
 
