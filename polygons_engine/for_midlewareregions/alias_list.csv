@@ -1,274 +1,411 @@
-MADEIRA-GUAPORE;11;RONDONIA
-LESTE RONDONIENSE;11;RONDONIA
-VALE DO JURUA;12;ACRE
-VALE DO ACRE;12;ACRE
-NORTE AMAZONENSE;13;AMAZONAS
-SUDOESTE AMAZONENSE;13;AMAZONAS
-CENTRO AMAZONENSE;13;AMAZONAS
-SUL AMAZONENSE;13;AMAZONAS
-NORTE DE RORAIMA ;14;RORAIMA
-SUL DE RORAIMA;14;RORAIMA
-BAIXO AMAZONAS;15;PARA
-MARAJA;15;PARA
-METROPOLITANA DE BELEM;15;PARA
-NORDESTE PARAENSE;15;PARA
-SUDOESTE PARAENSE;15;PARA
-SUDESTE PARAENSE;15;PARA
-NORTE DO AMAPA;16;AMAPA
-SUL DO AMAPA;16;AMAPA
-OCIDENTAL DO TOCANTINS;17;TOCANTINS
-ORIENTAL DO TOCANTINS;17;TOCANTINS
-NORTE MARANHENSE;21;MARANHAO
-OESTE MARANHENSE;21;MARANHAO
-CENTRO MARANHENSE;21;MARANHAO
-LESTE MARANHENSE;21;MARANHAO
-SUL MARANHENSE;21;MARANHAO
-NORTE PIAUIENSE;22;PIAUI
-CENTRO-NORTE PIAUIENSE;22;PIAUI
-SUDOESTE PIAUIENSE;22;PIAUI
-SUDESTE PIAUIENSE;22;PIAUI
-NOROESTE CEARENSE;23;CEARA
-NORTE CEARENSE;23;CEARA
-METROPOLITANA DE FORTALEZA;23;CEARA
-SERTOES CEARENSES;23;CEARA
-JAGUARIBE;23;CEARA
-CENTRO-SUL CEARENSE;23;CEARA
-SUL CEARENSE;23;CEARA
-OESTE PORTIGUAR;24;RIO GRANDE DO NORTE
-CENTRAL POTIGUAR;24;RIO GRANDE DO NORTE
-AGRESTE POTIGUAR;24;RIO GRANDE DO NORTE
-LESTE POTIGUAR;24;RIO GRANDE DO NORTE
-SERTAO PARAIBANO;25;PARAIBA
-BORBOREMA;25;PARAIBA
-AGRESTE PARAIBANO;25;PARAIBA
-MATA PARAIBANA;25;PARAIBA
-SERTAO PERNAMBUCANO;26;PERNAMBUCO
-SAO FRANCISCO PERNAMBUCANO;26;PERNAMBUCO
-AGRESTE PERNAMBUCANO;26;PERNAMBUCO
-MATA PERNAMBUCANA;26;PERNAMBUCO
-METROPOLITANA DE RECIFE;26;PERNAMBUCO
-SERTAO ALAGOANO;27;ALAGOAS
-AGRESTE ALAGOANO;27;ALAGOAS
-LESTE ALAGOANO;27;ALAGOAS
-SERTAO SERGIPANO;28;SERGIPE
-AGRESTE SERGIPANO;28;SERGIPE
-LESTE SERGIPANO;28;SERGIPE
-EXTREMO OESTE BAIANO;29;BAHIA
-VALE SAO-FRANCISCANO DA BAHIA;29;BAHIA
-CENTRO NORTE BAIANO;29;BAHIA
-NORDESTE BAIANO;29;BAHIA
-METROPOLITANA DE SALVADOR;29;BAHIA
-CENTRO SUL BAIANO;29;BAHIA
-SUL BAIANO;29;BAHIA
-NOROESTE DE MINAS;31;MINAS GERAIS
-NORTE DE MINAS;31;MINAS GERAIS
-JEQUITINHONHA;31;MINAS GERAIS
-VALE DO MUCURI;31;MINAS GERAIS
-TRIANGULO MINEIRO/ALTO PARAIBA;31;MINAS GERAIS
-CENTRAL MINEIRA;31;MINAS GERAIS
-METROPOLITANA DE BELO HORIZONTE;31;MINAS GERAIS
-VALE DO RIO DOCE;31;MINAS GERAIS
-OESTE DE MINAS;31;MINAS GERAIS
-SUL/SUDESTE DE MINAS;31;MINAS GERAIS
-CAMPO DAS VERTENTES;31;MINAS GERAIS
-ZONA DA MATA;31;MINAS GERAIS
-NOROESTE ESPIRITO-SANTENSE;32;ESPIRITO SANTO
-LITORAL NORTE ESPIRITO-SANTENSE;32;ESPIRITO SANTO
-CENTRAL ESPIRITO-SANTANSE;32;ESPIRITO SANTO
-SUL ESPIRITO-SANTANSE;32;ESPIRITO SANTO
-NOROESTE FLUMINENSE;33;RIO DE JANEIRO
-NORTE FLUMINENSE;33;RIO DE JANEIRO
-CENTRO FLUMINENSE;33;RIO DE JANEIRO
-BAIXADAS;33;RIO DE JANEIRO
-SUL FLUMINENSE;33;RIO DE JANEIRO
-METROPOLITANA DO RIO DE JANEIRO;33;RIO DE JANEIRO
-SAO JOSE DO RIO PRETO;35;SAO PAULO
-RIBEIRAO PRETO;35;SAO PAULO
-ARACATUBA;35;SAO PAULO
-BAURU;35;SAO PAULO
-ARARAQUARA;35;SAO PAULO
-PIRACICABA;35;SAO PAULO
-CAMPINAS;35;SAO PAULO
-PRESIDENTE PRUDENTE;35;SAO PAULO
-MARILIA;35;SAO PAULO
-ASSIS;35;SAO PAULO
-ITAPETININGA;35;SAO PAULO
-MACRO METROPOLITANA PAULISTA;35;SAO PAULO
-VALE DO PARAIBA PAULISTA;35;SAO PAULO
-LITORAL SUL PAULISTA;35;SAO PAULO
-METROPOLITANA DE SAO PAULO;35;SAO PAULO
-NOROESTE PARANAENSE;41;PARANA
-CENTRAL OCIDENTAL PARANAENSE;41;PARANA
-NORTE CENTRAL PARANAENSE;41;PARANA
-NORTE PIONEIRO PARANAENSE;41;PARANA
-CENTRAL ORIENTAL PARANAENSE;41;PARANA
-OESTE PARANAENSE;41;PARANA
-SUDOESTE PARANAENSE;41;PARANA
-CENTRO-SUL PARANAENSE;41;PARANA
-SUDESTE PARANAENSE;41;PARANA
-METROPOLITANA DE CURITIBA;41;PARANA
-OESTE CATARINENSE;42;SANTA CATARINA
-NORTE CATARINENSE;42;SANTA CATARINA
-SERRANA;42;SANTA CATARINA
-VALE DO ITAJAI;42;SANTA CATARINA
-GRANDE FLORIANOPOLIS;42;SANTA CATARINA
-SUL CATARINENSE;42;SANTA CATARINA
-NOROESTE RIO-GRANDENSE;43;RIO GRANDE DO SUL
-NORDESTE RIO-GRANDENSE;43;RIO GRANDE DO SUL
-CENTRO OCIDENTAL RIO-GRANDENSE;43;RIO GRANDE DO SUL
-CENTRO ORIENTAL RIO-GRANDENSE;43;RIO GRANDE DO SUL
-METROPOLITANA DE PORTO ALEGRE;43;RIO GRANDE DO SUL
-SUDOESTE RIO-GRANDENSE;43;RIO GRANDE DO SUL
-SUDESTE RIO-GRANDENSE;43;RIO GRANDE DO SUL
-PANTANAIS SUL MATO-GROSSENSE;50;MATO GROSSO DO SUL
-CENTRO NORTE DE MATO GROSSO DO SUL;50;MATO GROSSO DO SUL
-LESTE DE MATO GROSSO DO SUL;50;MATO GROSSO DO SUL
-SUDOESTE DE MATO GROSSO DO SUL;50;MATO GROSSO DO SUL
-NORTE MATO-GROSSENSE;51;MATO GROSSO
-NORDESTE MATO-GROSSENSE;51;MATO GROSSO
-SUDOESTE MATO-GROSSENSE;51;MATO GROSSO
-CENTRO-SUL MATO-GROSSENSE;51;MATO GROSSO
-SUDESTE MATO-GROSSENSE;51;MATO GROSSO
-NOROESTE GOIANO;52;GOIAS
-NORTE GOIANO;52;GOIAS
-CENTRO GOIANO;52;GOIAS
-LESTE GOIANO;52;GOIAS
-SUL GOIANO;52;GOIAS
-DISTRITO FEDERAL;53;DISTRITO FEDERAL
-1101;11;RONDONIA
-1102;11;RONDONIA
-1201;12;ACRE
-1202;12;ACRE
-1301;13;AMAZONAS
-1302;13;AMAZONAS
-1303;13;AMAZONAS
-1304;13;AMAZONAS
-1401;14;RORAIMA
-1402;14;RORAIMA
-1501;15;PARA
-1502;15;PARA
-1503;15;PARA
-1504;15;PARA
-1505;15;PARA
-1506;15;PARA
-1601;16;AMAPA
-1602;16;AMAPA
-1701;17;TOCANTINS
-1702;17;TOCANTINS
-2101;21;MARANHAO
-2102;21;MARANHAO
-2103;21;MARANHAO
-2104;21;MARANHAO
-2105;21;MARANHAO
-2201;22;PIAUI
-2202;22;PIAUI
-2203;22;PIAUI
-2204;22;PIAUI
-2301;23;CEARA
-2302;23;CEARA
-2303;23;CEARA
-2304;23;CEARA
-2305;23;CEARA
-2306;23;CEARA
-2307;23;CEARA
-2401;24;RIO GRANDE DO NORTE
-2402;24;RIO GRANDE DO NORTE
-2403;24;RIO GRANDE DO NORTE
-2404;24;RIO GRANDE DO NORTE
-2501;25;PARAIBA
-2502;25;PARAIBA
-2503;25;PARAIBA
-2504;25;PARAIBA
-2601;26;PERNAMBUCO
-2602;26;PERNAMBUCO
-2603;26;PERNAMBUCO
-2604;26;PERNAMBUCO
-2605;26;PERNAMBUCO
-2701;27;ALAGOAS
-2702;27;ALAGOAS
-2703;27;ALAGOAS
-2801;28;SERGIPE
-2802;28;SERGIPE
-2803;28;SERGIPE
-2901;29;BAHIA
-2902;29;BAHIA
-2903;29;BAHIA
-2904;29;BAHIA
-2905;29;BAHIA
-2906;29;BAHIA
-2907;29;BAHIA
-3101;31;MINAS GERAIS
-3102;31;MINAS GERAIS
-3103;31;MINAS GERAIS
-3104;31;MINAS GERAIS
-3105;31;MINAS GERAIS
-3106;31;MINAS GERAIS
-3107;31;MINAS GERAIS
-3108;31;MINAS GERAIS
-3109;31;MINAS GERAIS
-3110;31;MINAS GERAIS
-3111;31;MINAS GERAIS
-3112;31;MINAS GERAIS
-3201;32;ESPIRITO SANTO
-3202;32;ESPIRITO SANTO
-3203;32;ESPIRITO SANTO
-3204;32;ESPIRITO SANTO
-3301;33;RIO DE JANEIRO
-3302;33;RIO DE JANEIRO
-3303;33;RIO DE JANEIRO
-3304;33;RIO DE JANEIRO
-3305;33;RIO DE JANEIRO
-3306;33;RIO DE JANEIRO
-3501;35;SAO PAULO
-3502;35;SAO PAULO
-3503;35;SAO PAULO
-3504;35;SAO PAULO
-3505;35;SAO PAULO
-3506;35;SAO PAULO
-3507;35;SAO PAULO
-3508;35;SAO PAULO
-3509;35;SAO PAULO
-3510;35;SAO PAULO
-3511;35;SAO PAULO
-3512;35;SAO PAULO
-3513;35;SAO PAULO
-3514;35;SAO PAULO
-3515;35;SAO PAULO
-4101;41;PARANA
-4102;41;PARANA
-4103;41;PARANA
-4104;41;PARANA
-4105;41;PARANA
-4106;41;PARANA
-4107;41;PARANA
-4108;41;PARANA
-4109;41;PARANA
-4110;41;PARANA
-4201;42;SANTA CATARINA
-4202;42;SANTA CATARINA
-4203;42;SANTA CATARINA
-4204;42;SANTA CATARINA
-4205;42;SANTA CATARINA
-4206;42;SANTA CATARINA
-4301;43;RIO GRANDE DO SUL
-4302;43;RIO GRANDE DO SUL
-4303;43;RIO GRANDE DO SUL
-4304;43;RIO GRANDE DO SUL
-4305;43;RIO GRANDE DO SUL
-4306;43;RIO GRANDE DO SUL
-4307;43;RIO GRANDE DO SUL
-5001;50;MATO GROSSO DO SUL
-5002;50;MATO GROSSO DO SUL
-5003;50;MATO GROSSO DO SUL
-5004;50;MATO GROSSO DO SUL
-5101;51;MATO GROSSO
-5102;51;MATO GROSSO
-5103;51;MATO GROSSO
-5104;51;MATO GROSSO
-5105;51;MATO GROSSO
-5201;52;GOIAS
-5202;52;GOIAS
-5203;52;GOIAS
-5204;52;GOIAS
-5205;52;GOIAS
-5301;53;DISTRITO FEDERAL
+MADEIRA-GUAPORE,MADEIRA-GUAPORE,https://servicodados.ibge.gov.br/api/v2/malhas/11?resolucao=3&formato=application/vnd.geo+json,1101
+LESTE RONDONIENSE,LESTE RONDONIENSE,https://servicodados.ibge.gov.br/api/v2/malhas/11?resolucao=3&formato=application/vnd.geo+json,1102
+VALE DO JURUA,VALE DO JURUA,https://servicodados.ibge.gov.br/api/v2/malhas/12?resolucao=3&formato=application/vnd.geo+json,1201
+VALE DO ACRE,VALE DO ACRE,https://servicodados.ibge.gov.br/api/v2/malhas/12?resolucao=3&formato=application/vnd.geo+json,1202
+NORTE AMAZONENSE,NORTE AMAZONENSE,https://servicodados.ibge.gov.br/api/v2/malhas/13?resolucao=3&formato=application/vnd.geo+json,1301
+SUDOESTE AMAZONENSE,SUDOESTE AMAZONENSE,https://servicodados.ibge.gov.br/api/v2/malhas/13?resolucao=3&formato=application/vnd.geo+json,1302
+CENTRO AMAZONENSE,CENTRO AMAZONENSE,https://servicodados.ibge.gov.br/api/v2/malhas/13?resolucao=3&formato=application/vnd.geo+json,1303
+SUL AMAZONENSE,SUL AMAZONENSE,https://servicodados.ibge.gov.br/api/v2/malhas/13?resolucao=3&formato=application/vnd.geo+json,1304
+NORTE DE RORAIMA,NORTE DE RORAIMA,https://servicodados.ibge.gov.br/api/v2/malhas/14?resolucao=3&formato=application/vnd.geo+json,1401
+SUL DE RORAIMA,SUL DE RORAIMA,https://servicodados.ibge.gov.br/api/v2/malhas/14?resolucao=3&formato=application/vnd.geo+json,1402
+BAIXO AMAZONAS,BAIXO AMAZONAS,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,1501
+MARAJA,MARAJA,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,1502
+METROPOLITANA DE BELEM,METROPOLITANA DE BELEM,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,1503
+NORDESTE PARAENSE,NORDESTE PARAENSE,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,1504
+SUDOESTE PARAENSE,SUDOESTE PARAENSE,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,1505
+SUDESTE PARAENSE,SUDESTE PARAENSE,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,1506
+NORTE DO AMAPA,NORTE DO AMAPA,https://servicodados.ibge.gov.br/api/v2/malhas/16?resolucao=3&formato=application/vnd.geo+json,1601
+SUL DO AMAPA,SUL DO AMAPA,https://servicodados.ibge.gov.br/api/v2/malhas/16?resolucao=3&formato=application/vnd.geo+json,1602
+OCIDENTAL DO TOCANTINS,OCIDENTAL DO TOCANTINS,https://servicodados.ibge.gov.br/api/v2/malhas/17?resolucao=3&formato=application/vnd.geo+json,1701
+ORIENTAL DO TOCANTINS,ORIENTAL DO TOCANTINS,https://servicodados.ibge.gov.br/api/v2/malhas/17?resolucao=3&formato=application/vnd.geo+json,1702
+NORTE MARANHENSE,NORTE MARANHENSE,https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json,2101
+OESTE MARANHENSE,OESTE MARANHENSE,https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json,2102
+CENTRO MARANHENSE,CENTRO MARANHENSE,https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json,2103
+LESTE MARANHENSE,LESTE MARANHENSE,https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json,2104
+SUL MARANHENSE,SUL MARANHENSE,https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json,2105
+NORTE PIAUIENSE,NORTE PIAUIENSE,https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json,2201
+CENTRO-NORTE PIAUIENSE,CENTRO-NORTE PIAUIENSE,https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json,2202
+SUDOESTE PIAUIENSE,SUDOESTE PIAUIENSE,https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json,2203
+SUDESTE PIAUIENSE,SUDESTE PIAUIENSE,https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json,2204
+NOROESTE CEARENSE,NOROESTE CEARENSE,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,2301
+NORTE CEARENSE,NORTE CEARENSE,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,2302
+METROPOLITANA DE FORTALEZA,METROPOLITANA DE FORTALEZA,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,2303
+SERTOES CEARENSES,SERTOES CEARENSES,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,2304
+JAGUARIBE,JAGUARIBE,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,2305
+CENTRO-SUL CEARENSE,CENTRO-SUL CEARENSE,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,2306
+SUL CEARENSE,SUL CEARENSE,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,2307
+OESTE PORTIGUAR,OESTE PORTIGUAR,https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json,2401
+CENTRAL POTIGUAR,CENTRAL POTIGUAR,https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json,2402
+AGRESTE POTIGUAR,AGRESTE POTIGUAR,https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json,2403
+LESTE POTIGUAR,LESTE POTIGUAR,https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json,2404
+SERTAO PARAIBANO,SERTAO PARAIBANO,https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json,2501
+BORBOREMA,BORBOREMA,https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json,2502
+AGRESTE PARAIBANO,AGRESTE PARAIBANO,https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json,2503
+MATA PARAIBANA,MATA PARAIBANA,https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json,2504
+SERTAO PERNAMBUCANO,SERTAO PERNAMBUCANO,https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json,2601
+SAO FRANCISCO PERNAMBUCANO,SAO FRANCISCO PERNAMBUCANO,https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json,2602
+AGRESTE PERNAMBUCANO,AGRESTE PERNAMBUCANO,https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json,2603
+MATA PERNAMBUCANA,MATA PERNAMBUCANA,https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json,2604
+METROPOLITANA DE RECIFE,METROPOLITANA DE RECIFE,https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json,2605
+SERTAO ALAGOANO,SERTAO ALAGOANO,https://servicodados.ibge.gov.br/api/v2/malhas/27?resolucao=3&formato=application/vnd.geo+json,2701
+AGRESTE ALAGOANO,AGRESTE ALAGOANO,https://servicodados.ibge.gov.br/api/v2/malhas/27?resolucao=3&formato=application/vnd.geo+json,2702
+LESTE ALAGOANO,LESTE ALAGOANO,https://servicodados.ibge.gov.br/api/v2/malhas/27?resolucao=3&formato=application/vnd.geo+json,2703
+SERTAO SERGIPANO,SERTAO SERGIPANO,https://servicodados.ibge.gov.br/api/v2/malhas/28?resolucao=3&formato=application/vnd.geo+json,2801
+AGRESTE SERGIPANO,AGRESTE SERGIPANO,https://servicodados.ibge.gov.br/api/v2/malhas/28?resolucao=3&formato=application/vnd.geo+json,2802
+LESTE SERGIPANO,LESTE SERGIPANO,https://servicodados.ibge.gov.br/api/v2/malhas/28?resolucao=3&formato=application/vnd.geo+json,2803
+EXTREMO OESTE BAIANO,EXTREMO OESTE BAIANO,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,2901
+VALE SAO-FRANCISCANO DA BAHIA,VALE SAO-FRANCISCANO DA BAHIA,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,2902
+CENTRO NORTE BAIANO,CENTRO NORTE BAIANO,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,2903
+NORDESTE BAIANO,NORDESTE BAIANO,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,2904
+METROPOLITANA DE SALVADOR,METROPOLITANA DE SALVADOR,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,2905
+CENTRO SUL BAIANO,CENTRO SUL BAIANO,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,2906
+SUL BAIANO,SUL BAIANO,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,2907
+NOROESTE DE MINAS,NOROESTE DE MINAS,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,3101
+NORTE DE MINAS,NORTE DE MINAS,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,3102
+JEQUITINHONHA,JEQUITINHONHA,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,3103
+VALE DO MUCURI,VALE DO MUCURI,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,3104
+TRIANGULO MINEIRO/ALTO PARAIBA,TRIANGULO MINEIRO/ALTO PARAIBA,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,3105
+CENTRAL MINEIRA,CENTRAL MINEIRA,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,3106
+METROPOLITANA DE BELO HORIZONTE,METROPOLITANA DE BELO HORIZONTE,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,3107
+VALE DO RIO DOCE,VALE DO RIO DOCE,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,3108
+OESTE DE MINAS,OESTE DE MINAS,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,3109
+SUL/SUDESTE DE MINAS,SUL/SUDESTE DE MINAS,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,3110
+CAMPO DAS VERTENTES,CAMPO DAS VERTENTES,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,3111
+ZONA DA MATA,ZONA DA MATA,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,3112
+NOROESTE ESPIRITO-SANTENSE,NOROESTE ESPIRITO-SANTENSE,https://servicodados.ibge.gov.br/api/v2/malhas/32?resolucao=3&formato=application/vnd.geo+json,3201
+LITORAL NORTE ESPIRITO-SANTENSE,LITORAL NORTE ESPIRITO-SANTENSE,https://servicodados.ibge.gov.br/api/v2/malhas/32?resolucao=3&formato=application/vnd.geo+json,3202
+CENTRAL ESPIRITO-SANTANSE,CENTRAL ESPIRITO-SANTANSE,https://servicodados.ibge.gov.br/api/v2/malhas/32?resolucao=3&formato=application/vnd.geo+json,3203
+SUL ESPIRITO-SANTANSE,SUL ESPIRITO-SANTANSE,https://servicodados.ibge.gov.br/api/v2/malhas/32?resolucao=3&formato=application/vnd.geo+json,3204
+NOROESTE FLUMINENSE,NOROESTE FLUMINENSE,https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json,3301
+NORTE FLUMINENSE,NORTE FLUMINENSE,https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json,3302
+CENTRO FLUMINENSE,CENTRO FLUMINENSE,https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json,3303
+BAIXADAS,BAIXADAS,https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json,3304
+SUL FLUMINENSE,SUL FLUMINENSE,https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json,3305
+METROPOLITANA DO RIO DE JANEIRO,METROPOLITANA DO RIO DE JANEIRO,https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json,3306
+SAO JOSE DO RIO PRETO,SAO JOSE DO RIO PRETO,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3501
+RIBEIRAO PRETO,RIBEIRAO PRETO,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3502
+ARACATUBA,ARACATUBA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3503
+BAURU,BAURU,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3504
+ARARAQUARA,ARARAQUARA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3505
+PIRACICABA,PIRACICABA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3506
+CAMPINAS,CAMPINAS,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3507
+PRESIDENTE PRUDENTE,PRESIDENTE PRUDENTE,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3508
+MARILIA,MARILIA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3509
+ASSIS,ASSIS,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3510
+ITAPETININGA,ITAPETININGA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3511
+MACRO METROPOLITANA PAULISTA,MACRO METROPOLITANA PAULISTA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3512
+VALE DO PARAIBA PAULISTA,VALE DO PARAIBA PAULISTA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3513
+LITORAL SUL PAULISTA,LITORAL SUL PAULISTA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3514
+METROPOLITANA DE SAO PAULO,METROPOLITANA DE SAO PAULO,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3515
+NOROESTE PARANAENSE,NOROESTE PARANAENSE,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,4101
+CENTRAL OCIDENTAL PARANAENSE,CENTRAL OCIDENTAL PARANAENSE,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,4102
+NORTE CENTRAL PARANAENSE,NORTE CENTRAL PARANAENSE,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,4103
+NORTE PIONEIRO PARANAENSE,NORTE PIONEIRO PARANAENSE,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,4104
+CENTRAL ORIENTAL PARANAENSE,CENTRAL ORIENTAL PARANAENSE,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,4105
+OESTE PARANAENSE,OESTE PARANAENSE,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,4106
+SUDOESTE PARANAENSE,SUDOESTE PARANAENSE,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,4107
+CENTRO-SUL PARANAENSE,CENTRO-SUL PARANAENSE,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,4108
+SUDESTE PARANAENSE,SUDESTE PARANAENSE,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,4109
+METROPOLITANA DE CURITIBA,METROPOLITANA DE CURITIBA,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,4110
+OESTE CATARINENSE,OESTE CATARINENSE,https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json,4201
+NORTE CATARINENSE,NORTE CATARINENSE,https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json,4202
+SERRANA,SERRANA,https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json,4203
+VALE DO ITAJAI,VALE DO ITAJAI,https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json,4204
+GRANDE FLORIANOPOLIS,GRANDE FLORIANOPOLIS,https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json,4205
+SUL CATARINENSE,SUL CATARINENSE,https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json,4206
+NOROESTE RIO-GRANDENSE,NOROESTE RIO-GRANDENSE,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,4301
+NORDESTE RIO-GRANDENSE,NORDESTE RIO-GRANDENSE,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,4302
+CENTRO OCIDENTAL RIO-GRANDENSE,CENTRO OCIDENTAL RIO-GRANDENSE,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,4303
+CENTRO ORIENTAL RIO-GRANDENSE,CENTRO ORIENTAL RIO-GRANDENSE,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,4304
+METROPOLITANA DE PORTO ALEGRE,METROPOLITANA DE PORTO ALEGRE,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,4305
+SUDOESTE RIO-GRANDENSE,SUDOESTE RIO-GRANDENSE,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,4306
+SUDESTE RIO-GRANDENSE,SUDESTE RIO-GRANDENSE,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,4307
+PANTANAIS SUL MATO-GROSSENSE,PANTANAIS SUL MATO-GROSSENSE,https://servicodados.ibge.gov.br/api/v2/malhas/50?resolucao=3&formato=application/vnd.geo+json,5001
+CENTRO NORTE DE MATO GROSSO DO SUL,CENTRO NORTE DE MATO GROSSO DO SUL,https://servicodados.ibge.gov.br/api/v2/malhas/50?resolucao=3&formato=application/vnd.geo+json,5002
+LESTE DE MATO GROSSO DO SUL,LESTE DE MATO GROSSO DO SUL,https://servicodados.ibge.gov.br/api/v2/malhas/50?resolucao=3&formato=application/vnd.geo+json,5003
+SUDOESTE DE MATO GROSSO DO SUL,SUDOESTE DE MATO GROSSO DO SUL,https://servicodados.ibge.gov.br/api/v2/malhas/50?resolucao=3&formato=application/vnd.geo+json,5004
+NORTE MATO-GROSSENSE,NORTE MATO-GROSSENSE,https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json,5101
+NORDESTE MATO-GROSSENSE,NORDESTE MATO-GROSSENSE,https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json,5102
+SUDOESTE MATO-GROSSENSE,SUDOESTE MATO-GROSSENSE,https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json,5103
+CENTRO-SUL MATO-GROSSENSE,CENTRO-SUL MATO-GROSSENSE,https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json,5104
+SUDESTE MATO-GROSSENSE,SUDESTE MATO-GROSSENSE,https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json,5105
+NOROESTE GOIANO,NOROESTE GOIANO,https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json,5201
+NORTE GOIANO,NORTE GOIANO,https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json,5202
+CENTRO GOIANO,CENTRO GOIANO,https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json,5203
+LESTE GOIANO,LESTE GOIANO,https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json,5204
+SUL GOIANO,SUL GOIANO,https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json,5205
+DISTRITO FEDERAL,DISTRITO FEDERAL,https://servicodados.ibge.gov.br/api/v2/malhas/53?resolucao=3&formato=application/vnd.geo+json,5301
+1101,MADEIRA-GUAPORE,https://servicodados.ibge.gov.br/api/v2/malhas/11?resolucao=3&formato=application/vnd.geo+json,1101
+1102,LESTE RONDONIENSE,https://servicodados.ibge.gov.br/api/v2/malhas/11?resolucao=3&formato=application/vnd.geo+json,1102
+1201,VALE DO JURUA,https://servicodados.ibge.gov.br/api/v2/malhas/12?resolucao=3&formato=application/vnd.geo+json,1201
+1202,VALE DO ACRE,https://servicodados.ibge.gov.br/api/v2/malhas/12?resolucao=3&formato=application/vnd.geo+json,1202
+1301,NORTE AMAZONENSE,https://servicodados.ibge.gov.br/api/v2/malhas/13?resolucao=3&formato=application/vnd.geo+json,1301
+1302,SUDOESTE AMAZONENSE,https://servicodados.ibge.gov.br/api/v2/malhas/13?resolucao=3&formato=application/vnd.geo+json,1302
+1303,CENTRO AMAZONENSE,https://servicodados.ibge.gov.br/api/v2/malhas/13?resolucao=3&formato=application/vnd.geo+json,1303
+1304,SUL AMAZONENSE,https://servicodados.ibge.gov.br/api/v2/malhas/13?resolucao=3&formato=application/vnd.geo+json,1304
+1401,NORTE DE RORAIMA,https://servicodados.ibge.gov.br/api/v2/malhas/14?resolucao=3&formato=application/vnd.geo+json,1401
+1402,SUL DE RORAIMA,https://servicodados.ibge.gov.br/api/v2/malhas/14?resolucao=3&formato=application/vnd.geo+json,1402
+1501,BAIXO AMAZONAS,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,1501
+1502,MARAJA,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,1502
+1503,METROPOLITANA DE BELEM,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,1503
+1504,NORDESTE PARAENSE,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,1504
+1505,SUDOESTE PARAENSE,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,1505
+1506,SUDESTE PARAENSE,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,1506
+1601,NORTE DO AMAPA,https://servicodados.ibge.gov.br/api/v2/malhas/16?resolucao=3&formato=application/vnd.geo+json,1601
+1602,SUL DO AMAPA,https://servicodados.ibge.gov.br/api/v2/malhas/16?resolucao=3&formato=application/vnd.geo+json,1602
+1701,OCIDENTAL DO TOCANTINS,https://servicodados.ibge.gov.br/api/v2/malhas/17?resolucao=3&formato=application/vnd.geo+json,1701
+1702,ORIENTAL DO TOCANTINS,https://servicodados.ibge.gov.br/api/v2/malhas/17?resolucao=3&formato=application/vnd.geo+json,1702
+2101,NORTE MARANHENSE,https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json,2101
+2102,OESTE MARANHENSE,https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json,2102
+2103,CENTRO MARANHENSE,https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json,2103
+2104,LESTE MARANHENSE,https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json,2104
+2105,SUL MARANHENSE,https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json,2105
+2201,NORTE PIAUIENSE,https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json,2201
+2202,CENTRO-NORTE PIAUIENSE,https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json,2202
+2203,SUDOESTE PIAUIENSE,https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json,2203
+2204,SUDESTE PIAUIENSE,https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json,2204
+2301,NOROESTE CEARENSE,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,2301
+2302,NORTE CEARENSE,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,2302
+2303,METROPOLITANA DE FORTALEZA,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,2303
+2304,SERTOES CEARENSES,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,2304
+2305,JAGUARIBE,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,2305
+2306,CENTRO-SUL CEARENSE,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,2306
+2307,SUL CEARENSE,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,2307
+2401,OESTE PORTIGUAR,https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json,2401
+2402,CENTRAL POTIGUAR,https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json,2402
+2403,AGRESTE POTIGUAR,https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json,2403
+2404,LESTE POTIGUAR,https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json,2404
+2501,SERTAO PARAIBANO,https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json,2501
+2502,BORBOREMA,https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json,2502
+2503,AGRESTE PARAIBANO,https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json,2503
+2504,MATA PARAIBANA,https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json,2504
+2601,SERTAO PERNAMBUCANO,https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json,2601
+2602,SAO FRANCISCO PERNAMBUCANO,https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json,2602
+2603,AGRESTE PERNAMBUCANO,https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json,2603
+2604,MATA PERNAMBUCANA,https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json,2604
+2605,METROPOLITANA DE RECIFE,https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json,2605
+2701,SERTAO ALAGOANO,https://servicodados.ibge.gov.br/api/v2/malhas/27?resolucao=3&formato=application/vnd.geo+json,2701
+2702,AGRESTE ALAGOANO,https://servicodados.ibge.gov.br/api/v2/malhas/27?resolucao=3&formato=application/vnd.geo+json,2702
+2703,LESTE ALAGOANO,https://servicodados.ibge.gov.br/api/v2/malhas/27?resolucao=3&formato=application/vnd.geo+json,2703
+2801,SERTAO SERGIPANO,https://servicodados.ibge.gov.br/api/v2/malhas/28?resolucao=3&formato=application/vnd.geo+json,2801
+2802,AGRESTE SERGIPANO,https://servicodados.ibge.gov.br/api/v2/malhas/28?resolucao=3&formato=application/vnd.geo+json,2802
+2803,LESTE SERGIPANO,https://servicodados.ibge.gov.br/api/v2/malhas/28?resolucao=3&formato=application/vnd.geo+json,2803
+2901,EXTREMO OESTE BAIANO,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,2901
+2902,VALE SAO-FRANCISCANO DA BAHIA,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,2902
+2903,CENTRO NORTE BAIANO,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,2903
+2904,NORDESTE BAIANO,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,2904
+2905,METROPOLITANA DE SALVADOR,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,2905
+2906,CENTRO SUL BAIANO,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,2906
+2907,SUL BAIANO,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,2907
+3101,NOROESTE DE MINAS,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,3101
+3102,NORTE DE MINAS,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,3102
+3103,JEQUITINHONHA,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,3103
+3104,VALE DO MUCURI,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,3104
+3105,TRIANGULO MINEIRO/ALTO PARAIBA,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,3105
+3106,CENTRAL MINEIRA,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,3106
+3107,METROPOLITANA DE BELO HORIZONTE,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,3107
+3108,VALE DO RIO DOCE,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,3108
+3109,OESTE DE MINAS,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,3109
+3110,SUL/SUDESTE DE MINAS,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,3110
+3111,CAMPO DAS VERTENTES,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,3111
+3112,ZONA DA MATA,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,3112
+3201,NOROESTE ESPIRITO-SANTENSE,https://servicodados.ibge.gov.br/api/v2/malhas/32?resolucao=3&formato=application/vnd.geo+json,3201
+3202,LITORAL NORTE ESPIRITO-SANTENSE,https://servicodados.ibge.gov.br/api/v2/malhas/32?resolucao=3&formato=application/vnd.geo+json,3202
+3203,CENTRAL ESPIRITO-SANTANSE,https://servicodados.ibge.gov.br/api/v2/malhas/32?resolucao=3&formato=application/vnd.geo+json,3203
+3204,SUL ESPIRITO-SANTANSE,https://servicodados.ibge.gov.br/api/v2/malhas/32?resolucao=3&formato=application/vnd.geo+json,3204
+3301,NOROESTE FLUMINENSE,https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json,3301
+3302,NORTE FLUMINENSE,https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json,3302
+3303,CENTRO FLUMINENSE,https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json,3303
+3304,BAIXADAS,https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json,3304
+3305,SUL FLUMINENSE,https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json,3305
+3306,METROPOLITANA DO RIO DE JANEIRO,https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json,3306
+3501,SAO JOSE DO RIO PRETO,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3501
+3502,RIBEIRAO PRETO,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3502
+3503,ARACATUBA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3503
+3504,BAURU,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3504
+3505,ARARAQUARA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3505
+3506,PIRACICABA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3506
+3507,CAMPINAS,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3507
+3508,PRESIDENTE PRUDENTE,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3508
+3509,MARILIA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3509
+3510,ASSIS,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3510
+3511,ITAPETININGA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3511
+3512,MACRO METROPOLITANA PAULISTA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3512
+3513,VALE DO PARAIBA PAULISTA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3513
+3514,LITORAL SUL PAULISTA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3514
+3515,METROPOLITANA DE SAO PAULO,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3515
+4101,NOROESTE PARANAENSE,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,4101
+4102,CENTRAL OCIDENTAL PARANAENSE,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,4102
+4103,NORTE CENTRAL PARANAENSE,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,4103
+4104,NORTE PIONEIRO PARANAENSE,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,4104
+4105,CENTRAL ORIENTAL PARANAENSE,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,4105
+4106,OESTE PARANAENSE,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,4106
+4107,SUDOESTE PARANAENSE,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,4107
+4108,CENTRO-SUL PARANAENSE,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,4108
+4109,SUDESTE PARANAENSE,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,4109
+4110,METROPOLITANA DE CURITIBA,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,4110
+4201,OESTE CATARINENSE,https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json,4201
+4202,NORTE CATARINENSE,https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json,4202
+4203,SERRANA,https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json,4203
+4204,VALE DO ITAJAI,https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json,4204
+4205,GRANDE FLORIANOPOLIS,https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json,4205
+4206,SUL CATARINENSE,https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json,4206
+4301,NOROESTE RIO-GRANDENSE,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,4301
+4302,NORDESTE RIO-GRANDENSE,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,4302
+4303,CENTRO OCIDENTAL RIO-GRANDENSE,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,4303
+4304,CENTRO ORIENTAL RIO-GRANDENSE,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,4304
+4305,METROPOLITANA DE PORTO ALEGRE,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,4305
+4306,SUDOESTE RIO-GRANDENSE,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,4306
+4307,SUDESTE RIO-GRANDENSE,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,4307
+5001,PANTANAIS SUL MATO-GROSSENSE,https://servicodados.ibge.gov.br/api/v2/malhas/50?resolucao=3&formato=application/vnd.geo+json,5001
+5002,CENTRO NORTE DE MATO GROSSO DO SUL,https://servicodados.ibge.gov.br/api/v2/malhas/50?resolucao=3&formato=application/vnd.geo+json,5002
+5003,LESTE DE MATO GROSSO DO SUL,https://servicodados.ibge.gov.br/api/v2/malhas/50?resolucao=3&formato=application/vnd.geo+json,5003
+5004,SUDOESTE DE MATO GROSSO DO SUL,https://servicodados.ibge.gov.br/api/v2/malhas/50?resolucao=3&formato=application/vnd.geo+json,5004
+5101,NORTE MATO-GROSSENSE,https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json,5101
+5102,NORDESTE MATO-GROSSENSE,https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json,5102
+5103,SUDOESTE MATO-GROSSENSE,https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json,5103
+5104,CENTRO-SUL MATO-GROSSENSE,https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json,5104
+5105,SUDESTE MATO-GROSSENSE,https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json,5105
+5201,NOROESTE GOIANO,https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json,5201
+5202,NORTE GOIANO,https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json,5202
+5203,CENTRO GOIANO,https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json,5203
+5204,LESTE GOIANO,https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json,5204
+5205,SUL GOIANO,https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json,5205
+5301,DISTRITO FEDERAL,https://servicodados.ibge.gov.br/api/v2/malhas/53?resolucao=3&formato=application/vnd.geo+json,5301
+Madeira-Guapore,MADEIRA-GUAPORE,https://servicodados.ibge.gov.br/api/v2/malhas/11?resolucao=3&formato=application/vnd.geo+json,1101
+Leste Rondoniense,LESTE RONDONIENSE,https://servicodados.ibge.gov.br/api/v2/malhas/11?resolucao=3&formato=application/vnd.geo+json,1102
+Vale Do Jurua,VALE DO JURUA,https://servicodados.ibge.gov.br/api/v2/malhas/12?resolucao=3&formato=application/vnd.geo+json,1201
+Vale Do Acre,VALE DO ACRE,https://servicodados.ibge.gov.br/api/v2/malhas/12?resolucao=3&formato=application/vnd.geo+json,1202
+Norte Amazonense,NORTE AMAZONENSE,https://servicodados.ibge.gov.br/api/v2/malhas/13?resolucao=3&formato=application/vnd.geo+json,1301
+Sudoeste Amazonense,SUDOESTE AMAZONENSE,https://servicodados.ibge.gov.br/api/v2/malhas/13?resolucao=3&formato=application/vnd.geo+json,1302
+Centro Amazonense,CENTRO AMAZONENSE,https://servicodados.ibge.gov.br/api/v2/malhas/13?resolucao=3&formato=application/vnd.geo+json,1303
+Sul Amazonense,SUL AMAZONENSE,https://servicodados.ibge.gov.br/api/v2/malhas/13?resolucao=3&formato=application/vnd.geo+json,1304
+Norte De Roraima,NORTE DE RORAIMA,https://servicodados.ibge.gov.br/api/v2/malhas/14?resolucao=3&formato=application/vnd.geo+json,1401
+Sul De Roraima,SUL DE RORAIMA,https://servicodados.ibge.gov.br/api/v2/malhas/14?resolucao=3&formato=application/vnd.geo+json,1402
+Baixo Amazonas,BAIXO AMAZONAS,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,1501
+Maraja,MARAJA,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,1502
+Metropolitana De Belem,METROPOLITANA DE BELEM,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,1503
+Nordeste Paraense,NORDESTE PARAENSE,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,1504
+Sudoeste Paraense,SUDOESTE PARAENSE,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,1505
+Sudeste Paraense,SUDESTE PARAENSE,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,1506
+Norte Do Amapa,NORTE DO AMAPA,https://servicodados.ibge.gov.br/api/v2/malhas/16?resolucao=3&formato=application/vnd.geo+json,1601
+Sul Do Amapa,SUL DO AMAPA,https://servicodados.ibge.gov.br/api/v2/malhas/16?resolucao=3&formato=application/vnd.geo+json,1602
+Ocidental Do Tocantins,OCIDENTAL DO TOCANTINS,https://servicodados.ibge.gov.br/api/v2/malhas/17?resolucao=3&formato=application/vnd.geo+json,1701
+Oriental Do Tocantins,ORIENTAL DO TOCANTINS,https://servicodados.ibge.gov.br/api/v2/malhas/17?resolucao=3&formato=application/vnd.geo+json,1702
+Norte Maranhense,NORTE MARANHENSE,https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json,2101
+Oeste Maranhense,OESTE MARANHENSE,https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json,2102
+Centro Maranhense,CENTRO MARANHENSE,https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json,2103
+Leste Maranhense,LESTE MARANHENSE,https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json,2104
+Sul Maranhense,SUL MARANHENSE,https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json,2105
+Norte Piauiense,NORTE PIAUIENSE,https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json,2201
+Centro-Norte Piauiense,CENTRO-NORTE PIAUIENSE,https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json,2202
+Sudoeste Piauiense,SUDOESTE PIAUIENSE,https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json,2203
+Sudeste Piauiense,SUDESTE PIAUIENSE,https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json,2204
+Noroeste Cearense,NOROESTE CEARENSE,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,2301
+Norte Cearense,NORTE CEARENSE,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,2302
+Metropolitana De Fortaleza,METROPOLITANA DE FORTALEZA,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,2303
+Sertoes Cearenses,SERTOES CEARENSES,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,2304
+Jaguaribe,JAGUARIBE,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,2305
+Centro-Sul Cearense,CENTRO-SUL CEARENSE,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,2306
+Sul Cearense,SUL CEARENSE,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,2307
+Oeste Portiguar,OESTE PORTIGUAR,https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json,2401
+Central Potiguar,CENTRAL POTIGUAR,https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json,2402
+Agreste Potiguar,AGRESTE POTIGUAR,https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json,2403
+Leste Potiguar,LESTE POTIGUAR,https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json,2404
+Sertao Paraibano,SERTAO PARAIBANO,https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json,2501
+Borborema,BORBOREMA,https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json,2502
+Agreste Paraibano,AGRESTE PARAIBANO,https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json,2503
+Mata Paraibana,MATA PARAIBANA,https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json,2504
+Sertao Pernambucano,SERTAO PERNAMBUCANO,https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json,2601
+Sao Francisco Pernambucano,SAO FRANCISCO PERNAMBUCANO,https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json,2602
+Agreste Pernambucano,AGRESTE PERNAMBUCANO,https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json,2603
+Mata Pernambucana,MATA PERNAMBUCANA,https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json,2604
+Metropolitana De Recife,METROPOLITANA DE RECIFE,https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json,2605
+Sertao Alagoano,SERTAO ALAGOANO,https://servicodados.ibge.gov.br/api/v2/malhas/27?resolucao=3&formato=application/vnd.geo+json,2701
+Agreste Alagoano,AGRESTE ALAGOANO,https://servicodados.ibge.gov.br/api/v2/malhas/27?resolucao=3&formato=application/vnd.geo+json,2702
+Leste Alagoano,LESTE ALAGOANO,https://servicodados.ibge.gov.br/api/v2/malhas/27?resolucao=3&formato=application/vnd.geo+json,2703
+Sertao Sergipano,SERTAO SERGIPANO,https://servicodados.ibge.gov.br/api/v2/malhas/28?resolucao=3&formato=application/vnd.geo+json,2801
+Agreste Sergipano,AGRESTE SERGIPANO,https://servicodados.ibge.gov.br/api/v2/malhas/28?resolucao=3&formato=application/vnd.geo+json,2802
+Leste Sergipano,LESTE SERGIPANO,https://servicodados.ibge.gov.br/api/v2/malhas/28?resolucao=3&formato=application/vnd.geo+json,2803
+Extremo Oeste Baiano,EXTREMO OESTE BAIANO,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,2901
+Vale Sao-Franciscano Da Bahia,VALE SAO-FRANCISCANO DA BAHIA,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,2902
+Centro Norte Baiano,CENTRO NORTE BAIANO,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,2903
+Nordeste Baiano,NORDESTE BAIANO,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,2904
+Metropolitana De Salvador,METROPOLITANA DE SALVADOR,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,2905
+Centro Sul Baiano,CENTRO SUL BAIANO,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,2906
+Sul Baiano,SUL BAIANO,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,2907
+Noroeste De Minas,NOROESTE DE MINAS,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,3101
+Norte De Minas,NORTE DE MINAS,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,3102
+Jequitinhonha,JEQUITINHONHA,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,3103
+Vale Do Mucuri,VALE DO MUCURI,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,3104
+Triangulo Mineiro/Alto Paraiba,TRIANGULO MINEIRO/ALTO PARAIBA,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,3105
+Central Mineira,CENTRAL MINEIRA,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,3106
+Metropolitana De Belo Horizonte,METROPOLITANA DE BELO HORIZONTE,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,3107
+Vale Do Rio Doce,VALE DO RIO DOCE,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,3108
+Oeste De Minas,OESTE DE MINAS,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,3109
+Sul/Sudeste De Minas,SUL/SUDESTE DE MINAS,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,3110
+Campo Das Vertentes,CAMPO DAS VERTENTES,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,3111
+Zona Da Mata,ZONA DA MATA,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,3112
+Noroeste Espirito-Santense,NOROESTE ESPIRITO-SANTENSE,https://servicodados.ibge.gov.br/api/v2/malhas/32?resolucao=3&formato=application/vnd.geo+json,3201
+Litoral Norte Espirito-Santense,LITORAL NORTE ESPIRITO-SANTENSE,https://servicodados.ibge.gov.br/api/v2/malhas/32?resolucao=3&formato=application/vnd.geo+json,3202
+Central Espirito-Santanse,CENTRAL ESPIRITO-SANTANSE,https://servicodados.ibge.gov.br/api/v2/malhas/32?resolucao=3&formato=application/vnd.geo+json,3203
+Sul Espirito-Santanse,SUL ESPIRITO-SANTANSE,https://servicodados.ibge.gov.br/api/v2/malhas/32?resolucao=3&formato=application/vnd.geo+json,3204
+Noroeste Fluminense,NOROESTE FLUMINENSE,https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json,3301
+Norte Fluminense,NORTE FLUMINENSE,https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json,3302
+Centro Fluminense,CENTRO FLUMINENSE,https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json,3303
+Baixadas,BAIXADAS,https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json,3304
+Sul Fluminense,SUL FLUMINENSE,https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json,3305
+Metropolitana Do Rio De Janeiro,METROPOLITANA DO RIO DE JANEIRO,https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json,3306
+Sao Jose Do Rio Preto,SAO JOSE DO RIO PRETO,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3501
+Ribeirao Preto,RIBEIRAO PRETO,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3502
+Aracatuba,ARACATUBA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3503
+Bauru,BAURU,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3504
+Araraquara,ARARAQUARA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3505
+Piracicaba,PIRACICABA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3506
+Campinas,CAMPINAS,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3507
+Presidente Prudente,PRESIDENTE PRUDENTE,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3508
+Marilia,MARILIA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3509
+Assis,ASSIS,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3510
+Itapetininga,ITAPETININGA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3511
+Macro Metropolitana Paulista,MACRO METROPOLITANA PAULISTA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3512
+Vale Do Paraiba Paulista,VALE DO PARAIBA PAULISTA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3513
+Litoral Sul Paulista,LITORAL SUL PAULISTA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3514
+Metropolitana De Sao Paulo,METROPOLITANA DE SAO PAULO,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,3515
+Noroeste Paranaense,NOROESTE PARANAENSE,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,4101
+Central Ocidental Paranaense,CENTRAL OCIDENTAL PARANAENSE,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,4102
+Norte Central Paranaense,NORTE CENTRAL PARANAENSE,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,4103
+Norte Pioneiro Paranaense,NORTE PIONEIRO PARANAENSE,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,4104
+Central Oriental Paranaense,CENTRAL ORIENTAL PARANAENSE,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,4105
+Oeste Paranaense,OESTE PARANAENSE,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,4106
+Sudoeste Paranaense,SUDOESTE PARANAENSE,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,4107
+Centro-Sul Paranaense,CENTRO-SUL PARANAENSE,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,4108
+Sudeste Paranaense,SUDESTE PARANAENSE,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,4109
+Metropolitana De Curitiba,METROPOLITANA DE CURITIBA,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,4110
+Oeste Catarinense,OESTE CATARINENSE,https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json,4201
+Norte Catarinense,NORTE CATARINENSE,https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json,4202
+Serrana,SERRANA,https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json,4203
+Vale Do Itajai,VALE DO ITAJAI,https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json,4204
+Grande Florianopolis,GRANDE FLORIANOPOLIS,https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json,4205
+Sul Catarinense,SUL CATARINENSE,https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json,4206
+Noroeste Rio-Grandense,NOROESTE RIO-GRANDENSE,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,4301
+Nordeste Rio-Grandense,NORDESTE RIO-GRANDENSE,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,4302
+Centro Ocidental Rio-Grandense,CENTRO OCIDENTAL RIO-GRANDENSE,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,4303
+Centro Oriental Rio-Grandense,CENTRO ORIENTAL RIO-GRANDENSE,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,4304
+Metropolitana De Porto Alegre,METROPOLITANA DE PORTO ALEGRE,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,4305
+Sudoeste Rio-Grandense,SUDOESTE RIO-GRANDENSE,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,4306
+Sudeste Rio-Grandense,SUDESTE RIO-GRANDENSE,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,4307
+Pantanais Sul Mato-Grossense,PANTANAIS SUL MATO-GROSSENSE,https://servicodados.ibge.gov.br/api/v2/malhas/50?resolucao=3&formato=application/vnd.geo+json,5001
+Centro Norte De Mato Grosso Do Sul,CENTRO NORTE DE MATO GROSSO DO SUL,https://servicodados.ibge.gov.br/api/v2/malhas/50?resolucao=3&formato=application/vnd.geo+json,5002
+Leste De Mato Grosso Do Sul,LESTE DE MATO GROSSO DO SUL,https://servicodados.ibge.gov.br/api/v2/malhas/50?resolucao=3&formato=application/vnd.geo+json,5003
+Sudoeste De Mato Grosso Do Sul,SUDOESTE DE MATO GROSSO DO SUL,https://servicodados.ibge.gov.br/api/v2/malhas/50?resolucao=3&formato=application/vnd.geo+json,5004
+Norte Mato-Grossense,NORTE MATO-GROSSENSE,https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json,5101
+Nordeste Mato-Grossense,NORDESTE MATO-GROSSENSE,https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json,5102
+Sudoeste Mato-Grossense,SUDOESTE MATO-GROSSENSE,https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json,5103
+Centro-Sul Mato-Grossense,CENTRO-SUL MATO-GROSSENSE,https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json,5104
+Sudeste Mato-Grossense,SUDESTE MATO-GROSSENSE,https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json,5105
+Noroeste Goiano,NOROESTE GOIANO,https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json,5201
+Norte Goiano,NORTE GOIANO,https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json,5202
+Centro Goiano,CENTRO GOIANO,https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json,5203
+Leste Goiano,LESTE GOIANO,https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json,5204
+Sul Goiano,SUL GOIANO,https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json,5205
+Distrito Federal,DISTRITO FEDERAL,https://servicodados.ibge.gov.br/api/v2/malhas/53?resolucao=3&formato=application/vnd.geo+json,5301
