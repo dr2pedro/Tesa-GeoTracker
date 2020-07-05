@@ -1,8 +1,12 @@
 get_polygons.microregions <- 
-function(microregions, alias_list=NULL, delete_cache=TRUE, aggregate=TRUE) {
+function(microregions, alias_list=NULL, delete_cache=TRUE, aggregate=TRUE, deal_double= NULL) {
 
-# for microregions and counties/towns we have duplicated names. In this alias list is about five. To deal off it we need that the user
-# declare the geografic division above the microregions, however this processes only triggers if some of the duplicated names appears. 
+# for microregions we have duplicated names. In this alias list is four:
+#"GURUPI","LITORAL SUL","RIO NEGRO","CASCAVEL".  To deal off it we need that the user
+# declare the geografic division above these microregions which his refers, however this 
+# processes only should triggers if some of the duplicated names appears, a way to deal with
+# it is to download both and exclude the one that is not desired, for that we need a param
+# that stores a array with the index numbers.
 
       if(!require(geojsonio)) {
         install.packages("geojsonio")
@@ -75,7 +79,8 @@ function(microregions, alias_list=NULL, delete_cache=TRUE, aggregate=TRUE) {
           names <- alias_list[which(alias_list[,1]%in%names),2]
       }
   
-  
+ ## The slot to deal off the doubles names. 
+ ## must to be a array of indexes.
   
  ## if there is a cache folder with some of json files already available, it should download only those who is missing. Remember that you can delete the cache folder in the
  ## delete_cache parameter. 
