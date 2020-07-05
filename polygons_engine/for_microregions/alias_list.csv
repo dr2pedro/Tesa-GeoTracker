@@ -1,558 +1,550 @@
-"CACOAL","CACOAL","https://servicodados.ibge.gov.br/api/v2/malhas/11?resolucao=3&formato=application/vnd.geo+json","11006"
-"ARIQUEMES","ARIQUEMES","https://servicodados.ibge.gov.br/api/v2/malhas/11?resolucao=3&formato=application/vnd.geo+json","11003"
-"ALVORADA D'OESTE","ALVORADA D'OESTE","https://servicodados.ibge.gov.br/api/v2/malhas/11?resolucao=3&formato=application/vnd.geo+json","11005"
-"PORTO VELHO","PORTO VELHO","https://servicodados.ibge.gov.br/api/v2/malhas/11?resolucao=3&formato=application/vnd.geo+json","11001"
-"COLORADO DO OESTE","COLORADO DO OESTE","https://servicodados.ibge.gov.br/api/v2/malhas/11?resolucao=3&formato=application/vnd.geo+json","11008"
-"VILHENA","VILHENA","https://servicodados.ibge.gov.br/api/v2/malhas/11?resolucao=3&formato=application/vnd.geo+json","11007"
-"GUAJARA-MIRIM","GUAJARA-MIRIM","https://servicodados.ibge.gov.br/api/v2/malhas/11?resolucao=3&formato=application/vnd.geo+json","11002"
-"JI-PARANA","JI-PARANA","https://servicodados.ibge.gov.br/api/v2/malhas/11?resolucao=3&formato=application/vnd.geo+json","11004"
-"RIO BRANCO","RIO BRANCO","https://servicodados.ibge.gov.br/api/v2/malhas/12?resolucao=3&formato=application/vnd.geo+json","12004"
-"BRASILEIA","BRASILEIA","https://servicodados.ibge.gov.br/api/v2/malhas/12?resolucao=3&formato=application/vnd.geo+json","12005"
-"CRUZEIRO DO SUL","CRUZEIRO DO SUL","https://servicodados.ibge.gov.br/api/v2/malhas/12?resolucao=3&formato=application/vnd.geo+json","12001"
-"TARAUACA","TARAUACA","https://servicodados.ibge.gov.br/api/v2/malhas/12?resolucao=3&formato=application/vnd.geo+json","12002"
-"SENA MADUREIRA","SENA MADUREIRA","https://servicodados.ibge.gov.br/api/v2/malhas/12?resolucao=3&formato=application/vnd.geo+json","12003"
-"TEFE","TEFE","https://servicodados.ibge.gov.br/api/v2/malhas/13?resolucao=3&formato=application/vnd.geo+json","13005"
-"ALTO SOLIMOES","ALTO SOLIMOES","https://servicodados.ibge.gov.br/api/v2/malhas/13?resolucao=3&formato=application/vnd.geo+json","13003"
-"COARI","COARI","https://servicodados.ibge.gov.br/api/v2/malhas/13?resolucao=3&formato=application/vnd.geo+json","13006"
-"MADEIRA","MADEIRA","https://servicodados.ibge.gov.br/api/v2/malhas/13?resolucao=3&formato=application/vnd.geo+json","13013"
-"MANAUS","MANAUS","https://servicodados.ibge.gov.br/api/v2/malhas/13?resolucao=3&formato=application/vnd.geo+json","13007"
-"RIO NEGRO","RIO NEGRO","https://servicodados.ibge.gov.br/api/v2/malhas/13?resolucao=3&formato=application/vnd.geo+json","13001"
-"PARINTINS","PARINTINS","https://servicodados.ibge.gov.br/api/v2/malhas/13?resolucao=3&formato=application/vnd.geo+json","13010"
-"BOCA DO ACRE","BOCA DO ACRE","https://servicodados.ibge.gov.br/api/v2/malhas/13?resolucao=3&formato=application/vnd.geo+json","13011"
-"PURUS","PURUS","https://servicodados.ibge.gov.br/api/v2/malhas/13?resolucao=3&formato=application/vnd.geo+json","13012"
-"JURUA","JURUA","https://servicodados.ibge.gov.br/api/v2/malhas/13?resolucao=3&formato=application/vnd.geo+json","13004"
-"ITACOATIARA","ITACOATIARA","https://servicodados.ibge.gov.br/api/v2/malhas/13?resolucao=3&formato=application/vnd.geo+json","13009"
-"JAPURA","JAPURA","https://servicodados.ibge.gov.br/api/v2/malhas/13?resolucao=3&formato=application/vnd.geo+json","13002"
-"RIO PRETO DA EVA","RIO PRETO DA EVA","https://servicodados.ibge.gov.br/api/v2/malhas/13?resolucao=3&formato=application/vnd.geo+json","13008"
-"BOA VISTA","BOA VISTA","https://servicodados.ibge.gov.br/api/v2/malhas/14?resolucao=3&formato=application/vnd.geo+json","14001"
-"NORDESTE DE RORAIMA","NORDESTE DE RORAIMA","https://servicodados.ibge.gov.br/api/v2/malhas/14?resolucao=3&formato=application/vnd.geo+json","14002"
-"CARACARAI","CARACARAI","https://servicodados.ibge.gov.br/api/v2/malhas/14?resolucao=3&formato=application/vnd.geo+json","14003"
-"SUDESTE DE RORAIMA","SUDESTE DE RORAIMA","https://servicodados.ibge.gov.br/api/v2/malhas/14?resolucao=3&formato=application/vnd.geo+json","14004"
-"CAMETA","CAMETA","https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json","15011"
-"PARAGOMINAS","PARAGOMINAS","https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json","15017"
-"TOME-ACU","TOME-ACU","https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json","15012"
-"FUROS DE BREVES","FUROS DE BREVES","https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json","15005"
-"PARAUAPEBAS","PARAUAPEBAS","https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json","15019"
-"SANTAREM","SANTAREM","https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json","15002"
-"ALMEIRIM","ALMEIRIM","https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json","15003"
-"ALTAMIRA","ALTAMIRA","https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json","15015"
-"BELEM","BELEM","https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json","15007"
-"BRAGANTINA","BRAGANTINA","https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json","15010"
-"GUAMA","GUAMA","https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json","15013"
-"ITAITUBA","ITAITUBA","https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json","15014"
-"PORTEL","PORTEL","https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json","15004"
-"SAO FELIX DO XINGU","SAO FELIX DO XINGU","https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json","15018"
-"MARABA","MARABA","https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json","15020"
-"TUCURUI","TUCURUI","https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json","15016"
-"CASTANHAL","CASTANHAL","https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json","15008"
-"ARARI","ARARI","https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json","15006"
-"SALGADO","SALGADO","https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json","15009"
-"CONCEICAO DO ARAGUAIA","CONCEICAO DO ARAGUAIA","https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json","15022"
-"OBIDOS","OBIDOS","https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json","15001"
-"REDENCAO","REDENCAO","https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json","15021"
-"AMAPA","AMAPA","https://servicodados.ibge.gov.br/api/v2/malhas/16?resolucao=3&formato=application/vnd.geo+json","16002"
-"OIAPOQUE","OIAPOQUE","https://servicodados.ibge.gov.br/api/v2/malhas/16?resolucao=3&formato=application/vnd.geo+json","16001"
-"MACAPA","MACAPA","https://servicodados.ibge.gov.br/api/v2/malhas/16?resolucao=3&formato=application/vnd.geo+json","16003"
-"MAZAGAO","MAZAGAO","https://servicodados.ibge.gov.br/api/v2/malhas/16?resolucao=3&formato=application/vnd.geo+json","16004"
-"MIRACEMA DO TOCANTINS","MIRACEMA DO TOCANTINS","https://servicodados.ibge.gov.br/api/v2/malhas/17?resolucao=3&formato=application/vnd.geo+json","17003"
-"BICO DO PAPAGAIO","BICO DO PAPAGAIO","https://servicodados.ibge.gov.br/api/v2/malhas/17?resolucao=3&formato=application/vnd.geo+json","17001"
-"GURUPI","GURUPI","https://servicodados.ibge.gov.br/api/v2/malhas/17?resolucao=3&formato=application/vnd.geo+json","17005"
-"DIANOPOLIS","DIANOPOLIS","https://servicodados.ibge.gov.br/api/v2/malhas/17?resolucao=3&formato=application/vnd.geo+json","17008"
-"PORTO NACIONAL","PORTO NACIONAL","https://servicodados.ibge.gov.br/api/v2/malhas/17?resolucao=3&formato=application/vnd.geo+json","17006"
-"ARAGUAINA","ARAGUAINA","https://servicodados.ibge.gov.br/api/v2/malhas/17?resolucao=3&formato=application/vnd.geo+json","17002"
-"RIO FORMOSO","RIO FORMOSO","https://servicodados.ibge.gov.br/api/v2/malhas/17?resolucao=3&formato=application/vnd.geo+json","17004"
-"JALAPAO","JALAPAO","https://servicodados.ibge.gov.br/api/v2/malhas/17?resolucao=3&formato=application/vnd.geo+json","17007"
-"IMPERATRIZ","IMPERATRIZ","https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json","21009"
-"COELHO NETO","COELHO NETO","https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json","21016"
-"BAIXO PARNAIBA MARANHENSE","BAIXO PARNAIBA MARANHENSE","https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json","21013"
-"LITORAL OCIDENTAL MARANHENSE","LITORAL OCIDENTAL MARANHENSE","https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json","21001"
-"PINDARE","PINDARE","https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json","21008"
-"CODO","CODO","https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json","21015"
-"GERAIS DE BALSAS","GERAIS DE BALSAS","https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json","21020"
-"GURUPI","GURUPI","https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json","21007"
-"BAIXADA MARANHENSE","BAIXADA MARANHENSE","https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json","21005"
-"CHAPADINHA","CHAPADINHA","https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json","21014"
-"ALTO MEARIM E GRAJAU","ALTO MEARIM E GRAJAU","https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json","21011"
-"ROSARIO","ROSARIO","https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json","21003"
-"MEDIO MEARIM","MEDIO MEARIM","https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json","21010"
-"CHAPADAS DO ALTO ITAPECURU","CHAPADAS DO ALTO ITAPECURU","https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json","21018"
-"LENCOIS MARANHENSES","LENCOIS MARANHENSES","https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json","21004"
-"CHAPADAS DAS MANGABEIRAS","CHAPADAS DAS MANGABEIRAS","https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json","21021"
-"CAXIAS","CAXIAS","https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json","21017"
-"PORTO FRANCO","PORTO FRANCO","https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json","21019"
-"ITAPECURU MIRIM","ITAPECURU MIRIM","https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json","21006"
-"PRESIDENTE DUTRA","PRESIDENTE DUTRA","https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json","21012"
-"AGLOMERACAO URBANA DE SAO LUIS","AGLOMERACAO URBANA DE SAO LUIS","https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json","21002"
-"ALTO MEDIO CANINDE","ALTO MEDIO CANINDE","https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json","22015"
-"MEDIO PARNAIBA PIAUIENSE","MEDIO PARNAIBA PIAUIENSE","https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json","22005"
-"PIO IX","PIO IX","https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json","22014"
-"CAMPO MAIOR","CAMPO MAIOR","https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json","22004"
-"TERESINA","TERESINA","https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json","22003"
-"ALTO MEDIO GURGUEIA","ALTO MEDIO GURGUEIA","https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json","22010"
-"SAO RAIMUNDO NONATO","SAO RAIMUNDO NONATO","https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json","22011"
-"BERTOLINIA","BERTOLINIA","https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json","22008"
-"VALENCA DO PIAUI","VALENCA DO PIAUI","https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json","22006"
-"PICOS","PICOS","https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json","22013"
-"CHAPADAS DO EXTREMO SUL PIAUIENSE","CHAPADAS DO EXTREMO SUL PIAUIENSE","https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json","22012"
-"ALTO PARNAIBA PIAUIENSE","ALTO PARNAIBA PIAUIENSE","https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json","22007"
-"BAIXO PARNAIBA PIAUIENSE","BAIXO PARNAIBA PIAUIENSE","https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json","22001"
-"LITORAL PIAUIENSE","LITORAL PIAUIENSE","https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json","22002"
-"FLORIANO","FLORIANO","https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json","22009"
-"BREJO SANTO","BREJO SANTO","https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json","23033"
-"BATURITE","BATURITE","https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json","23013"
-"LITORAL DE CAMOCIM E ACARAU","LITORAL DE CAMOCIM E ACARAU","https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json","23001"
-"SERTAO DE SENADOR POMPEU","SERTAO DE SENADOR POMPEU","https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json","23021"
-"SERTAO DE INHAMUNS","SERTAO DE INHAMUNS","https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json","23020"
-"MERUOCA","MERUOCA","https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json","23004"
-"CARIRIACU","CARIRIACU","https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json","23030"
-"BAIXO JAGUARIBE","BAIXO JAGUARIBE","https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json","23023"
-"ITAPIPOCA","ITAPIPOCA","https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json","23008"
-"VARZEA ALEGRE","VARZEA ALEGRE","https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json","23027"
-"MEDIO CURU","MEDIO CURU","https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json","23011"
-"FORTALEZA","FORTALEZA","https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json","23016"
-"LITORAL DE ARACATI","LITORAL DE ARACATI","https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json","23022"
-"SERTAO DE CRATEUS","SERTAO DE CRATEUS","https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json","23018"
-"CHAPADA DO ARARIPE","CHAPADA DO ARARIPE","https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json","23029"
-"BARRO","BARRO","https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json","23031"
-"LAVRAS DA MANGABEIRA","LAVRAS DA MANGABEIRA","https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json","23028"
-"SERTAO DE QUIXERAMOBIM","SERTAO DE QUIXERAMOBIM","https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json","23019"
-"CARIRI","CARIRI","https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json","23032"
-"CHOROZINHO","CHOROZINHO","https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json","23014"
-"CASCAVEL","CASCAVEL","https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json","23015"
-"CANINDE","CANINDE","https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json","23012"
-"SOBRAL","SOBRAL","https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json","23005"
-"IBIAPABA","IBIAPABA","https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json","23002"
-"SANTA QUITERIA","SANTA QUITERIA","https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json","23007"
-"IGUATU","IGUATU","https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json","23026"
-"COREAU","COREAU","https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json","23003"
-"SERRA DO PEREIRO","SERRA DO PEREIRO","https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json","23025"
-"PACAJUS","PACAJUS","https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json","23017"
-"IPU","IPU","https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json","23006"
-"URUBURETAMA","URUBURETAMA","https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json","23010"
-"MEDIO JAGUARIBE","MEDIO JAGUARIBE","https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json","23024"
-"BAIXO CURU","BAIXO CURU","https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json","23009"
-"SERIDO ORIENTAL","SERIDO ORIENTAL","https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json","24012"
-"VALE DO ACU","VALE DO ACU","https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json","24004"
-"ANGICOS","ANGICOS","https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json","24009"
-"SERRA DE SAO MIGUEL","SERRA DE SAO MIGUEL","https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json","24005"
-"PAU DOS FERROS","PAU DOS FERROS","https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json","24006"
-"UMARIZAL","UMARIZAL","https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json","24007"
-"CHAPADA DO APODI","CHAPADA DO APODI","https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json","24002"
-"MOSSORO","MOSSORO","https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json","24001"
-"LITORAL SUL","LITORAL SUL","https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json","24019"
-"BORBOREMA POTIGUAR","BORBOREMA POTIGUAR","https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json","24014"
-"BAIXA VERDE","BAIXA VERDE","https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json","24013"
-"SERRA DE SANTANA","SERRA DE SANTANA","https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json","24010"
-"AGRESTE POTIGUAR","AGRESTE POTIGUAR","https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json","24015"
-"MACAU","MACAU","https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json","24008"
-"SERIDO OCIDENTAL","SERIDO OCIDENTAL","https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json","24011"
-"MEDIO OESTE","MEDIO OESTE","https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json","24003"
-"MACAIBA","MACAIBA","https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json","24017"
-"NATAL","NATAL","https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json","24018"
-"LITORAL NORDESTE","LITORAL NORDESTE","https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json","24016"
-"SERRA DO TEIXEIRA","SERRA DO TEIXEIRA","https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json","25007"
-"PIANCO","PIANCO","https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json","25005"
-"BREJO PARAIBANO","BREJO PARAIBANO","https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json","25015"
-"GUARABIRA","GUARABIRA","https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json","25016"
-"CARIRI ORIENTAL","CARIRI ORIENTAL","https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json","25011"
-"CURIMATAU OCIDENTAL","CURIMATAU OCIDENTAL","https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json","25012"
-"LITORAL SUL","LITORAL SUL","https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json","25023"
-"CARIRI OCIDENTAL","CARIRI OCIDENTAL","https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json","25010"
-"SOUSA","SOUSA","https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json","25003"
-"CURIMATAU ORIENTAL","CURIMATAU ORIENTAL","https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json","25013"
-"PATOS","PATOS","https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json","25004"
-"ESPERANCA","ESPERANCA","https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json","25014"
-"UMBUZEIRO","UMBUZEIRO","https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json","25019"
-"LITORAL NORTE","LITORAL NORTE","https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json","25020"
-"SERIDO ORIENTAL PARAIBANO","SERIDO ORIENTAL PARAIBANO","https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json","25009"
-"JOAO PESSOA","JOAO PESSOA","https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json","25022"
-"CATOLE DO ROCHA","CATOLE DO ROCHA","https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json","25001"
-"CAJAZEIRAS","CAJAZEIRAS","https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json","25002"
-"ITAPORANGA","ITAPORANGA","https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json","25006"
-"CAMPINA GRANDE","CAMPINA GRANDE","https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json","25017"
-"ITABAIANA","ITABAIANA","https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json","25018"
-"SAPE","SAPE","https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json","25021"
-"SERIDO OCIDENTAL PARAIBANO","SERIDO OCIDENTAL PARAIBANO","https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json","25008"
-"RECIFE","RECIFE","https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json","26017"
-"PAJEU","PAJEU","https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json","26003"
-"PETROLINA","PETROLINA","https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json","26005"
-"BREJO PERNAMBUCANO","BREJO PERNAMBUCANO","https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json","26012"
-"MATA MERIDIONAL PERNAMBUCANA","MATA MERIDIONAL PERNAMBUCANA","https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json","26015"
-"VALE DO IPANEMA","VALE DO IPANEMA","https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json","26007"
-"VALE DO IPOJUCA","VALE DO IPOJUCA","https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json","26008"
-"MATA SETENTRIONAL PERNAMBUCANA","MATA SETENTRIONAL PERNAMBUCANA","https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json","26013"
-"GARANHUNS","GARANHUNS","https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json","26011"
-"ITAMARACA","ITAMARACA","https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json","26016"
-"ARARIPINA","ARARIPINA","https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json","26001"
-"SERTAO DO MOXOTO","SERTAO DO MOXOTO","https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json","26004"
-"ITAPARICA","ITAPARICA","https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json","26006"
-"MEDIO CAPIBARIBE","MEDIO CAPIBARIBE","https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json","26010"
-"SUAPE","SUAPE","https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json","26018"
-"ALTO CAPIBARIBE","ALTO CAPIBARIBE","https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json","26009"
-"SALGUEIRO","SALGUEIRO","https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json","26002"
-"VITORIA DE SANTO ANTAO","VITORIA DE SANTO ANTAO","https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json","26014"
-"FERNANDO DE NORONHA","FERNANDO DE NORONHA","https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json","26019"
-"SERRANA DO SERTAO ALAGOANO","SERRANA DO SERTAO ALAGOANO","https://servicodados.ibge.gov.br/api/v2/malhas/27?resolucao=3&formato=application/vnd.geo+json","27001"
-"SAO MIGUEL DOS CAMPOS","SAO MIGUEL DOS CAMPOS","https://servicodados.ibge.gov.br/api/v2/malhas/27?resolucao=3&formato=application/vnd.geo+json","27012"
-"ARAPIRACA","ARAPIRACA","https://servicodados.ibge.gov.br/api/v2/malhas/27?resolucao=3&formato=application/vnd.geo+json","27006"
-"MATA ALAGOANA","MATA ALAGOANA","https://servicodados.ibge.gov.br/api/v2/malhas/27?resolucao=3&formato=application/vnd.geo+json","27009"
-"MACEIO","MACEIO","https://servicodados.ibge.gov.br/api/v2/malhas/27?resolucao=3&formato=application/vnd.geo+json","27011"
-"BATALHA","BATALHA","https://servicodados.ibge.gov.br/api/v2/malhas/27?resolucao=3&formato=application/vnd.geo+json","27004"
-"PALMEIRA DOS INDIOS","PALMEIRA DOS INDIOS","https://servicodados.ibge.gov.br/api/v2/malhas/27?resolucao=3&formato=application/vnd.geo+json","27005"
-"SANTANA DO IPANEMA","SANTANA DO IPANEMA","https://servicodados.ibge.gov.br/api/v2/malhas/27?resolucao=3&formato=application/vnd.geo+json","27003"
-"SERRANA DOS QUILOMBOS","SERRANA DOS QUILOMBOS","https://servicodados.ibge.gov.br/api/v2/malhas/27?resolucao=3&formato=application/vnd.geo+json","27008"
-"ALAGOANA DO SERTAO DO SAO FRANCISCO","ALAGOANA DO SERTAO DO SAO FRANCISCO","https://servicodados.ibge.gov.br/api/v2/malhas/27?resolucao=3&formato=application/vnd.geo+json","27002"
-"PENEDO","PENEDO","https://servicodados.ibge.gov.br/api/v2/malhas/27?resolucao=3&formato=application/vnd.geo+json","27013"
-"LITORAL NORTE ALAGOANO","LITORAL NORTE ALAGOANO","https://servicodados.ibge.gov.br/api/v2/malhas/27?resolucao=3&formato=application/vnd.geo+json","27010"
-"TRAIPU","TRAIPU","https://servicodados.ibge.gov.br/api/v2/malhas/27?resolucao=3&formato=application/vnd.geo+json","27007"
-"PROPRIA","PROPRIA","https://servicodados.ibge.gov.br/api/v2/malhas/28?resolucao=3&formato=application/vnd.geo+json","28007"
-"NOSSA SENHORA DAS DORES","NOSSA SENHORA DAS DORES","https://servicodados.ibge.gov.br/api/v2/malhas/28?resolucao=3&formato=application/vnd.geo+json","28003"
-"ARACAJU","ARACAJU","https://servicodados.ibge.gov.br/api/v2/malhas/28?resolucao=3&formato=application/vnd.geo+json","28011"
-"BOQUIM","BOQUIM","https://servicodados.ibge.gov.br/api/v2/malhas/28?resolucao=3&formato=application/vnd.geo+json","28012"
-"AGRESTE DE ITABAIANA","AGRESTE DE ITABAIANA","https://servicodados.ibge.gov.br/api/v2/malhas/28?resolucao=3&formato=application/vnd.geo+json","28004"
-"SERGIPANA DO SERTAO DO SAO FRANCISCO","SERGIPANA DO SERTAO DO SAO FRANCISCO","https://servicodados.ibge.gov.br/api/v2/malhas/28?resolucao=3&formato=application/vnd.geo+json","28001"
-"COTINGUIBA","COTINGUIBA","https://servicodados.ibge.gov.br/api/v2/malhas/28?resolucao=3&formato=application/vnd.geo+json","28008"
-"CARIRA","CARIRA","https://servicodados.ibge.gov.br/api/v2/malhas/28?resolucao=3&formato=application/vnd.geo+json","28002"
-"BAIXO COTINGUIBA","BAIXO COTINGUIBA","https://servicodados.ibge.gov.br/api/v2/malhas/28?resolucao=3&formato=application/vnd.geo+json","28010"
-"ESTANCIA","ESTANCIA","https://servicodados.ibge.gov.br/api/v2/malhas/28?resolucao=3&formato=application/vnd.geo+json","28013"
-"JAPARATUBA","JAPARATUBA","https://servicodados.ibge.gov.br/api/v2/malhas/28?resolucao=3&formato=application/vnd.geo+json","28009"
-"AGRESTE DE LAGARTO","AGRESTE DE LAGARTO","https://servicodados.ibge.gov.br/api/v2/malhas/28?resolucao=3&formato=application/vnd.geo+json","28006"
-"TOBIAS BARRETO","TOBIAS BARRETO","https://servicodados.ibge.gov.br/api/v2/malhas/28?resolucao=3&formato=application/vnd.geo+json","28005"
-"SEABRA","SEABRA","https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json","29023"
-"PAULO AFONSO","PAULO AFONSO","https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json","29005"
-"ALAGOINHAS","ALAGOINHAS","https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json","29017"
-"RIBEIRA DO POMBAL","RIBEIRA DO POMBAL","https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json","29015"
-"FEIRA DE SANTANA","FEIRA DE SANTANA","https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json","29012"
-"JEQUIE","JEQUIE","https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json","29024"
-"PORTO SEGURO","PORTO SEGURO","https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json","29032"
-"ILHEUS-ITABUNA","ILHEUS-ITABUNA","https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json","29031"
-"CATU","CATU","https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json","29019"
-"IRECE","IRECE","https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json","29009"
-"VITORIA DA CONQUISTA","VITORIA DA CONQUISTA","https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json","29028"
-"SENHOR DO BONFIM","SENHOR DO BONFIM","https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json","29008"
-"COTEGIPE","COTEGIPE","https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json","29002"
-"BRUMADO","BRUMADO","https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json","29027"
-"SERRINHA","SERRINHA","https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json","29016"
-"SANTO ANTONIO DE JESUS","SANTO ANTONIO DE JESUS","https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json","29020"
-"BARREIRAS","BARREIRAS","https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json","29001"
-"ITABERABA","ITABERABA","https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json","29011"
-"BARRA","BARRA","https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json","29006"
-"BOM JESUS DA LAPA","BOM JESUS DA LAPA","https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json","29007"
-"BOQUIRA","BOQUIRA","https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json","29022"
-"GUANAMBI","GUANAMBI","https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json","29026"
-"JACOBINA","JACOBINA","https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json","29010"
-"VALENCA","VALENCA","https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json","29030"
-"SALVADOR","SALVADOR","https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json","29021"
-"JUAZEIRO","JUAZEIRO","https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json","29004"
-"SANTA MARIA DA VITORIA","SANTA MARIA DA VITORIA","https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json","29003"
-"EUCLIDES DA CUNHA","EUCLIDES DA CUNHA","https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json","29014"
-"ENTRE RIOS","ENTRE RIOS","https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json","29018"
-"JEREMOABO","JEREMOABO","https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json","29013"
-"LIVRAMENTO DO BRUMADO","LIVRAMENTO DO BRUMADO","https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json","29025"
-"ITAPETINGA","ITAPETINGA","https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json","29029"
-"PATROCINIO","PATROCINIO","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31019"
-"TRES MARIAS","TRES MARIAS","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31024"
-"MANHUACU","MANHUACU","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31061"
-"PONTE NOVA","PONTE NOVA","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31060"
-"IPATINGA","IPATINGA","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31039"
-"PECANHA","PECANHA","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31036"
-"UBERABA","UBERABA","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31022"
-"CAMPO BELO","CAMPO BELO","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31045"
-"NANUQUE","NANUQUE","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31016"
-"SALINAS","SALINAS","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31005"
-"AIMORES","AIMORES","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31041"
-"ANDRELANDIA","ANDRELANDIA","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31055"
-"SAO LOURENCO","SAO LOURENCO","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31054"
-"POCOS DE CALDAS","POCOS DE CALDAS","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31051"
-"CATAGUASES","CATAGUASES","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31066"
-"ALFENAS","ALFENAS","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31049"
-"BARBACENA","BARBACENA","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31059"
-"ALMENARA","ALMENARA","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31014"
-"GOVERNADOR VALADARES","GOVERNADOR VALADARES","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31037"
-"PASSOS","PASSOS","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31047"
-"VICOSA","VICOSA","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31062"
-"ITABIRA","ITABIRA","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31031"
-"CONCEICAO DO MATO DENTRO","CONCEICAO DO MATO DENTRO","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31028"
-"CAPELINHA","CAPELINHA","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31011"
-"MURIAE","MURIAE","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31063"
-"SETE LAGOAS","SETE LAGOAS","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31027"
-"JUIZ DE FORA","JUIZ DE FORA","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31065"
-"ARACUAI","ARACUAI","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31012"
-"UBERLANDIA","UBERLANDIA","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31018"
-"PATOS DE MINAS","PATOS DE MINAS","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31020"
-"BOM DESPACHO","BOM DESPACHO","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31026"
-"ARAXA","ARAXA","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31023"
-"SAO SEBASTIAO DO PARAISO","SAO SEBASTIAO DO PARAISO","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31048"
-"FORMIGA","FORMIGA","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31044"
-"UNAI","UNAI","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31001"
-"UBA","UBA","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31064"
-"TEOFILO OTONI","TEOFILO OTONI","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31015"
-"CURVELO","CURVELO","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31025"
-"PIUI","PIUI","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31042"
-"BELO HORIZONTE","BELO HORIZONTE","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31030"
-"ITAGUARA","ITAGUARA","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31032"
-"VARGINHA","VARGINHA","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31050"
-"BOCAIUVA","BOCAIUVA","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31009"
-"CARATINGA","CARATINGA","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31040"
-"POUSO ALEGRE","POUSO ALEGRE","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31052"
-"OLIVEIRA","OLIVEIRA","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31046"
-"JANUARIA","JANUARIA","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31003"
-"GRAO MOGOL","GRAO MOGOL","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31008"
-"PARACATU","PARACATU","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31002"
-"MONTES CLAROS","MONTES CLAROS","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31007"
-"GUANHAES","GUANHAES","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31035"
-"ITAJUBA","ITAJUBA","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31056"
-"PIRAPORA","PIRAPORA","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31006"
-"SANTA RITA DO SAPUCAI","SANTA RITA DO SAPUCAI","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31053"
-"PEDRA AZUL","PEDRA AZUL","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31013"
-"ITUIUTABA","ITUIUTABA","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31017"
-"FRUTAL","FRUTAL","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31021"
-"DIVINOPOLIS","DIVINOPOLIS","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31043"
-"LAVRAS","LAVRAS","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31057"
-"CONSELHEIRO LAFAIETE","CONSELHEIRO LAFAIETE","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31034"
-"JANAUBA","JANAUBA","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31004"
-"MANTENA","MANTENA","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31038"
-"SAO JOAO DEL REI","SAO JOAO DEL REI","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31058"
-"DIAMANTINA","DIAMANTINA","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31010"
-"OURO PRETO","OURO PRETO","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31033"
-"PARA DE MINAS","PARA DE MINAS","https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json","31029"
-"AFONSO CLAUDIO","AFONSO CLAUDIO","https://servicodados.ibge.gov.br/api/v2/malhas/32?resolucao=3&formato=application/vnd.geo+json","32007"
-"BARRA DE SAO FRANCISCO","BARRA DE SAO FRANCISCO","https://servicodados.ibge.gov.br/api/v2/malhas/32?resolucao=3&formato=application/vnd.geo+json","32001"
-"NOVA VENECIA","NOVA VENECIA","https://servicodados.ibge.gov.br/api/v2/malhas/32?resolucao=3&formato=application/vnd.geo+json","32002"
-"ALEGRE","ALEGRE","https://servicodados.ibge.gov.br/api/v2/malhas/32?resolucao=3&formato=application/vnd.geo+json","32011"
-"GUARAPARI","GUARAPARI","https://servicodados.ibge.gov.br/api/v2/malhas/32?resolucao=3&formato=application/vnd.geo+json","32010"
-"COLATINA","COLATINA","https://servicodados.ibge.gov.br/api/v2/malhas/32?resolucao=3&formato=application/vnd.geo+json","32003"
-"CACHOEIRO DE ITAPEMIRIM","CACHOEIRO DE ITAPEMIRIM","https://servicodados.ibge.gov.br/api/v2/malhas/32?resolucao=3&formato=application/vnd.geo+json","32012"
-"LINHARES","LINHARES","https://servicodados.ibge.gov.br/api/v2/malhas/32?resolucao=3&formato=application/vnd.geo+json","32006"
-"VITORIA","VITORIA","https://servicodados.ibge.gov.br/api/v2/malhas/32?resolucao=3&formato=application/vnd.geo+json","32009"
-"SAO MATEUS","SAO MATEUS","https://servicodados.ibge.gov.br/api/v2/malhas/32?resolucao=3&formato=application/vnd.geo+json","32005"
-"SANTA TERESA","SANTA TERESA","https://servicodados.ibge.gov.br/api/v2/malhas/32?resolucao=3&formato=application/vnd.geo+json","32008"
-"ITAPEMIRIM","ITAPEMIRIM","https://servicodados.ibge.gov.br/api/v2/malhas/32?resolucao=3&formato=application/vnd.geo+json","32013"
-"MONTANHA","MONTANHA","https://servicodados.ibge.gov.br/api/v2/malhas/32?resolucao=3&formato=application/vnd.geo+json","32004"
-"BAIA DA ILHA GRANDE","BAIA DA ILHA GRANDE","https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json","33013"
-"SANTO ANTONIO DE PADUA","SANTO ANTONIO DE PADUA","https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json","33002"
-"LAGOS","LAGOS","https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json","33010"
-"TRES RIOS","TRES RIOS","https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json","33005"
-"BARRA DO PIRAI","BARRA DO PIRAI","https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json","33012"
-"VALE DO PARAIBA FLUMINENSE","VALE DO PARAIBA FLUMINENSE","https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json","33011"
-"RIO DE JANEIRO","RIO DE JANEIRO","https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json","33018"
-"NOVA FRIBURGO","NOVA FRIBURGO","https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json","33007"
-"ITAPERUNA","ITAPERUNA","https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json","33001"
-"MACACU-CACERIBU","MACACU-CACERIBU","https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json","33016"
-"CAMPOS DOS GOYTACAZES","CAMPOS DOS GOYTACAZES","https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json","33003"
-"CANTAGALO-CORDEIRO","CANTAGALO-CORDEIRO","https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json","33006"
-"MACAE","MACAE","https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json","33004"
-"BACIA DE SAO JOAO","BACIA DE SAO JOAO","https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json","33009"
-"VASSOURAS","VASSOURAS","https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json","33014"
-"ITAGUAI","ITAGUAI","https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json","33017"
-"SERRANA","SERRANA","https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json","33015"
-"SANTA MARIA MADALENA","SANTA MARIA MADALENA","https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json","33008"
-"ADAMANTINA","ADAMANTINA","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35035"
-"SAO JOSE DO RIO PRETO","SAO JOSE DO RIO PRETO","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35004"
-"PIRASSUNUNGA","PIRASSUNUNGA","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35029"
-"SAO JOAO DA BOA VISTA","SAO JOAO DA BOA VISTA","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35030"
-"AMPARO","AMPARO","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35033"
-"AVARE","AVARE","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35022"
-"PIRACICABA","PIRACICABA","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35028"
-"BAURU","BAURU","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35020"
-"ITAPETININGA","ITAPETININGA","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35042"
-"PRESIDENTE PRUDENTE","PRESIDENTE PRUDENTE","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35036"
-"BATATAIS","BATATAIS","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35015"
-"BIRIGUI","BIRIGUI","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35018"
-"SOROCABA","SOROCABA","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35046"
-"VOTUPORANGA","VOTUPORANGA","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35003"
-"MARILIA","MARILIA","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35038"
-"CAMPINAS","CAMPINAS","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35032"
-"ARARAQUARA","ARARAQUARA","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35024"
-"SAO CARLOS","SAO CARLOS","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35025"
-"ANDRADINA","ANDRADINA","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35016"
-"BOTUCATU","BOTUCATU","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35023"
-"GUARATINGUETA","GUARATINGUETA","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35051"
-"JALES","JALES","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35001"
-"CAPAO BONITO","CAPAO BONITO","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35044"
-"ARACATUBA","ARACATUBA","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35017"
-"ITUVERAVA","ITUVERAVA","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35011"
-"BANANAL","BANANAL","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35052"
-"LIMEIRA","LIMEIRA","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35027"
-"TUPA","TUPA","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35037"
-"CATANDUVA","CATANDUVA","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35005"
-"MOGI MIRIM","MOGI MIRIM","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35031"
-"GUARULHOS","GUARULHOS","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35059"
-"ASSIS","ASSIS","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35039"
-"BRAGANCA PAULISTA","BRAGANCA PAULISTA","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35048"
-"AURIFLAMA","AURIFLAMA","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35006"
-"ITAPEVA","ITAPEVA","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35041"
-"JAU","JAU","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35021"
-"REGISTRO","REGISTRO","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35055"
-"BARRETOS","BARRETOS","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35009"
-"RIBEIRAO PRETO","RIBEIRAO PRETO","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35014"
-"OSASCO","OSASCO","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35057"
-"JABOTICABAL","JABOTICABAL","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35013"
-"OURINHOS","OURINHOS","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35040"
-"SANTOS","SANTOS","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35063"
-"MOGI DAS CRUZES","MOGI DAS CRUZES","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35062"
-"TATUI","TATUI","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35043"
-"RIO CLARO","RIO CLARO","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35026"
-"SAO JOSE DOS CAMPOS","SAO JOSE DOS CAMPOS","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35050"
-"LINS","LINS","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35019"
-"FRANCO DA ROCHA","FRANCO DA ROCHA","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35058"
-"JUNDIAI","JUNDIAI","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35047"
-"CAMPOS DO JORDAO","CAMPOS DO JORDAO","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35049"
-"CARAGUATATUBA","CARAGUATATUBA","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35054"
-"ITAPECERICA DA SERRA","ITAPECERICA DA SERRA","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35060"
-"FRANCA","FRANCA","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35012"
-"PARAIBUNA/PARAITINGA","PARAIBUNA/PARAITINGA","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35053"
-"SAO PAULO","SAO PAULO","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35061"
-"DRACENA","DRACENA","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35034"
-"FERNANDOPOLIS","FERNANDOPOLIS","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35002"
-"SAO JOAQUIM DA BARRA","SAO JOAQUIM DA BARRA","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35010"
-"PIEDADE","PIEDADE","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35045"
-"NOVO HORIZONTE","NOVO HORIZONTE","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35008"
-"ITANHAEM","ITANHAEM","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35056"
-"NHANDEARA","NHANDEARA","https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json","35007"
-"CORNELIO PROCOPIO","CORNELIO PROCOPIO","https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json","41015"
-"CERRO AZUL","CERRO AZUL","https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json","41035"
-"RIO NEGRO","RIO NEGRO","https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json","41039"
-"CURITIBA","CURITIBA","https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json","41037"
-"GOIOERE","GOIOERE","https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json","41004"
-"UMUARAMA","UMUARAMA","https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json","41002"
-"PARANAVAI","PARANAVAI","https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json","41001"
-"PORECATU","PORECATU","https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json","41007"
-"CAPANEMA","CAPANEMA","https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json","41025"
-"CASCAVEL","CASCAVEL","https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json","41023"
-"ASTORGA","ASTORGA","https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json","41006"
-"PARANAGUA","PARANAGUA","https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json","41038"
-"SAO MATEUS DO SUL","SAO MATEUS DO SUL","https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json","41034"
-"APUCARANA","APUCARANA","https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json","41010"
-"JAGUARIAIVA","JAGUARIAIVA","https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json","41020"
-"IVAIPORA","IVAIPORA","https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json","41013"
-"CAMPO MOURAO","CAMPO MOURAO","https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json","41005"
-"ASSAI","ASSAI","https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json","41014"
-"TOLEDO","TOLEDO","https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json","41022"
-"JACAREZINHO","JACAREZINHO","https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json","41016"
-"FRANCISCO BELTRAO","FRANCISCO BELTRAO","https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json","41026"
-"UNIAO DA VITORIA","UNIAO DA VITORIA","https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json","41033"
-"PITANGA","PITANGA","https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json","41028"
-"FAXINAL","FAXINAL","https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json","41012"
-"PATO BRANCO","PATO BRANCO","https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json","41027"
-"LONDRINA","LONDRINA","https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json","41011"
-"GUARAPUAVA","GUARAPUAVA","https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json","41029"
-"PONTA GROSSA","PONTA GROSSA","https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json","41021"
-"WENCESLAU BRAZ","WENCESLAU BRAZ","https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json","41018"
-"FOZ DO IGUACU","FOZ DO IGUACU","https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json","41024"
-"CIANORTE","CIANORTE","https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json","41003"
-"PALMAS","PALMAS","https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json","41030"
-"IBAITI","IBAITI","https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json","41017"
-"FLORAI","FLORAI","https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json","41008"
-"PRUDENTOPOLIS","PRUDENTOPOLIS","https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json","41031"
-"TELEMACO BORBA","TELEMACO BORBA","https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json","41019"
-"IRATI","IRATI","https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json","41032"
-"LAPA","LAPA","https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json","41036"
-"MARINGA","MARINGA","https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json","41009"
-"CURITIBANOS","CURITIBANOS","https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json","42009"
-"XANXERE","XANXERE","https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json","42003"
-"ITUPORANGA","ITUPORANGA","https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json","42014"
-"RIO DO SUL","RIO DO SUL","https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json","42011"
-"JOACABA","JOACABA","https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json","42004"
-"CHAPECO","CHAPECO","https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json","42002"
-"TABULEIRO","TABULEIRO","https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json","42017"
-"CONCORDIA","CONCORDIA","https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json","42005"
-"SAO MIGUEL DO OESTE","SAO MIGUEL DO OESTE","https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json","42001"
-"TIJUCAS","TIJUCAS","https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json","42015"
-"CAMPOS DE LAGES","CAMPOS DE LAGES","https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json","42010"
-"FLORIANOPOLIS","FLORIANOPOLIS","https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json","42016"
-"BLUMENAU","BLUMENAU","https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json","42012"
-"JOINVILLE","JOINVILLE","https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json","42008"
-"ARARANGUA","ARARANGUA","https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json","42020"
-"TUBARAO","TUBARAO","https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json","42018"
-"ITAJAI","ITAJAI","https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json","42013"
-"CRICIUMA","CRICIUMA","https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json","42019"
-"CANOINHAS","CANOINHAS","https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json","42006"
-"SAO BENTO DO SUL","SAO BENTO DO SUL","https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json","42007"
-"CAMPANHA MERIDIONAL","CAMPANHA MERIDIONAL","https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json","43031"
-"PASSO FUNDO","PASSO FUNDO","https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json","43010"
-"RESTINGA SECA","RESTINGA SECA","https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json","43019"
-"IJUI","IJUI","https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json","43008"
-"SANTA ROSA","SANTA ROSA","https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json","43001"
-"CAMPANHA OCIDENTAL","CAMPANHA OCIDENTAL","https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json","43029"
-"CARAZINHO","CARAZINHO","https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json","43009"
-"FREDERICO WESTPHALEN","FREDERICO WESTPHALEN","https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json","43003"
-"CRUZ ALTA","CRUZ ALTA","https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json","43011"
-"MONTENEGRO","MONTENEGRO","https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json","43023"
-"PORTO ALEGRE","PORTO ALEGRE","https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json","43026"
-"SERRAS DE SUDESTE","SERRAS DE SUDESTE","https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json","43032"
-"GUAPORE","GUAPORE","https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json","43014"
-"CAXIAS DO SUL","CAXIAS DO SUL","https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json","43016"
-"CAMAQUA","CAMAQUA","https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json","43028"
-"ERECHIM","ERECHIM","https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json","43004"
-"LAJEADO-ESTRELA","LAJEADO-ESTRELA","https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json","43021"
-"PELOTAS","PELOTAS","https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json","43033"
-"OSORIO","OSORIO","https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json","43027"
-"SANTA CRUZ DO SUL","SANTA CRUZ DO SUL","https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json","43020"
-"SAO JERONIMO","SAO JERONIMO","https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json","43025"
-"JAGUARAO","JAGUARAO","https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json","43034"
-"TRES PASSOS","TRES PASSOS","https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json","43002"
-"SANANDUVA","SANANDUVA","https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json","43005"
-"SOLEDADE","SOLEDADE","https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json","43013"
-"VACARIA","VACARIA","https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json","43015"
-"SANTO ANGELO","SANTO ANGELO","https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json","43007"
-"SANTA MARIA","SANTA MARIA","https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json","43018"
-"CACHOEIRA DO SUL","CACHOEIRA DO SUL","https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json","43022"
-"CERRO LARGO","CERRO LARGO","https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json","43006"
-"GRAMADO-CANELA","GRAMADO-CANELA","https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json","43024"
-"SANTIAGO","SANTIAGO","https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json","43017"
-"LITORAL LAGUNAR","LITORAL LAGUNAR","https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json","43035"
-"NAO-ME-TOQUE","NAO-ME-TOQUE","https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json","43012"
-"CAMPANHA CENTRAL","CAMPANHA CENTRAL","https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json","43030"
-"TRES LAGOAS","TRES LAGOAS","https://servicodados.ibge.gov.br/api/v2/malhas/50?resolucao=3&formato=application/vnd.geo+json","50007"
-"ALTO TAQUARI","ALTO TAQUARI","https://servicodados.ibge.gov.br/api/v2/malhas/50?resolucao=3&formato=application/vnd.geo+json","50003"
-"DOURADOS","DOURADOS","https://servicodados.ibge.gov.br/api/v2/malhas/50?resolucao=3&formato=application/vnd.geo+json","50010"
-"AQUIDAUANA","AQUIDAUANA","https://servicodados.ibge.gov.br/api/v2/malhas/50?resolucao=3&formato=application/vnd.geo+json","50002"
-"NOVA ANDRADINA","NOVA ANDRADINA","https://servicodados.ibge.gov.br/api/v2/malhas/50?resolucao=3&formato=application/vnd.geo+json","50008"
-"IGUATEMI","IGUATEMI","https://servicodados.ibge.gov.br/api/v2/malhas/50?resolucao=3&formato=application/vnd.geo+json","50011"
-"PARANAIBA","PARANAIBA","https://servicodados.ibge.gov.br/api/v2/malhas/50?resolucao=3&formato=application/vnd.geo+json","50006"
-"CAMPO GRANDE","CAMPO GRANDE","https://servicodados.ibge.gov.br/api/v2/malhas/50?resolucao=3&formato=application/vnd.geo+json","50004"
-"BODOQUENA","BODOQUENA","https://servicodados.ibge.gov.br/api/v2/malhas/50?resolucao=3&formato=application/vnd.geo+json","50009"
-"CASSILANDIA","CASSILANDIA","https://servicodados.ibge.gov.br/api/v2/malhas/50?resolucao=3&formato=application/vnd.geo+json","50005"
-"BAIXO PANTANAL","BAIXO PANTANAL","https://servicodados.ibge.gov.br/api/v2/malhas/50?resolucao=3&formato=application/vnd.geo+json","50001"
-"ROSARIO OESTE","ROSARIO OESTE","https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json","51016"
-"CANARANA","CANARANA","https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json","51010"
-"ALTA FLORESTA","ALTA FLORESTA","https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json","51002"
-"ALTO ARAGUAIA","ALTO ARAGUAIA","https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json","51022"
-"NORTE ARAGUAIA","NORTE ARAGUAIA","https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json","51009"
-"ALTO PARAGUAI","ALTO PARAGUAI","https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json","51015"
-"MEDIO ARAGUAIA","MEDIO ARAGUAIA","https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json","51011"
-"TESOURO","TESOURO","https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json","51020"
-"JAURU","JAURU","https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json","51014"
-"ARIPUANA","ARIPUANA","https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json","51001"
-"ALTO PANTANAL","ALTO PANTANAL","https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json","51018"
-"TANGARA DA SERRA","TANGARA DA SERRA","https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json","51013"
-"PARECIS","PARECIS","https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json","51004"
-"PRIMAVERA DO LESTE","PRIMAVERA DO LESTE","https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json","51019"
-"CUIABA","CUIABA","https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json","51017"
-"SINOP","SINOP","https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json","51007"
-"COLIDER","COLIDER","https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json","51003"
-"ALTO GUAPORE","ALTO GUAPORE","https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json","51012"
-"RONDONOPOLIS","RONDONOPOLIS","https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json","51021"
-"PARANATINGA","PARANATINGA","https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json","51008"
-"ALTO TELES PIRES","ALTO TELES PIRES","https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json","51006"
-"ARINOS","ARINOS","https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json","51005"
-"GOIANIA","GOIANIA","https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json","52010"
-"ENTORNO DE BRASILIA","ENTORNO DE BRASILIA","https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json","52012"
-"VALE DO RIO DOS BOIS","VALE DO RIO DOS BOIS","https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json","52014"
-"ANICUNS","ANICUNS","https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json","52009"
-"MEIA PONTE","MEIA PONTE","https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json","52015"
-"PORANGATU","PORANGATU","https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json","52004"
-"CHAPADA DOS VEADEIROS","CHAPADA DOS VEADEIROS","https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json","52005"
-"VAO DO PARANA","VAO DO PARANA","https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json","52011"
-"IPORA","IPORA","https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json","52008"
-"ANAPOLIS","ANAPOLIS","https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json","52007"
-"CATALAO","CATALAO","https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json","52017"
-"SUDOESTE DE GOIAS","SUDOESTE DE GOIAS","https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json","52013"
-"ARAGARCAS","ARAGARCAS","https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json","52003"
-"RIO VERMELHO","RIO VERMELHO","https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json","52002"
-"CERES","CERES","https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json","52006"
-"QUIRINOPOLIS","QUIRINOPOLIS","https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json","52018"
-"PIRES DO RIO","PIRES DO RIO","https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json","52016"
-"SAO MIGUEL DO ARAGUAIA","SAO MIGUEL DO ARAGUAIA","https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json","52001"
-"BRASILIA","BRASILIA","https://servicodados.ibge.gov.br/api/v2/malhas/53?resolucao=3&formato=application/vnd.geo+json","53001"
+ADAMANTINA,ADAMANTINA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35035
+AFONSO CLAUDIO,AFONSO CLAUDIO,https://servicodados.ibge.gov.br/api/v2/malhas/32?resolucao=3&formato=application/vnd.geo+json,32007
+AGLOMERACAO URBANA DE SAO LUIS,AGLOMERACAO URBANA DE SAO LUIS,https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json,21002
+AGRESTE DE ITABAIANA,AGRESTE DE ITABAIANA,https://servicodados.ibge.gov.br/api/v2/malhas/28?resolucao=3&formato=application/vnd.geo+json,28004
+AGRESTE DE LAGARTO,AGRESTE DE LAGARTO,https://servicodados.ibge.gov.br/api/v2/malhas/28?resolucao=3&formato=application/vnd.geo+json,28006
+AGRESTE POTIGUAR,AGRESTE POTIGUAR,https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json,24015
+AIMORES,AIMORES,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31041
+ALAGOANA DO SERTAO DO SAO FRANCISCO,ALAGOANA DO SERTAO DO SAO FRANCISCO,https://servicodados.ibge.gov.br/api/v2/malhas/27?resolucao=3&formato=application/vnd.geo+json,27002
+ALAGOINHAS,ALAGOINHAS,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,29017
+ALEGRE,ALEGRE,https://servicodados.ibge.gov.br/api/v2/malhas/32?resolucao=3&formato=application/vnd.geo+json,32011
+ALFENAS,ALFENAS,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31049
+ALMEIRIM,ALMEIRIM,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,15003
+ALMENARA,ALMENARA,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31014
+ALTA FLORESTA,ALTA FLORESTA,https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json,51002
+ALTAMIRA,ALTAMIRA,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,15015
+ALTO ARAGUAIA,ALTO ARAGUAIA,https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json,51022
+ALTO CAPIBARIBE,ALTO CAPIBARIBE,https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json,26009
+ALTO GUAPORE,ALTO GUAPORE,https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json,51012
+ALTO MEARIM E GRAJAU,ALTO MEARIM E GRAJAU,https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json,21011
+ALTO MEDIO CANINDE,ALTO MEDIO CANINDE,https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json,22015
+ALTO MEDIO GURGUEIA,ALTO MEDIO GURGUEIA,https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json,22010
+ALTO PANTANAL,ALTO PANTANAL,https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json,51018
+ALTO PARAGUAI,ALTO PARAGUAI,https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json,51015
+ALTO PARNAIBA PIAUIENSE,ALTO PARNAIBA PIAUIENSE,https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json,22007
+ALTO SOLIMOES,ALTO SOLIMOES,https://servicodados.ibge.gov.br/api/v2/malhas/13?resolucao=3&formato=application/vnd.geo+json,13003
+ALTO TAQUARI,ALTO TAQUARI,https://servicodados.ibge.gov.br/api/v2/malhas/50?resolucao=3&formato=application/vnd.geo+json,50003
+ALTO TELES PIRES,ALTO TELES PIRES,https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json,51006
+ALVORADA D'OESTE,ALVORADA D'OESTE,https://servicodados.ibge.gov.br/api/v2/malhas/11?resolucao=3&formato=application/vnd.geo+json,11005
+AMAPA,AMAPA,https://servicodados.ibge.gov.br/api/v2/malhas/16?resolucao=3&formato=application/vnd.geo+json,16002
+AMPARO,AMPARO,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35033
+ANAPOLIS,ANAPOLIS,https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json,52007
+ANDRADINA,ANDRADINA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35016
+ANDRELANDIA,ANDRELANDIA,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31055
+ANGICOS,ANGICOS,https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json,24009
+ANICUNS,ANICUNS,https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json,52009
+APUCARANA,APUCARANA,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41010
+AQUIDAUANA,AQUIDAUANA,https://servicodados.ibge.gov.br/api/v2/malhas/50?resolucao=3&formato=application/vnd.geo+json,50002
+ARACAJU,ARACAJU,https://servicodados.ibge.gov.br/api/v2/malhas/28?resolucao=3&formato=application/vnd.geo+json,28011
+ARACATUBA,ARACATUBA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35017
+ARACUAI,ARACUAI,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31012
+ARAGARCAS,ARAGARCAS,https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json,52003
+ARAGUAINA,ARAGUAINA,https://servicodados.ibge.gov.br/api/v2/malhas/17?resolucao=3&formato=application/vnd.geo+json,17002
+ARAPIRACA,ARAPIRACA,https://servicodados.ibge.gov.br/api/v2/malhas/27?resolucao=3&formato=application/vnd.geo+json,27006
+ARARANGUA,ARARANGUA,https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json,42020
+ARARAQUARA,ARARAQUARA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35024
+ARARI,ARARI,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,15006
+ARARIPINA,ARARIPINA,https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json,26001
+ARAXA,ARAXA,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31023
+ARINOS,ARINOS,https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json,51005
+ARIPUANA,ARIPUANA,https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json,51001
+ARIQUEMES,ARIQUEMES,https://servicodados.ibge.gov.br/api/v2/malhas/11?resolucao=3&formato=application/vnd.geo+json,11003
+ASSAI,ASSAI,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41014
+ASSIS,ASSIS,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35039
+ASTORGA,ASTORGA,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41006
+AURIFLAMA,AURIFLAMA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35006
+AVARE,AVARE,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35022
+BACIA DE SAO JOAO,BACIA DE SAO JOAO,https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json,33009
+BAIA DA ILHA GRANDE,BAIA DA ILHA GRANDE,https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json,33013
+BAIXA VERDE,BAIXA VERDE,https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json,24013
+BAIXADA MARANHENSE,BAIXADA MARANHENSE,https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json,21005
+BAIXO COTINGUIBA,BAIXO COTINGUIBA,https://servicodados.ibge.gov.br/api/v2/malhas/28?resolucao=3&formato=application/vnd.geo+json,28010
+BAIXO CURU,BAIXO CURU,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,23009
+BAIXO JAGUARIBE,BAIXO JAGUARIBE,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,23023
+BAIXO PANTANAL,BAIXO PANTANAL,https://servicodados.ibge.gov.br/api/v2/malhas/50?resolucao=3&formato=application/vnd.geo+json,50001
+BAIXO PARNAIBA MARANHENSE,BAIXO PARNAIBA MARANHENSE,https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json,21013
+BAIXO PARNAIBA PIAUIENSE,BAIXO PARNAIBA PIAUIENSE,https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json,22001
+BANANAL,BANANAL,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35052
+BARBACENA,BARBACENA,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31059
+BARRA,BARRA,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,29006
+BARRA DE SAO FRANCISCO,BARRA DE SAO FRANCISCO,https://servicodados.ibge.gov.br/api/v2/malhas/32?resolucao=3&formato=application/vnd.geo+json,32001
+BARRA DO PIRAI,BARRA DO PIRAI,https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json,33012
+BARREIRAS,BARREIRAS,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,29001
+BARRETOS,BARRETOS,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35009
+BARRO,BARRO,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,23031
+BATALHA,BATALHA,https://servicodados.ibge.gov.br/api/v2/malhas/27?resolucao=3&formato=application/vnd.geo+json,27004
+BATATAIS,BATATAIS,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35015
+BATURITE,BATURITE,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,23013
+BAURU,BAURU,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35020
+BELEM,BELEM,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,15007
+BELO HORIZONTE,BELO HORIZONTE,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31030
+BERTOLINIA,BERTOLINIA,https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json,22008
+BICO DO PAPAGAIO,BICO DO PAPAGAIO,https://servicodados.ibge.gov.br/api/v2/malhas/17?resolucao=3&formato=application/vnd.geo+json,17001
+BIRIGUI,BIRIGUI,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35018
+BLUMENAU,BLUMENAU,https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json,42012
+BOA VISTA,BOA VISTA,https://servicodados.ibge.gov.br/api/v2/malhas/14?resolucao=3&formato=application/vnd.geo+json,14001
+BOCA DO ACRE,BOCA DO ACRE,https://servicodados.ibge.gov.br/api/v2/malhas/13?resolucao=3&formato=application/vnd.geo+json,13011
+BOCAIUVA,BOCAIUVA,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31009
+BODOQUENA,BODOQUENA,https://servicodados.ibge.gov.br/api/v2/malhas/50?resolucao=3&formato=application/vnd.geo+json,50009
+BOM DESPACHO,BOM DESPACHO,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31026
+BOM JESUS DA LAPA,BOM JESUS DA LAPA,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,29007
+BOQUIM,BOQUIM,https://servicodados.ibge.gov.br/api/v2/malhas/28?resolucao=3&formato=application/vnd.geo+json,28012
+BOQUIRA,BOQUIRA,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,29022
+BORBOREMA POTIGUAR,BORBOREMA POTIGUAR,https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json,24014
+BOTUCATU,BOTUCATU,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35023
+BRAGANCA PAULISTA,BRAGANCA PAULISTA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35048
+BRAGANTINA,BRAGANTINA,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,15010
+BRASILEIA,BRASILEIA,https://servicodados.ibge.gov.br/api/v2/malhas/12?resolucao=3&formato=application/vnd.geo+json,12005
+BRASILIA,BRASILIA,https://servicodados.ibge.gov.br/api/v2/malhas/53?resolucao=3&formato=application/vnd.geo+json,53001
+BREJO PARAIBANO,BREJO PARAIBANO,https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json,25015
+BREJO PERNAMBUCANO,BREJO PERNAMBUCANO,https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json,26012
+BREJO SANTO,BREJO SANTO,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,23033
+BRUMADO,BRUMADO,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,29027
+CACHOEIRA DO SUL,CACHOEIRA DO SUL,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,43022
+CACHOEIRO DE ITAPEMIRIM,CACHOEIRO DE ITAPEMIRIM,https://servicodados.ibge.gov.br/api/v2/malhas/32?resolucao=3&formato=application/vnd.geo+json,32012
+CACOAL,CACOAL,https://servicodados.ibge.gov.br/api/v2/malhas/11?resolucao=3&formato=application/vnd.geo+json,11006
+CAJAZEIRAS,CAJAZEIRAS,https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json,25002
+CAMAQUA,CAMAQUA,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,43028
+CAMETA,CAMETA,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,15011
+CAMPANHA CENTRAL,CAMPANHA CENTRAL,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,43030
+CAMPANHA MERIDIONAL,CAMPANHA MERIDIONAL,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,43031
+CAMPANHA OCIDENTAL,CAMPANHA OCIDENTAL,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,43029
+CAMPINA GRANDE,CAMPINA GRANDE,https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json,25017
+CAMPINAS,CAMPINAS,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35032
+CAMPO BELO,CAMPO BELO,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31045
+CAMPO GRANDE,CAMPO GRANDE,https://servicodados.ibge.gov.br/api/v2/malhas/50?resolucao=3&formato=application/vnd.geo+json,50004
+CAMPO MAIOR,CAMPO MAIOR,https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json,22004
+CAMPO MOURAO,CAMPO MOURAO,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41005
+CAMPOS DE LAGES,CAMPOS DE LAGES,https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json,42010
+CAMPOS DO JORDAO,CAMPOS DO JORDAO,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35049
+CAMPOS DOS GOYTACAZES,CAMPOS DOS GOYTACAZES,https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json,33003
+CANARANA,CANARANA,https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json,51010
+CANINDE,CANINDE,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,23012
+CANOINHAS,CANOINHAS,https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json,42006
+CANTAGALO-CORDEIRO,CANTAGALO-CORDEIRO,https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json,33006
+CAPANEMA,CAPANEMA,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41025
+CAPAO BONITO,CAPAO BONITO,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35044
+CAPELINHA,CAPELINHA,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31011
+CARACARAI,CARACARAI,https://servicodados.ibge.gov.br/api/v2/malhas/14?resolucao=3&formato=application/vnd.geo+json,14003
+CARAGUATATUBA,CARAGUATATUBA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35054
+CARATINGA,CARATINGA,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31040
+CARAZINHO,CARAZINHO,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,43009
+CARIRA,CARIRA,https://servicodados.ibge.gov.br/api/v2/malhas/28?resolucao=3&formato=application/vnd.geo+json,28002
+CARIRI,CARIRI,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,23032
+CARIRI OCIDENTAL,CARIRI OCIDENTAL,https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json,25010
+CARIRI ORIENTAL,CARIRI ORIENTAL,https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json,25011
+CARIRIACU,CARIRIACU,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,23030
+CASSILANDIA,CASSILANDIA,https://servicodados.ibge.gov.br/api/v2/malhas/50?resolucao=3&formato=application/vnd.geo+json,50005
+CASTANHAL,CASTANHAL,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,15008
+CATAGUASES,CATAGUASES,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31066
+CATALAO,CATALAO,https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json,52017
+CATANDUVA,CATANDUVA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35005
+CATOLE DO ROCHA,CATOLE DO ROCHA,https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json,25001
+CATU,CATU,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,29019
+CAXIAS,CAXIAS,https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json,21017
+CAXIAS DO SUL,CAXIAS DO SUL,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,43016
+CERES,CERES,https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json,52006
+CERRO AZUL,CERRO AZUL,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41035
+CERRO LARGO,CERRO LARGO,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,43006
+CHAPADA DO APODI,CHAPADA DO APODI,https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json,24002
+CHAPADA DO ARARIPE,CHAPADA DO ARARIPE,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,23029
+CHAPADA DOS VEADEIROS,CHAPADA DOS VEADEIROS,https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json,52005
+CHAPADAS DAS MANGABEIRAS,CHAPADAS DAS MANGABEIRAS,https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json,21021
+CHAPADAS DO ALTO ITAPECURU,CHAPADAS DO ALTO ITAPECURU,https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json,21018
+CHAPADAS DO EXTREMO SUL PIAUIENSE,CHAPADAS DO EXTREMO SUL PIAUIENSE,https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json,22012
+CHAPADINHA,CHAPADINHA,https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json,21014
+CHAPECO,CHAPECO,https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json,42002
+CHOROZINHO,CHOROZINHO,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,23014
+CIANORTE,CIANORTE,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41003
+COARI,COARI,https://servicodados.ibge.gov.br/api/v2/malhas/13?resolucao=3&formato=application/vnd.geo+json,13006
+CODO,CODO,https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json,21015
+COELHO NETO,COELHO NETO,https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json,21016
+COLATINA,COLATINA,https://servicodados.ibge.gov.br/api/v2/malhas/32?resolucao=3&formato=application/vnd.geo+json,32003
+COLIDER,COLIDER,https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json,51003
+COLORADO DO OESTE,COLORADO DO OESTE,https://servicodados.ibge.gov.br/api/v2/malhas/11?resolucao=3&formato=application/vnd.geo+json,11008
+CONCEICAO DO ARAGUAIA,CONCEICAO DO ARAGUAIA,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,15022
+CONCEICAO DO MATO DENTRO,CONCEICAO DO MATO DENTRO,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31028
+CONCORDIA,CONCORDIA,https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json,42005
+CONSELHEIRO LAFAIETE,CONSELHEIRO LAFAIETE,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31034
+COREAU,COREAU,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,23003
+CORNELIO PROCOPIO,CORNELIO PROCOPIO,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41015
+COTEGIPE,COTEGIPE,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,29002
+COTINGUIBA,COTINGUIBA,https://servicodados.ibge.gov.br/api/v2/malhas/28?resolucao=3&formato=application/vnd.geo+json,28008
+CRICIUMA,CRICIUMA,https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json,42019
+CRUZ ALTA,CRUZ ALTA,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,43011
+CRUZEIRO DO SUL,CRUZEIRO DO SUL,https://servicodados.ibge.gov.br/api/v2/malhas/12?resolucao=3&formato=application/vnd.geo+json,12001
+CUIABA,CUIABA,https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json,51017
+CURIMATAU OCIDENTAL,CURIMATAU OCIDENTAL,https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json,25012
+CURIMATAU ORIENTAL,CURIMATAU ORIENTAL,https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json,25013
+CURITIBA,CURITIBA,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41037
+CURITIBANOS,CURITIBANOS,https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json,42009
+CURVELO,CURVELO,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31025
+DIAMANTINA,DIAMANTINA,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31010
+DIANOPOLIS,DIANOPOLIS,https://servicodados.ibge.gov.br/api/v2/malhas/17?resolucao=3&formato=application/vnd.geo+json,17008
+DIVINOPOLIS,DIVINOPOLIS,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31043
+DOURADOS,DOURADOS,https://servicodados.ibge.gov.br/api/v2/malhas/50?resolucao=3&formato=application/vnd.geo+json,50010
+DRACENA,DRACENA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35034
+ENTORNO DE BRASILIA,ENTORNO DE BRASILIA,https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json,52012
+ENTRE RIOS,ENTRE RIOS,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,29018
+ERECHIM,ERECHIM,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,43004
+ESPERANCA,ESPERANCA,https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json,25014
+ESTANCIA,ESTANCIA,https://servicodados.ibge.gov.br/api/v2/malhas/28?resolucao=3&formato=application/vnd.geo+json,28013
+EUCLIDES DA CUNHA,EUCLIDES DA CUNHA,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,29014
+FAXINAL,FAXINAL,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41012
+FEIRA DE SANTANA,FEIRA DE SANTANA,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,29012
+FERNANDO DE NORONHA,FERNANDO DE NORONHA,https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json,26019
+FERNANDOPOLIS,FERNANDOPOLIS,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35002
+FLORAI,FLORAI,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41008
+FLORIANO,FLORIANO,https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json,22009
+FLORIANOPOLIS,FLORIANOPOLIS,https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json,42016
+FORMIGA,FORMIGA,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31044
+FORTALEZA,FORTALEZA,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,23016
+FOZ DO IGUACU,FOZ DO IGUACU,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41024
+FRANCA,FRANCA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35012
+FRANCISCO BELTRAO,FRANCISCO BELTRAO,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41026
+FRANCO DA ROCHA,FRANCO DA ROCHA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35058
+FREDERICO WESTPHALEN,FREDERICO WESTPHALEN,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,43003
+FRUTAL,FRUTAL,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31021
+FUROS DE BREVES,FUROS DE BREVES,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,15005
+GARANHUNS,GARANHUNS,https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json,26011
+GERAIS DE BALSAS,GERAIS DE BALSAS,https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json,21020
+GOIANIA,GOIANIA,https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json,52010
+GOIOERE,GOIOERE,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41004
+GOVERNADOR VALADARES,GOVERNADOR VALADARES,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31037
+GRAMADO-CANELA,GRAMADO-CANELA,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,43024
+GRAO MOGOL,GRAO MOGOL,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31008
+GUAJARA-MIRIM,GUAJARA-MIRIM,https://servicodados.ibge.gov.br/api/v2/malhas/11?resolucao=3&formato=application/vnd.geo+json,11002
+GUAMA,GUAMA,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,15013
+GUANAMBI,GUANAMBI,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,29026
+GUANHAES,GUANHAES,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31035
+GUAPORE,GUAPORE,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,43014
+GUARABIRA,GUARABIRA,https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json,25016
+GUARAPARI,GUARAPARI,https://servicodados.ibge.gov.br/api/v2/malhas/32?resolucao=3&formato=application/vnd.geo+json,32010
+GUARAPUAVA,GUARAPUAVA,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41029
+GUARATINGUETA,GUARATINGUETA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35051
+GUARULHOS,GUARULHOS,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35059
+IBAITI,IBAITI,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41017
+IBIAPABA,IBIAPABA,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,23002
+IGUATEMI,IGUATEMI,https://servicodados.ibge.gov.br/api/v2/malhas/50?resolucao=3&formato=application/vnd.geo+json,50011
+IGUATU,IGUATU,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,23026
+IJUI,IJUI,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,43008
+ILHEUS-ITABUNA,ILHEUS-ITABUNA,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,29031
+IMPERATRIZ,IMPERATRIZ,https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json,21009
+IPATINGA,IPATINGA,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31039
+IPORA,IPORA,https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json,52008
+IPU,IPU,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,23006
+IRATI,IRATI,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41032
+IRECE,IRECE,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,29009
+ITABAIANA,ITABAIANA,https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json,25018
+ITABERABA,ITABERABA,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,29011
+ITABIRA,ITABIRA,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31031
+ITACOATIARA,ITACOATIARA,https://servicodados.ibge.gov.br/api/v2/malhas/13?resolucao=3&formato=application/vnd.geo+json,13009
+ITAGUAI,ITAGUAI,https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json,33017
+ITAGUARA,ITAGUARA,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31032
+ITAITUBA,ITAITUBA,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,15014
+ITAJAI,ITAJAI,https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json,42013
+ITAJUBA,ITAJUBA,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31056
+ITAMARACA,ITAMARACA,https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json,26016
+ITANHAEM,ITANHAEM,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35056
+ITAPARICA,ITAPARICA,https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json,26006
+ITAPECERICA DA SERRA,ITAPECERICA DA SERRA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35060
+ITAPECURU MIRIM,ITAPECURU MIRIM,https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json,21006
+ITAPEMIRIM,ITAPEMIRIM,https://servicodados.ibge.gov.br/api/v2/malhas/32?resolucao=3&formato=application/vnd.geo+json,32013
+ITAPERUNA,ITAPERUNA,https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json,33001
+ITAPETINGA,ITAPETINGA,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,29029
+ITAPETININGA,ITAPETININGA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35042
+ITAPEVA,ITAPEVA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35041
+ITAPIPOCA,ITAPIPOCA,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,23008
+ITAPORANGA,ITAPORANGA,https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json,25006
+ITUIUTABA,ITUIUTABA,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31017
+ITUPORANGA,ITUPORANGA,https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json,42014
+ITUVERAVA,ITUVERAVA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35011
+IVAIPORA,IVAIPORA,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41013
+JABOTICABAL,JABOTICABAL,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35013
+JACAREZINHO,JACAREZINHO,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41016
+JACOBINA,JACOBINA,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,29010
+JAGUARAO,JAGUARAO,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,43034
+JAGUARIAIVA,JAGUARIAIVA,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41020
+JALAPAO,JALAPAO,https://servicodados.ibge.gov.br/api/v2/malhas/17?resolucao=3&formato=application/vnd.geo+json,17007
+JALES,JALES,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35001
+JANAUBA,JANAUBA,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31004
+JANUARIA,JANUARIA,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31003
+JAPARATUBA,JAPARATUBA,https://servicodados.ibge.gov.br/api/v2/malhas/28?resolucao=3&formato=application/vnd.geo+json,28009
+JAPURA,JAPURA,https://servicodados.ibge.gov.br/api/v2/malhas/13?resolucao=3&formato=application/vnd.geo+json,13002
+JAU,JAU,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35021
+JAURU,JAURU,https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json,51014
+JEQUIE,JEQUIE,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,29024
+JEREMOABO,JEREMOABO,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,29013
+JI-PARANA,JI-PARANA,https://servicodados.ibge.gov.br/api/v2/malhas/11?resolucao=3&formato=application/vnd.geo+json,11004
+JOACABA,JOACABA,https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json,42004
+JOAO PESSOA,JOAO PESSOA,https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json,25022
+JOINVILLE,JOINVILLE,https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json,42008
+JUAZEIRO,JUAZEIRO,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,29004
+JUIZ DE FORA,JUIZ DE FORA,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31065
+JUNDIAI,JUNDIAI,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35047
+JURUA,JURUA,https://servicodados.ibge.gov.br/api/v2/malhas/13?resolucao=3&formato=application/vnd.geo+json,13004
+LAGOS,LAGOS,https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json,33010
+LAJEADO-ESTRELA,LAJEADO-ESTRELA,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,43021
+LAPA,LAPA,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41036
+LAVRAS,LAVRAS,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31057
+LAVRAS DA MANGABEIRA,LAVRAS DA MANGABEIRA,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,23028
+LENCOIS MARANHENSES,LENCOIS MARANHENSES,https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json,21004
+LIMEIRA,LIMEIRA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35027
+LINHARES,LINHARES,https://servicodados.ibge.gov.br/api/v2/malhas/32?resolucao=3&formato=application/vnd.geo+json,32006
+LINS,LINS,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35019
+LITORAL DE ARACATI,LITORAL DE ARACATI,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,23022
+LITORAL DE CAMOCIM E ACARAU,LITORAL DE CAMOCIM E ACARAU,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,23001
+LITORAL LAGUNAR,LITORAL LAGUNAR,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,43035
+LITORAL NORDESTE,LITORAL NORDESTE,https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json,24016
+LITORAL NORTE,LITORAL NORTE,https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json,25020
+LITORAL NORTE ALAGOANO,LITORAL NORTE ALAGOANO,https://servicodados.ibge.gov.br/api/v2/malhas/27?resolucao=3&formato=application/vnd.geo+json,27010
+LITORAL OCIDENTAL MARANHENSE,LITORAL OCIDENTAL MARANHENSE,https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json,21001
+LITORAL PIAUIENSE,LITORAL PIAUIENSE,https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json,22002
+LIVRAMENTO DO BRUMADO,LIVRAMENTO DO BRUMADO,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,29025
+LONDRINA,LONDRINA,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41011
+MACACU-CACERIBU,MACACU-CACERIBU,https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json,33016
+MACAE,MACAE,https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json,33004
+MACAIBA,MACAIBA,https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json,24017
+MACAPA,MACAPA,https://servicodados.ibge.gov.br/api/v2/malhas/16?resolucao=3&formato=application/vnd.geo+json,16003
+MACAU,MACAU,https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json,24008
+MACEIO,MACEIO,https://servicodados.ibge.gov.br/api/v2/malhas/27?resolucao=3&formato=application/vnd.geo+json,27011
+MADEIRA,MADEIRA,https://servicodados.ibge.gov.br/api/v2/malhas/13?resolucao=3&formato=application/vnd.geo+json,13013
+MANAUS,MANAUS,https://servicodados.ibge.gov.br/api/v2/malhas/13?resolucao=3&formato=application/vnd.geo+json,13007
+MANHUACU,MANHUACU,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31061
+MANTENA,MANTENA,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31038
+MARABA,MARABA,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,15020
+MARILIA,MARILIA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35038
+MARINGA,MARINGA,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41009
+MATA ALAGOANA,MATA ALAGOANA,https://servicodados.ibge.gov.br/api/v2/malhas/27?resolucao=3&formato=application/vnd.geo+json,27009
+MATA MERIDIONAL PERNAMBUCANA,MATA MERIDIONAL PERNAMBUCANA,https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json,26015
+MATA SETENTRIONAL PERNAMBUCANA,MATA SETENTRIONAL PERNAMBUCANA,https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json,26013
+MAZAGAO,MAZAGAO,https://servicodados.ibge.gov.br/api/v2/malhas/16?resolucao=3&formato=application/vnd.geo+json,16004
+MEDIO ARAGUAIA,MEDIO ARAGUAIA,https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json,51011
+MEDIO CAPIBARIBE,MEDIO CAPIBARIBE,https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json,26010
+MEDIO CURU,MEDIO CURU,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,23011
+MEDIO JAGUARIBE,MEDIO JAGUARIBE,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,23024
+MEDIO MEARIM,MEDIO MEARIM,https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json,21010
+MEDIO OESTE,MEDIO OESTE,https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json,24003
+MEDIO PARNAIBA PIAUIENSE,MEDIO PARNAIBA PIAUIENSE,https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json,22005
+MEIA PONTE,MEIA PONTE,https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json,52015
+MERUOCA,MERUOCA,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,23004
+MIRACEMA DO TOCANTINS,MIRACEMA DO TOCANTINS,https://servicodados.ibge.gov.br/api/v2/malhas/17?resolucao=3&formato=application/vnd.geo+json,17003
+MOGI DAS CRUZES,MOGI DAS CRUZES,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35062
+MOGI MIRIM,MOGI MIRIM,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35031
+MONTANHA,MONTANHA,https://servicodados.ibge.gov.br/api/v2/malhas/32?resolucao=3&formato=application/vnd.geo+json,32004
+MONTENEGRO,MONTENEGRO,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,43023
+MONTES CLAROS,MONTES CLAROS,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31007
+MOSSORO,MOSSORO,https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json,24001
+MURIAE,MURIAE,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31063
+NANUQUE,NANUQUE,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31016
+NAO-ME-TOQUE,NAO-ME-TOQUE,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,43012
+NATAL,NATAL,https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json,24018
+NHANDEARA,NHANDEARA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35007
+NORDESTE DE RORAIMA,NORDESTE DE RORAIMA,https://servicodados.ibge.gov.br/api/v2/malhas/14?resolucao=3&formato=application/vnd.geo+json,14002
+NORTE ARAGUAIA,NORTE ARAGUAIA,https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json,51009
+NOSSA SENHORA DAS DORES,NOSSA SENHORA DAS DORES,https://servicodados.ibge.gov.br/api/v2/malhas/28?resolucao=3&formato=application/vnd.geo+json,28003
+NOVA ANDRADINA,NOVA ANDRADINA,https://servicodados.ibge.gov.br/api/v2/malhas/50?resolucao=3&formato=application/vnd.geo+json,50008
+NOVA FRIBURGO,NOVA FRIBURGO,https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json,33007
+NOVA VENECIA,NOVA VENECIA,https://servicodados.ibge.gov.br/api/v2/malhas/32?resolucao=3&formato=application/vnd.geo+json,32002
+NOVO HORIZONTE,NOVO HORIZONTE,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35008
+OBIDOS,OBIDOS,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,15001
+OIAPOQUE,OIAPOQUE,https://servicodados.ibge.gov.br/api/v2/malhas/16?resolucao=3&formato=application/vnd.geo+json,16001
+OLIVEIRA,OLIVEIRA,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31046
+OSASCO,OSASCO,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35057
+OSORIO,OSORIO,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,43027
+OURINHOS,OURINHOS,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35040
+OURO PRETO,OURO PRETO,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31033
+PACAJUS,PACAJUS,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,23017
+PAJEU,PAJEU,https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json,26003
+PALMAS,PALMAS,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41030
+PALMEIRA DOS INDIOS,PALMEIRA DOS INDIOS,https://servicodados.ibge.gov.br/api/v2/malhas/27?resolucao=3&formato=application/vnd.geo+json,27005
+PARA DE MINAS,PARA DE MINAS,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31029
+PARACATU,PARACATU,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31002
+PARAGOMINAS,PARAGOMINAS,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,15017
+PARAIBUNA/PARAITINGA,PARAIBUNA/PARAITINGA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35053
+PARANAGUA,PARANAGUA,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41038
+PARANAIBA,PARANAIBA,https://servicodados.ibge.gov.br/api/v2/malhas/50?resolucao=3&formato=application/vnd.geo+json,50006
+PARANATINGA,PARANATINGA,https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json,51008
+PARANAVAI,PARANAVAI,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41001
+PARAUAPEBAS,PARAUAPEBAS,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,15019
+PARECIS,PARECIS,https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json,51004
+PARINTINS,PARINTINS,https://servicodados.ibge.gov.br/api/v2/malhas/13?resolucao=3&formato=application/vnd.geo+json,13010
+PASSO FUNDO,PASSO FUNDO,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,43010
+PASSOS,PASSOS,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31047
+PATO BRANCO,PATO BRANCO,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41027
+PATOS,PATOS,https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json,25004
+PATOS DE MINAS,PATOS DE MINAS,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31020
+PATROCINIO,PATROCINIO,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31019
+PAU DOS FERROS,PAU DOS FERROS,https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json,24006
+PAULO AFONSO,PAULO AFONSO,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,29005
+PECANHA,PECANHA,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31036
+PEDRA AZUL,PEDRA AZUL,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31013
+PELOTAS,PELOTAS,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,43033
+PENEDO,PENEDO,https://servicodados.ibge.gov.br/api/v2/malhas/27?resolucao=3&formato=application/vnd.geo+json,27013
+PETROLINA,PETROLINA,https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json,26005
+PIANCO,PIANCO,https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json,25005
+PICOS,PICOS,https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json,22013
+PIEDADE,PIEDADE,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35045
+PINDARE,PINDARE,https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json,21008
+PIO IX,PIO IX,https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json,22014
+PIRACICABA,PIRACICABA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35028
+PIRAPORA,PIRAPORA,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31006
+PIRASSUNUNGA,PIRASSUNUNGA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35029
+PIRES DO RIO,PIRES DO RIO,https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json,52016
+PITANGA,PITANGA,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41028
+PIUI,PIUI,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31042
+POCOS DE CALDAS,POCOS DE CALDAS,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31051
+PONTA GROSSA,PONTA GROSSA,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41021
+PONTE NOVA,PONTE NOVA,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31060
+PORANGATU,PORANGATU,https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json,52004
+PORECATU,PORECATU,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41007
+PORTEL,PORTEL,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,15004
+PORTO ALEGRE,PORTO ALEGRE,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,43026
+PORTO FRANCO,PORTO FRANCO,https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json,21019
+PORTO NACIONAL,PORTO NACIONAL,https://servicodados.ibge.gov.br/api/v2/malhas/17?resolucao=3&formato=application/vnd.geo+json,17006
+PORTO SEGURO,PORTO SEGURO,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,29032
+PORTO VELHO,PORTO VELHO,https://servicodados.ibge.gov.br/api/v2/malhas/11?resolucao=3&formato=application/vnd.geo+json,11001
+POUSO ALEGRE,POUSO ALEGRE,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31052
+PRESIDENTE DUTRA,PRESIDENTE DUTRA,https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json,21012
+PRESIDENTE PRUDENTE,PRESIDENTE PRUDENTE,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35036
+PRIMAVERA DO LESTE,PRIMAVERA DO LESTE,https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json,51019
+PROPRIA,PROPRIA,https://servicodados.ibge.gov.br/api/v2/malhas/28?resolucao=3&formato=application/vnd.geo+json,28007
+PRUDENTOPOLIS,PRUDENTOPOLIS,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41031
+PURUS,PURUS,https://servicodados.ibge.gov.br/api/v2/malhas/13?resolucao=3&formato=application/vnd.geo+json,13012
+QUIRINOPOLIS,QUIRINOPOLIS,https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json,52018
+RECIFE,RECIFE,https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json,26017
+REDENCAO,REDENCAO,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,15021
+REGISTRO,REGISTRO,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35055
+RESTINGA SECA,RESTINGA SECA,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,43019
+RIBEIRA DO POMBAL,RIBEIRA DO POMBAL,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,29015
+RIBEIRAO PRETO,RIBEIRAO PRETO,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35014
+RIO BRANCO,RIO BRANCO,https://servicodados.ibge.gov.br/api/v2/malhas/12?resolucao=3&formato=application/vnd.geo+json,12004
+RIO CLARO,RIO CLARO,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35026
+RIO DE JANEIRO,RIO DE JANEIRO,https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json,33018
+RIO DO SUL,RIO DO SUL,https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json,42011
+RIO FORMOSO,RIO FORMOSO,https://servicodados.ibge.gov.br/api/v2/malhas/17?resolucao=3&formato=application/vnd.geo+json,17004
+RIO PRETO DA EVA,RIO PRETO DA EVA,https://servicodados.ibge.gov.br/api/v2/malhas/13?resolucao=3&formato=application/vnd.geo+json,13008
+RIO VERMELHO,RIO VERMELHO,https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json,52002
+RONDONOPOLIS,RONDONOPOLIS,https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json,51021
+ROSARIO,ROSARIO,https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json,21003
+ROSARIO OESTE,ROSARIO OESTE,https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json,51016
+SALGADO,SALGADO,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,15009
+SALGUEIRO,SALGUEIRO,https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json,26002
+SALINAS,SALINAS,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31005
+SALVADOR,SALVADOR,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,29021
+SANANDUVA,SANANDUVA,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,43005
+SANTA CRUZ DO SUL,SANTA CRUZ DO SUL,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,43020
+SANTA MARIA,SANTA MARIA,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,43018
+SANTA MARIA DA VITORIA,SANTA MARIA DA VITORIA,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,29003
+SANTA MARIA MADALENA,SANTA MARIA MADALENA,https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json,33008
+SANTA QUITERIA,SANTA QUITERIA,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,23007
+SANTA RITA DO SAPUCAI,SANTA RITA DO SAPUCAI,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31053
+SANTA ROSA,SANTA ROSA,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,43001
+SANTA TERESA,SANTA TERESA,https://servicodados.ibge.gov.br/api/v2/malhas/32?resolucao=3&formato=application/vnd.geo+json,32008
+SANTANA DO IPANEMA,SANTANA DO IPANEMA,https://servicodados.ibge.gov.br/api/v2/malhas/27?resolucao=3&formato=application/vnd.geo+json,27003
+SANTAREM,SANTAREM,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,15002
+SANTIAGO,SANTIAGO,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,43017
+SANTO ANGELO,SANTO ANGELO,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,43007
+SANTO ANTONIO DE JESUS,SANTO ANTONIO DE JESUS,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,29020
+SANTO ANTONIO DE PADUA,SANTO ANTONIO DE PADUA,https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json,33002
+SANTOS,SANTOS,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35063
+SAO BENTO DO SUL,SAO BENTO DO SUL,https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json,42007
+SAO CARLOS,SAO CARLOS,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35025
+SAO FELIX DO XINGU,SAO FELIX DO XINGU,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,15018
+SAO JERONIMO,SAO JERONIMO,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,43025
+SAO JOAO DA BOA VISTA,SAO JOAO DA BOA VISTA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35030
+SAO JOAO DEL REI,SAO JOAO DEL REI,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31058
+SAO JOAQUIM DA BARRA,SAO JOAQUIM DA BARRA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35010
+SAO JOSE DO RIO PRETO,SAO JOSE DO RIO PRETO,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35004
+SAO JOSE DOS CAMPOS,SAO JOSE DOS CAMPOS,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35050
+SAO LOURENCO,SAO LOURENCO,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31054
+SAO MATEUS,SAO MATEUS,https://servicodados.ibge.gov.br/api/v2/malhas/32?resolucao=3&formato=application/vnd.geo+json,32005
+SAO MATEUS DO SUL,SAO MATEUS DO SUL,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41034
+SAO MIGUEL DO ARAGUAIA,SAO MIGUEL DO ARAGUAIA,https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json,52001
+SAO MIGUEL DO OESTE,SAO MIGUEL DO OESTE,https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json,42001
+SAO MIGUEL DOS CAMPOS,SAO MIGUEL DOS CAMPOS,https://servicodados.ibge.gov.br/api/v2/malhas/27?resolucao=3&formato=application/vnd.geo+json,27012
+SAO PAULO,SAO PAULO,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35061
+SAO RAIMUNDO NONATO,SAO RAIMUNDO NONATO,https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json,22011
+SAO SEBASTIAO DO PARAISO,SAO SEBASTIAO DO PARAISO,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31048
+SAPE,SAPE,https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json,25021
+SEABRA,SEABRA,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,29023
+SENA MADUREIRA,SENA MADUREIRA,https://servicodados.ibge.gov.br/api/v2/malhas/12?resolucao=3&formato=application/vnd.geo+json,12003
+SENHOR DO BONFIM,SENHOR DO BONFIM,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,29008
+SERGIPANA DO SERTAO DO SAO FRANCISCO,SERGIPANA DO SERTAO DO SAO FRANCISCO,https://servicodados.ibge.gov.br/api/v2/malhas/28?resolucao=3&formato=application/vnd.geo+json,28001
+SERIDO OCIDENTAL,SERIDO OCIDENTAL,https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json,24011
+SERIDO OCIDENTAL PARAIBANO,SERIDO OCIDENTAL PARAIBANO,https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json,25008
+SERIDO ORIENTAL,SERIDO ORIENTAL,https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json,24012
+SERIDO ORIENTAL PARAIBANO,SERIDO ORIENTAL PARAIBANO,https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json,25009
+SERRA DE SANTANA,SERRA DE SANTANA,https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json,24010
+SERRA DE SAO MIGUEL,SERRA DE SAO MIGUEL,https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json,24005
+SERRA DO PEREIRO,SERRA DO PEREIRO,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,23025
+SERRA DO TEIXEIRA,SERRA DO TEIXEIRA,https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json,25007
+SERRANA,SERRANA,https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json,33015
+SERRANA DO SERTAO ALAGOANO,SERRANA DO SERTAO ALAGOANO,https://servicodados.ibge.gov.br/api/v2/malhas/27?resolucao=3&formato=application/vnd.geo+json,27001
+SERRANA DOS QUILOMBOS,SERRANA DOS QUILOMBOS,https://servicodados.ibge.gov.br/api/v2/malhas/27?resolucao=3&formato=application/vnd.geo+json,27008
+SERRAS DE SUDESTE,SERRAS DE SUDESTE,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,43032
+SERRINHA,SERRINHA,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,29016
+SERTAO DE CRATEUS,SERTAO DE CRATEUS,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,23018
+SERTAO DE INHAMUNS,SERTAO DE INHAMUNS,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,23020
+SERTAO DE QUIXERAMOBIM,SERTAO DE QUIXERAMOBIM,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,23019
+SERTAO DE SENADOR POMPEU,SERTAO DE SENADOR POMPEU,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,23021
+SERTAO DO MOXOTO,SERTAO DO MOXOTO,https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json,26004
+SETE LAGOAS,SETE LAGOAS,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31027
+SINOP,SINOP,https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json,51007
+SOBRAL,SOBRAL,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,23005
+SOLEDADE,SOLEDADE,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,43013
+SOROCABA,SOROCABA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35046
+SOUSA,SOUSA,https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json,25003
+SUAPE,SUAPE,https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json,26018
+SUDESTE DE RORAIMA,SUDESTE DE RORAIMA,https://servicodados.ibge.gov.br/api/v2/malhas/14?resolucao=3&formato=application/vnd.geo+json,14004
+SUDOESTE DE GOIAS,SUDOESTE DE GOIAS,https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json,52013
+TABULEIRO,TABULEIRO,https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json,42017
+TANGARA DA SERRA,TANGARA DA SERRA,https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json,51013
+TARAUACA,TARAUACA,https://servicodados.ibge.gov.br/api/v2/malhas/12?resolucao=3&formato=application/vnd.geo+json,12002
+TATUI,TATUI,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35043
+TEFE,TEFE,https://servicodados.ibge.gov.br/api/v2/malhas/13?resolucao=3&formato=application/vnd.geo+json,13005
+TELEMACO BORBA,TELEMACO BORBA,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41019
+TEOFILO OTONI,TEOFILO OTONI,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31015
+TERESINA,TERESINA,https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json,22003
+TESOURO,TESOURO,https://servicodados.ibge.gov.br/api/v2/malhas/51?resolucao=3&formato=application/vnd.geo+json,51020
+TIJUCAS,TIJUCAS,https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json,42015
+TOBIAS BARRETO,TOBIAS BARRETO,https://servicodados.ibge.gov.br/api/v2/malhas/28?resolucao=3&formato=application/vnd.geo+json,28005
+TOLEDO,TOLEDO,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41022
+TOME-ACU,TOME-ACU,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,15012
+TRAIPU,TRAIPU,https://servicodados.ibge.gov.br/api/v2/malhas/27?resolucao=3&formato=application/vnd.geo+json,27007
+TRES LAGOAS,TRES LAGOAS,https://servicodados.ibge.gov.br/api/v2/malhas/50?resolucao=3&formato=application/vnd.geo+json,50007
+TRES MARIAS,TRES MARIAS,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31024
+TRES PASSOS,TRES PASSOS,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,43002
+TRES RIOS,TRES RIOS,https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json,33005
+TUBARAO,TUBARAO,https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json,42018
+TUCURUI,TUCURUI,https://servicodados.ibge.gov.br/api/v2/malhas/15?resolucao=3&formato=application/vnd.geo+json,15016
+TUPA,TUPA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35037
+UBA,UBA,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31064
+UBERABA,UBERABA,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31022
+UBERLANDIA,UBERLANDIA,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31018
+UMARIZAL,UMARIZAL,https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json,24007
+UMBUZEIRO,UMBUZEIRO,https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json,25019
+UMUARAMA,UMUARAMA,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41002
+UNAI,UNAI,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31001
+UNIAO DA VITORIA,UNIAO DA VITORIA,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41033
+URUBURETAMA,URUBURETAMA,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,23010
+VACARIA,VACARIA,https://servicodados.ibge.gov.br/api/v2/malhas/43?resolucao=3&formato=application/vnd.geo+json,43015
+VALE DO ACU,VALE DO ACU,https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json,24004
+VALE DO IPANEMA,VALE DO IPANEMA,https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json,26007
+VALE DO IPOJUCA,VALE DO IPOJUCA,https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json,26008
+VALE DO PARAIBA FLUMINENSE,VALE DO PARAIBA FLUMINENSE,https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json,33011
+VALE DO RIO DOS BOIS,VALE DO RIO DOS BOIS,https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json,52014
+VALENCA,VALENCA,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,29030
+VALENCA DO PIAUI,VALENCA DO PIAUI,https://servicodados.ibge.gov.br/api/v2/malhas/22?resolucao=3&formato=application/vnd.geo+json,22006
+VAO DO PARANA,VAO DO PARANA,https://servicodados.ibge.gov.br/api/v2/malhas/52?resolucao=3&formato=application/vnd.geo+json,52011
+VARGINHA,VARGINHA,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31050
+VARZEA ALEGRE,VARZEA ALEGRE,https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,23027
+VASSOURAS,VASSOURAS,https://servicodados.ibge.gov.br/api/v2/malhas/33?resolucao=3&formato=application/vnd.geo+json,33014
+VICOSA,VICOSA,https://servicodados.ibge.gov.br/api/v2/malhas/31?resolucao=3&formato=application/vnd.geo+json,31062
+VILHENA,VILHENA,https://servicodados.ibge.gov.br/api/v2/malhas/11?resolucao=3&formato=application/vnd.geo+json,11007
+VITORIA,VITORIA,https://servicodados.ibge.gov.br/api/v2/malhas/32?resolucao=3&formato=application/vnd.geo+json,32009
+VITORIA DA CONQUISTA,VITORIA DA CONQUISTA,https://servicodados.ibge.gov.br/api/v2/malhas/29?resolucao=3&formato=application/vnd.geo+json,29028
+VITORIA DE SANTO ANTAO,VITORIA DE SANTO ANTAO,https://servicodados.ibge.gov.br/api/v2/malhas/26?resolucao=3&formato=application/vnd.geo+json,26014
+VOTUPORANGA,VOTUPORANGA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35003
+WENCESLAU BRAZ,WENCESLAU BRAZ,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41018
+XANXERE,XANXERE,https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json,42003
