@@ -548,3 +548,11 @@ VITORIA DE SANTO ANTAO,VITORIA DE SANTO ANTAO,https://servicodados.ibge.gov.br/a
 VOTUPORANGA,VOTUPORANGA,https://servicodados.ibge.gov.br/api/v2/malhas/35?resolucao=3&formato=application/vnd.geo+json,35003
 WENCESLAU BRAZ,WENCESLAU BRAZ,https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41018
 XANXERE,XANXERE,https://servicodados.ibge.gov.br/api/v2/malhas/42?resolucao=3&formato=application/vnd.geo+json,42003
+GURUPI(TO),GURUPI(TO),https://servicodados.ibge.gov.br/api/v2/malhas/17?resolucao=3&formato=application/vnd.geo+json,17005
+GURUPI(MA),GURUPI(MA),https://servicodados.ibge.gov.br/api/v2/malhas/21?resolucao=3&formato=application/vnd.geo+json,21007
+LITORAL SUL(RN),LITORAL SUL(RN),https://servicodados.ibge.gov.br/api/v2/malhas/24?resolucao=3&formato=application/vnd.geo+json,24019
+LITORAL SUL(PA),LITORAL SUL(PA),https://servicodados.ibge.gov.br/api/v2/malhas/25?resolucao=3&formato=application/vnd.geo+json,25023
+CASCAVEL(CE),CASCAVEL(CE),https://servicodados.ibge.gov.br/api/v2/malhas/23?resolucao=3&formato=application/vnd.geo+json,23015
+CASCAVEL(PN),CASCAVEL(PN),https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41023
+RIO NEGRO(AM),RIO NEGRO(AM),https://servicodados.ibge.gov.br/api/v2/malhas/13?resolucao=3&formato=application/vnd.geo+json,13001
+RIO NEGRO(PN),RIO NEGRO(PN),https://servicodados.ibge.gov.br/api/v2/malhas/41?resolucao=3&formato=application/vnd.geo+json,41039

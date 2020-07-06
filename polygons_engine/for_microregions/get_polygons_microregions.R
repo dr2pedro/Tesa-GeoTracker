@@ -1,12 +1,8 @@
 get_polygons.microregions <- 
-function(microregions, alias_list=NULL, delete_cache=TRUE, aggregate=TRUE, deal_double= NULL) {
+function(microregions, alias_list=NULL, double_list= NULL, delete_cache=TRUE, aggregate=TRUE) {
 
-# for microregions we have duplicated names. In this alias list is four:
-#"GURUPI","LITORAL SUL","RIO NEGRO","CASCAVEL".  To deal off it we need that the user
-# declare the geografic division above these microregions which his refers, however this 
-# processes only should triggers if some of the duplicated names appears, a way to deal with
-# it is to download both and exclude the one that is not desired, for that we need a param
-# that stores a array with the index numbers.
+# for microregions we have duplicated names. If some duplicated name appears in the array the function must
+# detect and suggest new names. These names must be on the alias_list in case the user agree and modify as said. 
 
       if(!require(geojsonio)) {
         install.packages("geojsonio")
@@ -21,8 +17,57 @@ function(microregions, alias_list=NULL, delete_cache=TRUE, aggregate=TRUE, deal_
   names <- toupper(unique(microregions))
   names <- stri_trans_general(str = names, id = "Latin-ASCII")
 
+  # Modifing the warning to include a stop in case some of these names are in the double_list.
+
   if(length(names)!=length(microregions))
   warning("There are repeated names in the array. This function will consider only the unique values.")
+  
+  # this list must contain the names of the duplicated microregions, the first option for tge new name and second option.
+  if(!is.null(double_list)){
+
+    if(is.data.frame(double_list)!=TRUE)
+    stop("The class of the object double_list is not a data.frame.")
+
+    double_list = double_list
+
+    if(is.character(double_list[,1]!=TRUE))
+    double_list[,1]=as.character(double_list[,1])
+
+    if(is.character(double_list[,2])!=TRUE)
+    double_list[,2]=as.character(double_list[,2])
+    
+    if(is.character(double_list[,3])!=TRUE)
+    double_list[,3]=as.character(double_list[,3])
+    
+    
+    if(any(microregions%in%double_list[,1])==TRUE)
+    stop(
+            paste(
+              "The following microregions \n\n",
+            microregions[microregions%in%double_list[,1]], 
+            "\n\n is in the list of duplicated names you should change to\n\n",
+            double_list[which(double_list[,1]%in%microregions),2], 'or\n\n',
+            double_list[which(double_list[,1]%in%microregions),3], '\n\n'
+            )
+          )
+      } else {
+        double_list <- read.csv('double_list.csv', header = FALSE)
+          
+          double_list[,1]=as.character(double_list[,1])
+          double_list[,2]=as.character(double_list[,2])
+          double_list[,3]=as.character(double_list[,3])
+
+          if(any(microregions%in%double_list[,1])==TRUE)
+    stop(
+            paste(
+              "The following microregions \n\n",
+            microregions[microregions%in%double_list[,1]], 
+            "\n\n is in the list of duplicated names you should change to\n\n",
+            double_list[which(double_list[,1]%in%microregions),2], 'or\n\n',
+            double_list[which(double_list[,1]%in%microregions),3],'\n\n'
+            )
+          )
+      }
 
 # Alias_list is a data.frame of names accepted to be inserted and that this function will return a spatial object.
 # In the first column you should put the name that could be written by anyone to refer a microregions, including 
@@ -33,7 +78,7 @@ function(microregions, alias_list=NULL, delete_cache=TRUE, aggregate=TRUE, deal_
       if(!is.null(alias_list)){
           
           if(is.data.frame(alias_list)!=TRUE)
-          stop("The class of the object is not data.frame.")
+          stop("The class of the object alias_list is not data.frame.")
 
           alias_list = alias_list
           
