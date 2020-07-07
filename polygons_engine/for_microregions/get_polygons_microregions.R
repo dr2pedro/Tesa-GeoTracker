@@ -103,6 +103,7 @@ function(microregions, alias_list=NULL, double_list= NULL, delete_cache=TRUE, ag
           )
           
           names <- alias_list[which(alias_list[,1]%in%names),2]
+          json_names <- alias_list[which(alias_list[,1]%in%names),4]
     } else {
           alias_list <- read.csv('alias_list.csv', header = FALSE)
           
@@ -122,6 +123,7 @@ function(microregions, alias_list=NULL, double_list= NULL, delete_cache=TRUE, ag
             )
           
           names <- alias_list[which(alias_list[,1]%in%names),2]
+          json_names <- alias_list[which(alias_list[,1]%in%names),4]
       }
   
  ## The slot to deal off the doubles names. 
@@ -135,10 +137,11 @@ function(microregions, alias_list=NULL, double_list= NULL, delete_cache=TRUE, ag
     setwd('./cache')
     
     links <- unique(alias_list[which(alias_list[,2]%in%names),3])
+    links_names <- unique(alias_list[which(alias_list[,2]%in%names),4])
     
     for(i in 1:length(links)) {
-      if(!paste0(names[i],'.json') %in% dir()) {
-            download.file(links[i], paste0(names[i],'.json'))
+      if(!paste0(links_names[i],'.json') %in% dir()) {
+            download.file(links[i], paste0(links_names[i],'.json'))
                   }
           }
     
@@ -148,9 +151,12 @@ function(microregions, alias_list=NULL, double_list= NULL, delete_cache=TRUE, ag
     setwd('./cache')
     
     links <- unique(alias_list[which(alias_list[,2]%in%names),3])
+    links_names <- unique(alias_list[which(alias_list[,2]%in%names),4])
     
-    for(i in 1:length(names)) {
-      download.file(links[i], paste0(names[i],'.json'))
+    for(i in 1:length(links)) {
+      if(!paste0(links_names[i],'.json') %in% dir()) {
+        download.file(links[i], paste0(links_names[i],'.json'))
+                   }
            }   
   
     }
@@ -166,7 +172,7 @@ function(microregions, alias_list=NULL, double_list= NULL, delete_cache=TRUE, ag
       for (i in 1:length(names)) {  
           
         assign(names[i],
-            geojson_read(paste0(names[i],'.json'), what = 'sp')@polygons[geojson_read(paste0(names[i],'.json'), what = 'sp')@data$codarea%in%alias_list[which(alias_list[,1]%in%names[i]),4]][[1]],
+            geojson_read(paste0(json_names[i],'.json'), what = 'sp')@polygons[geojson_read(paste0(json_names[i],'.json'), what = 'sp')@data$codarea%in%alias_list[which(alias_list[,1]%in%names[i]),5]][[1]],
             envir = .GlobalEnv)
         
         microregions_polygons[i] <- list(get(names[i]))
