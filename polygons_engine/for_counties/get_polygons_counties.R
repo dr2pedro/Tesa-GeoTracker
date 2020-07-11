@@ -46,8 +46,10 @@ function(counties, alias_list=NULL, double_list= NULL, delete_cache=TRUE, aggreg
               "The following counties \n\n",
             counties[counties%in%double_list[,1]], 
             "\n\n is in the list of duplicated names you should change to\n\n",
-            double_list[which(double_list[,1]%in%counties),2], 'or\n\n',
-            double_list[which(double_list[,1]%in%counties),3], '\n\n'
+            double_list[which(double_list[,1]%in%counties),2], '\n',
+            double_list[which(double_list[,1]%in%counties),3],'\n',
+            double_list[which(double_list[,1]%in%counties),4],'\n',
+            double_list[which(double_list[,1]%in%counties),5],'\n'
             )
           )
       } else {
@@ -63,8 +65,10 @@ function(counties, alias_list=NULL, double_list= NULL, delete_cache=TRUE, aggreg
               "The following counties \n\n",
             counties[counties%in%double_list[,1]], 
             "\n\n is in the list of duplicated names you should change to\n\n",
-            double_list[which(double_list[,1]%in%counties),2], 'or\n\n',
-            double_list[which(double_list[,1]%in%counties),3],'\n\n'
+            double_list[which(double_list[,1]%in%counties),2], '\n',
+            double_list[which(double_list[,1]%in%counties),3],'\n',
+            double_list[which(double_list[,1]%in%counties),4],'\n',
+            double_list[which(double_list[,1]%in%counties),5],'\n'
             )
           )
       }
