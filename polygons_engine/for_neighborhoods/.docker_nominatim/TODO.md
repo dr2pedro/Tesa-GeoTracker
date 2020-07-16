@@ -8,7 +8,7 @@ ToDo
 
 - [ ] Verificar se o postgresdata feito pelo `setup` na pasta `/data/postgresdata` foi sincronizado para o diretório default do Postgres `/var/lib/postgresql/12/main`;
 
-- [ ] Fazer na imagem um `--build-args` que insira em minísculo o nome da macroregião do Brasil, para se tornar multi-stage;
+- [X] Fazer na imagem um `--build-args` que insira em minísculo o nome da macroregião do Brasil, para se tornar multi-stage;
 
 - [ ] Inserir em um repositório separado;
 
