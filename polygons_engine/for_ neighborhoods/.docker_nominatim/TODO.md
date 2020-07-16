@@ -2,7 +2,7 @@
 
 ToDo
 
-- [*] Buildar a imagem já com o setup de algum osm.pbf feito e com o entrypoint no `start.sh` sem a necessidade de obrigatoriamente indexar um volume na linha de comando inserindo um `VOLUME` no `Dockerfile` da pasta source dos postgresdata;
+- [X] Buildar a imagem já com o setup de algum osm.pbf feito e com o entrypoint no `start.sh` sem a necessidade de obrigatoriamente indexar um volume na linha de comando inserindo um `VOLUME` no `Dockerfile` da pasta source dos postgresdata;
 
 - [X] Inserir os comentários no `Dockerfile` especificando quais processos estão sendo executados por comandos (alguns já vêm por padrão);
 

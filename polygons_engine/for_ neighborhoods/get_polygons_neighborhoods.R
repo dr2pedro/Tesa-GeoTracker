@@ -1,7 +1,25 @@
 
 get_polygons.neighborhoods <- 
-function(regioes, alias_list=NULL) {
+function(macroregions, places, exclude_places_list=FALSE, cache=FALSE) {
   
+# macroregions serão únicas e servirá para o primeiro loop que monta e desmonta a imagem do nominatim da região. 
+# dentro de cada regição a busca será:
+
+# localhost:8080/search.php?q=<nome do bairro>&format=geojson
+
+# no caso em que o usuário ache a seleção desejada, em todas as não selecionadas o "place_id" deve ser armazenado em um array,
+# que irá compor uma STRING separada por '%2C' e então o GET será novamente chamado incluindo um parâmetro de exclusão.
+
+# localhost:8080/search.php?q=<nome do bairro>&format=geojson&exclude_place_ids=<STRING>
+
+# esse último GET irá retornar o polígono desejado. 
+
+# Existem duas formas de cache para esse método: 
+# 1- salvar o JSON com o nome da cidade e do bairro em pastas de cache, diferente da API do IBGE isso pode ficar imenso.
+# 2- salvar uma exclude_places_list na primeira coluna registra o ID selecionado, na segunda a cidade e na terceira um array dos places excluídos.
+
+
+
   if(!require(jsonlite)) {
     install.packages("jsonlite")
   }
